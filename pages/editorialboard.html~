@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<!--
+Template Name: Wetwest
+Author: <a href="https://www.os-templates.com/">OS Templates</a>
+Author URI: https://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+-->
+<html lang="">
+<!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
+<head>
+<title>OJ-CSYS EDITORIAL BOARD</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="../layout/styles/layout-alternative.css" rel="stylesheet" type="text/css" media="all">
+  <style>
+    p {
+font-family: Formata, Helvetica, sans-serif;
+}
+.responsive {
+  width: 75%;
+  max-width: 300px;
+  height: auto;
+}
+p.uppercase {
+  text-transform: uppercase;
+}
+
+p.lowercase {
+  text-transform: lowercase;
+}
+
+p.capitalize {
+  text-transform: capitalize;
+}
+
+</style>
+
+</head>
+<body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row1">
+  <header id="header" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div id="logo" class="fl_left">
+      <p style = "font-size:32px;color:#00629B">
+	<a href="index.html">OJ-CSYS</a></p><br>
+      <p style = "font-size:14px;color:#00629B;line-height:50%">
+	  IEEE OPEN JOURNAL OF CONTROL SYSTEMS</p>
+    </div>
+    <div id="quickinfo" class="fl_right">
+      <p class="lowercase" style="font-size:13px;color:#00629B">
+      <a href="mailto:ojcsys@gmail.com">ojcsys@gmail.com</a></p>
+    </div>
+    <!-- ################################################################################################ -->
+  </header>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row4">
+  <nav id="mainav" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <ul class="clear">
+      <li><a href="../index.html">Home</a></li>
+      <li class="active"><a href="about.html">About</a>
+      <li><a class="drop" href="#">Editorial Board</a>
+        <ul>
+          <li><a href="editorialboard.html">Editorial Board</a></li>
+          <li><a href="editorinchief.html">Editor in Chief</a></li>
+          <li><a href="advisoryboard.html">Advisory Board</a></li>
+          <li><a href="senioreditors.html">Senior Editors</a></li>
+          <li><a href="associateeditors.html">Associate Editors</a></li>        
+        </ul>
+      </li>
+      <li><a class="drop" href="#">For Authors</a>
+        <ul>
+          <li><a href="forauthors.html">General Information</a></li>
+	  <li><a href="../files/OJ-CSYS Author Submission Guidelines 05-26-22.pdf" target="_blank">Guidelines for Authors</a></li>
+	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
+          <li><a href="faq.html">FAQ</a></li>
+	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
+        </ul>
+      </li>
+      <li><a class="drop" href="#">For Reviewers</a>
+        <ul>
+          <li><a href="forreviewers.html">General Information</a></li>
+	  <li><a href="../files/Reviewer-Guidelines-05-26-22.pdf" target="_blank">Guidelines for Reviewers</a></li>
+	  <li><a href="reviewers2022.html">2022 Reviewers</a></li>
+        </ul>
+      </li>
+      <li><a href="https://css.paperplaza.net/conferences/scripts/start.pl" target="_blank">Submit a Paper</a></li>
+      <li><a href="getinvolved.html">Get Involved</a></li>
+    </ul>
+    <!-- ################################################################################################ -->
+  </nav>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <main class="hoc container clear"> 
+    <!-- main body -->
+    <!-- ################################################################################################ -->
+    <div class="content"> 
+      <!-- ################################################################################################ -->
+      <div id="gallery">
+        <figure>
+          <ul class="nospace clear">
+            <li class="one_half first">
+          <p style = "font-size:20px;color:#00629B"><a href="editorinchief.html">OJ-CSYS Editor in Chief</a></p>
+	  <a href="https://orcid.org/0000-0001-6756-1484" target="_blank"><img src="../images/people/Martinez.jpg" alt="Prof. Sonia Martinez"></a><br><b>Sonia Martínez</b><br>University of California,<br> San Diego<br>
+	      <a href="mailto:soniamd@eng.ucsd.edu"><i class="fa fa-envelope-o"></i> Email</a><br>
+	      <a href="http://muro.ucsd.edu/sonia" target="_blank"><i class="fa fa-globe"></i> Website</i></a>
+       <br><a href="https://orcid.org/0000-0001-6756-1484"><img src="../images/orcid_icon.png"> ORCID</a>
+</li>
+<li class="one_quarter"></li>
+<li class="one_quarter last">
+            <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
+	    <hr>
+          <p>Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
+
+ <div align="right"><p style = "font-size:16px">GET IN CONTACT</P></div>
+<HR>	    
+        Jennifer Klam<br>
+        Editorial Assistant<br>
+        Open Journal of Control Systems<br>
+        <br>
+        Email: <a href="mailto: ojcsys@gmail.com">ojcsys@gmail.com</a><br><br>
+
+	<div align="right"><p style = "font-size:16px">IMPACT FACTOR</P></div>
+	<hr>
+	Impact factor to come
+
+
+      <!-- ################################################################################################ --> 
+</ul>
+</figure>
+</div>
+	<hr>
+   <!-- ################################################################################################ -->
+   <!-- ########################################################################################## -->
+
+      <!-- ################################################################################################ -->
+    
+    <div class="content"> 
+      <!-- ################################################################################################ -->
+      <div id="gallery">
+        <figure>
+          <p style = "font-size:20px;color:#00629B"><a href="advisoryboard.html">OJ-CSYS Advisory Board</a></p>
+          <ul class="nospace clear">
+            <li class="one_quarter first"><img src="../images/people/Alleyne.jpg" width="200" height="250"><br><b>Andrew G. Alleyne</b><br>
+	      University of Minnesota<br>
+	      <a href=" mailto:alleyne@umn.edu"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="https://cse.umn.edu/me/andrew-alleyne" target="_blank"><i class="fa fa-globe"></i></a>
+	      
+            <li class="one_quarter"><img src="../images/people/Annaswamy.jpg" width="200" height="200"><br><b>Anuradha Annaswamy</b><br>
+		Massachusetts Institute <br>
+		of Technology<br>
+		<a href="mailto:aanna@mit.edu"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+		<a href="http://meche.mit.edu/people/faculty/aanna%40mit.edu" target="_blank"><i class="fa fa-globe"></i></a>
+    	    <li class="one_quarter"><img src="../images/people/Tilbury.jpg" width="200" height="200"><br><b>Dawn Tilbury</b><br>University of Michigan<br>
+	      <a href="mailto:tilbury@umich.edu"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="http://www-personal.umich.edu/~tilbury/" target="_blank"><i class="fa fa-globe"></i></a>
+            <li class="one_quarter"><img src="../images/people/Pappas.jpeg" width="200" height="200"><br><b>George J. Pappas</b><br>University of Pennsylvania<br>
+	      <a href="mailto:pappasg@seas.upenn.edu"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="https://www.georgejpappas.org/" target="_blank"><i class="fa fa-globe"></i>
+
+		<li class="one_quarter first"><img src="../images/people/Lygeros.jpeg" width="200" height="200"><br><b>John Lygeros</b><br>ETH Zürich<br>
+		  <a href="mailto:lygeros@control.ee.ethz.ch"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+		  <a href="https://control.ee.ethz.ch/people/profile.john-lygeros.html/" target="_blank"><i class="fa fa-globe"></i></a>
+		<li class="one_quarter"><img src="../images/people/Spong.jpg" width="200" height="200"><br><b>Mark Spong</b><br>University of Texas,<br>
+		  Dallas<br>
+		  <a href="mailto:mspong@utdallas.edu"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+		  <a href="https://personal.utdallas.edu/~mspong/" target="_blank"><i class="fa fa-globe"></i></a>
+		<li class="one_quarter"><img src="../images/people/Basar.jpg" width="200" height="200"><br><b>Tamer Bașar</b><br>University of Illinois,<br>
+		  Urbana-Champaign<br>
+		  <a href="mailto:basar1@illinois.edu"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+		  <a href="http://tamerbasar.csl.illinois.edu/" target="_blank"><i class="fa fa-globe"></i></a>
+
+          </ul>
+        </figure>
+      </div>
+      <hr>
+      <!-- ################################################################################################ -->
+      <!-- ################################################################################################ -->
+            <div id="gallery">
+        <figure>
+          <p style = "font-size:20px;color:#00629B"><a href="senioreditors.html">OJ-CSYS Senior Editors</a></p>
+          <ul class="nospace clear">
+            <li class="one_quarter first"><img src="../images/people/Pavel.jpg" width="200" height="200"><br><b>Lacra Pavel</b><br>
+	      University of Toronto, Canada<br>
+	      <a href="mailto:pavel@control.toronto.edu"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="https://www.control.utoronto.ca/~pavel/" target="_blank"><i class="fa fa-globe"></i></a>
+            <li class="one_quarter"><img src="../images/people/Zhang.jpeg" width="200" height="200"><br><b>Wei Zhang</b><br>Southern University of Science<br>
+	      and Technology, China<br>
+	      <a href="mailto:zhangw3@sustech.edu.cn"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp <a href="https://www.wzhanglab.site/" target="_blank"><i class="fa fa-globe"></i></a>
+	  </ul>
+	</figure>
+	    </div>
+	    <hr>
+	    
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+	    <div id="gallery">
+        <figure>
+          <p style = "font-size:20px;color:#00629B"><a href="associateeditors.html">OJ-CSYS Associate Editors</a></p>
+          <ul class="nospace clear">
+            <li class="one_quarter first">
+	      <img src="../images/people/Alizadeh.png" width="200" height="200"><br><b>Manhoosh Alizadeh</b><br>University of California,<br>Santa Barbara<br>
+	      <a href="mailto:alizadeh@ucsb.edu"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>&nbsp&nbsp
+	      <a href="https://web.ece.ucsb.edu/~alizadeh/" target="_blank"><i class="fa fa-globe"></i></a>
+            <li class="one_quarter">
+	      <img src="../images/people/Briat.png" width="200" height="200"><br><b>Corentin Briat</b><br>ETH-Zurich<br>
+	      <a href="mailto:corentin@briat.info"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="https://www.briat.info" target="_blank"><i class="fa fa-globe"></i></a>
+
+	    <li class="one_quarter">
+	      <img src="../images/people/Canale.jpg" width="200" height="200"><br><b>Massimo Canale</b><br> Politecnico di Torino,<br> Italy<br>
+	      <a href="mailto:massimo.canale@polito.it"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="https://www.dauin.polito.it/personale/scheda/(nominativo)/massimo.canale" target="_blank"><i class="fa fa-globe"></i></a>
+
+	    <li class="one_quarter">
+	      <img src="../images/people/Chaves.jpg" width="200" height="200"><br><b>Madalena Chaves</b><br>Inria Sophia Antipolis<br>Mediterranean<br>France<br>
+	      <a href="mailto:madalena.chaves@inria.fr"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="https://www-sop.inria.fr/members/Madalena.Chaves/" target="_blank"><i class="fa fa-globe"></i></a>
+    <!-- ################################################################################################ ROW2 -->
+
+	    <li class="one_quarter first">
+	      <img src="../images/people/Fang.jpg"><br><b>Huazhen Fang</b><br>University of Kansas<br>
+	      <a href="mailto:fang@ku.edu"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="https://fang.ku.edu/" target="_blank"><i class="fa fa-globe"></i></a>
+
+	    <li class="one_quarter">
+	      <img src="../images/people/Iannelli.png"><br><b>Luigi Iannelli</b><br>University of Sannio, Italy<br>
+	      <a href="mailto:luigi.iannelli@unisannio.it"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="https://www.unisannio.it/index.php/en/user/540/contatti" target="_blank"><i class="fa fa-globe"></i></a>	      
+
+            <li class="one_quarter">
+	      <img src="../images/people/Jain.jpeg"><br><b>Neera Jain</b><br>Purdue University<br>
+	      <a href="mailto:neerajain@purdue.edu"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="https://engineering.purdue.edu/JainResearchLab/" target="_blank"><i class="fa fa-globe"></i></a>
+
+            <li class="one_quarter">
+	      <img src="../images/people/Kia.png"><br><b>Solmaz S. Kia</b><br>University of California,<br>Irvine<br>
+	      <a href="mailto:solmaz@uci.edu"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="http://solmaz.eng.uci.edu/" target="_blank"><i class="fa fa-globe"></i></a>
+
+    <!-- ################################################################################################ ROW3-->
+
+	    <li class="one_quarter first">
+	      <img src="../images/people/Ocampo.jpeg"><br><b>Carlos Ocampo-Martinez</b><br>Universitat Politècnica de<br>Catalunya, Spain<br>
+	      <a href="mailto:carlos.ocampo@upc.edu"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="http://www.iri.upc.edu/people/cocampo/" target="_blank"><i class="fa fa-globe"></i></a>
+
+	    <li class="one_quarter">
+	      <img src="../images/people/Oliveira.png"><br><b>Tiago Roux Oliveira</b><br>State University of Rio de Janeiro (UERJ)<br>
+	      <a href="mailto:tiagoroux@uerj.br"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="https://tiagoroux.com" target="_blank"><i class="fa fa-globe"></i></a>
+
+	    <li class="one_quarter">
+	      <img src="../images/people/Prabhakar.jpeg"><br><b>Pavithra Prabhakar</b><br>Kansas State University<br>
+	      <a href="mailto:pprabhakar@ksu.edu"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="http://people.cs.ksu.edu/~pprabhakar" target="_blank"><i class="fa fa-globe"></i></a>
+
+            <li class="one_quarter">
+	      <img src="../images/people/Reniers.jpg"><br><b>Michel Reniers</b><br>Eindhoven University of Technology<br>
+	      <a href="mailto:m.a.reniers@tue.nl"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="https://www.tue.nl/en/research/researchers/michel-reniers/" target="_blank"><i class="fa fa-globe"></i></a>
+   <!-- ################################################################################################ ROW 4-->
+	    <li class="one_quarter first">
+	      <img src="../images/people/Seiler.jpg"><br><b>Peter J. Seiler</b><br>University of Michigan<br>
+	      <a href="mailto:pseiler@umich.edu"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="https://seiler.engin.umich.edu/" target="_blank"><i class="fa fa-globe"></i></a>
+
+              	    <li class="one_quarter">
+		      <img src="../images/people/Smith.png"><br><b>Stephen Smith</b><br>University of Waterloo<br>Canada<br>
+		      <a href="mailto:var003@eng.ucsd.edu"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+		      <a href="https://ece.uwaterloo.ca/~sl2smith/" target="_blank"><i class="fa fa-globe"></i></a>
+	    <li class="one_quarter">
+	      <img src="../images/people/Sojoudi.jpg"><br><b>Somayeh Sojoudi</b><br>University of California,<br>Berkeley<br>
+	      <a href="mailto:sojoudi@berkeley.edu"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/sojoudi.html" target="_blank"><i class="fa fa-globe"></i></a>
+	    <li class="one_quarter">
+	      <img src="../images/people/Speranzon.jpeg"><b>Alberto Speranzon</b><br>Lockheed Martin<br>
+	      <a href="mailto:alberto.speranzon@gmail.com"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="https://albspe.github.io/" target="_blank"><i class="fa fa-globe"></i></a>	     
+    <!-- ################################################################################################ ROW5-->
+	    <li class="one_quarter first">
+	      <img src="../images/people/Tallapragada.jpg"><BR><b>Pavankumar Tallapragada</b><br>Indian Institute of<br>Science<br>India<br>
+	      <a href="mailto:pavant@iisc.ac.in"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="https://ee.iisc.ac.in/pavankumar-tallapragada/" target="_blank"><i class="fa fa-globe"></i></a>
+
+	    <li class="one_quarter">
+	      <img src="../images/people/WangG.jpg"><br><b>Gang Wang</b><br>Beijing Institute of Technology<br>
+	      <a href="mailto: gangwang@bit.edu.cn"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="https://pris.bit.edu.cn/home/people/OtherStaff/b185498.htm" target="_blank"><i class="fa fa-globe"></i></a>
+
+	    <li class="one_quarter">
+	      <img src="../images/people/WangY.png"><br><b>Yue Wang</b><br>Clemson University<br>
+	      <a href="mailto: yue6@clemson.edu"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="http://yue6.people.clemson.edu/" target="_blank"><i class="fa fa-globe"></i></a>
+	    <li class="one_quarter">
+	      <img src="../images/people/Yang.jpg"><br><b>Insoon Yang</b><br>Seoul National University<br>South Korea<br>
+	      <a href="mailto: insoonyang@snu.ac.kr"><i class="fa fa-envelope-o"></i></a>&nbsp&nbsp
+	      <a href="http://coregroup.snu.ac.kr/~yang/" target="_blank"><i class="fa fa-globe"></i></a>
+    <!-- ################################################################################################ ROW6-->
+	    <li class="one_quarter first">
+	      <img src="../images/people/Zhu.jpg"><br><b>Minghui Zhu</b><br>Pennsylvania State<br>University<br>
+	      <a href="mailto:muz16@psu.edu"><i class="fa fa-envelope-o" "dark"></i></a>&nbsp&nbsp
+	      <a href="http://php.scripts.psu.edu/muz16/index.php" target="_blank" target="_blank"><i class="fa fa-globe"></i></a>
+
+	      
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+	      <!-- / main body -->
+    <div class="clear"></div>
+  </main>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row4">
+  <footer id="footer" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div class="one_third first">
+        <p>The IEEE Open Journal of Control Systems’ main mission is the promotion of open access to all control systems research and education publications, including software, and data.</p>
+	<p>The journal is fully open and compliant with funder mandates, including Plan S.</p>
+      <ul class="faico clear">
+        <li><a class="faicon-facebook" href="https://www.facebook.com/OJ.CSYS"><i class="fa fa-facebook"></i></a></li>
+        <li><a class="faicon-twitter" href="https://twitter.com/IEEE_OJCSYS"><i class="fa fa-twitter"></i></a></li>
+      </ul>
+    </div>
+    <div class="one_third">
+      <h6 class="heading"> </h6>
+    </div>
+    <div class="one_third">
+      <p style = "font-size:16px">News</p>
+        <ul>
+          <li>Tools Papers submissions are now being accepted! Read more about the paper type in <a href="articletypes.html" target="_blank">Article Types</a></li>
+		<br>
+          <li>Upcoming Special Sections opening soon. Read more in <a href="specialsections.html">Special Sections.</a></li>
+      </div>
+    </div>
+    <!-- ################################################################################################ -->
+  </footer>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row5">
+  <div id="copyright" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <p class="fl_left">Copyright &copy; 2018 - All Rights Reserved - <a href="#">OJ-CSYS</a></p>
+    <p class="fl_right">Template by <a target="_blank" href="https://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+    <!-- ################################################################################################ -->
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="../layout/scripts/jquery.min.js"></script>
+<script src="../layout/scripts/jquery.backtotop.js"></script>
+<script src="../layout/scripts/jquery.mobilemenu.js"></script>
+</body>
+</html>

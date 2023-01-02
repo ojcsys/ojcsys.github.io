@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<!--
+Template Name: Wetwest
+Author: <a href="https://www.os-templates.com/">OS Templates</a>
+Author URI: https://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+-->
+<html lang="">
+<!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
+<head>
+  <style>
+    p.uppercase {
+  text-transform: uppercase;
+}
+
+p.lowercase {
+  text-transform: lowercase;
+}
+
+p.capitalize {
+  text-transform: capitalize;
+}
+</style>  
+<title>OJ-CSYS CodeOcean & IEEE DataPort</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="../layout/styles/layout-alternative.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row1">
+  <header id="header" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div id="logo" class="fl_left">
+      <p style = "font-size:32px;color:#0069A8">
+	<a href="../index.html">OJ-CSYS</a></p><br>
+      <p style = "font-size:14px;color:#0069A8;line-height:50%">
+	  IEEE OPEN JOURNAL OF CONTROL SYSTEMS</p>
+    </div>
+    <div id="quickinfo" class="fl_right">
+      <p class="lowercase" style="font-size:13px;color:#0069A8">
+      <a href="mailto:ojcsys@gmail.com">ojcsys@gmail.com</a></p>
+    </div>    <!-- ################################################################################################ -->
+  </header>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row4">
+  <nav id="mainav" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <ul class="clear">
+      <li><a href="../index.html">Home</a></li>
+      <li class="active"><a href="about.html">About</a>
+      <li><a class="drop" href="#">Editorial Board</a>
+        <ul>
+          <li><a href="editorialboard.html">Editorial Board</a></li>
+          <li><a href="editorinchief.html">Editor in Chief</a></li>
+          <li><a href="advisoryboard.html">Advisory Board</a></li>
+          <li><a href="senioreditors.html">Senior Editors</a></li>
+          <li><a href="associateeditors.html">Associate Editors</a></li>        
+        </ul>
+      </li>
+      <li><a class="drop" href="#">For Authors</a>
+        <ul>
+          <li><a href="forauthors.html">General Information</a></li>
+	  <li><a href="../files/OJ-CSYS Author Submission Guidelines 05-26-22.pdf" target="_blank">Guidelines for Authors</a></li>
+	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
+          <li><a href="faq.html">FAQ</a></li>
+	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
+        </ul>
+      </li>
+      <li><a class="drop" href="#">For Reviewers</a>
+        <ul>
+          <li><a href="forreviewers.html">General Information</a></li>
+	  <li><a href="../files/Reviewer-Guidelines-05-26-22.pdf" target="_blank">Guidelines for Reviewers</a></li>
+	  <li><a href="reviewers2022.html">2022 Reviewers</a></li>
+        </ul>
+      </li>
+      <li><a href="https://css.paperplaza.net/conferences/scripts/start.pl" target="_blank">Submit a Paper</a></li>
+      <li><a href="getinvolved.html">Get Involved</a></li>
+    </ul>
+    <!-- ################################################################################################ -->
+  </nav>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <main class="hoc container clear"> 
+    <!-- main body -->
+    <!-- ################################################################################################ -->
+    <div class="content three_quarter first"> 
+      <!-- ################################################################################################ -->
+	Code Ocean and IEEE DataPort&trade; are now available for authors of the IEEE Open Journal of Control Systems.
+
+      <p style = "font-size:24px;color:#00629B">Code Ocean</p>
+       <img class="imgl borderedbox inspace-5" src="../images/Code-Ocean-Blue.jpg" width="200" height="200" align+"bottom" alt="Code Ocean logo">
+	<p>Code Ocean aims to make the world's scientific code more open and reproducible by allowing authors to share their algorithms in a cloud-based, executable research platform. Uploading your algorithms and associated data files to the Code Ocean site is easy. Anyone can run an algorithm posted to Code Ocean, modify it, and test the modifications. The published algorithm that an author posts will remain unchanged.</p>Any author that has had an IEEE journal article published on IEEE Xplore in the past five years can upload associated algorithms to Code Ocean by visiting</p>
+	
+	<a href="https://codeocean.com/ieee/signup" target="_blank">https://codeocean.com/ieee/signup</a>
+	
+	<p>Once the algorithm is uploaded to Code Ocean, it will be automatically linked to the associated article in IEEE Xplore. Users in IEEE Xplore will be able to discover and access the link to run the algorithm in Code Ocean.</p>
+
+<p>View <a href="../codeoceaninstructions.html" target="_blank">instructions for Code Oceans submissions</a>.</p>
+
+	<p>Further information about using Code Ocean can be found at:</p>
+	<a href="https://help.codeocean.com" target="_blank">https://help.codeocean.com</a>
+
+      <p style = "font-size:24px;color:#00629B">IEEE DataPort&#8482;</p>
+<p><img class="imgr borderedbox inspace-5" src="../images/About-IEEE_DataPort.jpg" width="400" height="382" align+"bottom" alt="Code Ocean logo"></p>
+	<p>CSS authors now have an option to submit their research data to IEEE DataPort during the article submittal process and link the data to their submitted article.  This supports research reproducibility and enables the author to store and manage their research data.  If data is submitted and the article is published in Xplore, there will be a "Datasets Available" icon and a link to the dataset for Xplore readers.  Contact <a href="mailto:dataport@ieee.org">dataport@ieee.org</a> if you have questions about submitting your data.</p>
+
+     <p>IEEE DataPort serves as a valuable and easily accessible repository of datasets and data analysis tools. The repository is designed to accept all types of datasets, including Big Data datasets up to 2TB, and it provides both downloading capabilities and access to cloud services to enable data analysis in the cloud. IEEE DataPort is a universally accessible, web-based portal that serves four primary purposes:</p>
+
+     <ul>
+       <li>Enable individuals and institutions to make datasets easily accessible to a broad set of researchers, engineers and industry;</li>
+       <li>Enable researchers, engineers and industry to gain access to datasets that can be analyzed to advance technology;</li>
+       <li>Make data analysis tools and capabilities available to enable analysis of datasets;</li>
+       <li>Retain referenceable data for reproducible research.</li>
+     </ul>
+     
+
+      <!-- ################################################################################################ -->
+    </div>
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <div class="sidebar one_quarter"> 
+      <!-- ################################################################################################ -->
+      
+<div align="right"><p style = "font-size:16px">RESOURCES</P></div>
+	    <hr>
+      <nav>
+        <ul>
+          <li><a href="../pages/articletypes.html">Article Types</a></li>
+            </ul>
+        <ul>
+          <li><a href="../pages/specialsections.html">Special Sections</a></li>
+            </ul>
+        <ul>
+          <li><a href="../files/OJ-CSYS Author Submission Guidelines 05-26-22.pdf" target="_blank">Author Guidelines</a></li>
+            </ul>
+      </nav>
+<BR>
+      <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
+	    <hr>
+          <p>Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
+
+ <div align="right"><p style = "font-size:16px">GET IN CONTACT</P></div>
+<HR>	    
+        Jennifer Klam<br>
+        Editorial Assistant<br>
+        Open Journal of Control Systems<br>
+        <br>
+        Email: <a href="mailto: ojcsys@gmail.com">ojcsys@gmail.com</a><br><br>
+
+	<div align="right"><p style = "font-size:16px">IMPACT FACTOR</P></div>
+	<hr>
+Impact factor to come
+
+      <!-- ################################################################################################ -->
+    </div>
+    <!-- ################################################################################################ -->
+    <!-- / main body -->
+    <div class="clear"></div>
+  </main>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row2">
+  <footer id="footer" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div class="one_third first">
+        <p>The IEEE Open Journal of Control Systems’ main mission is the promotion of open access to all control systems research and education publications, including software, and data.</p>
+	<p>The journal is fully open and compliant with funder mandates, including Plan S.</p>
+      <ul class="faico clear">
+        <li><a class="faicon-facebook" href="https://www.facebook.com/OJ.CSYS"><i class="fa fa-facebook"></i></a></li>
+        <li><a class="faicon-twitter" href="https://twitter.com/IEEE_OJCSYS"><i class="fa fa-twitter"></i></a></li>
+      </ul>
+    </div>
+    <div class="one_third">
+      <h6 class="heading"> </h6>
+    </div>
+    <div class="one_third">
+      <p style = "font-size:16px">News</p>
+        <ul>
+          <li>Tools Papers submissions are now being accepted! Read more about the paper type in <a href="articletypes.html" target="_blank">Article Types</a></li>
+		<br>
+          <li>Upcoming Special Sections opening soon. Read more in <a href="specialsections.html">Special Sections.</a></li>
+      </div>
+    </div>
+    <!-- ################################################################################################ -->
+  </footer>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row5">
+  <div id="copyright" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <p class="fl_left">Copyright &copy; 2018 - All Rights Reserved - <a href="#">OJ-CSYS</a></p>
+    <p class="fl_right">Template by <a target="_blank" href="https://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+    <!-- ################################################################################################ -->
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="../layout/scripts/jquery.min.js"></script>
+<script src="../layout/scripts/jquery.backtotop.js"></script>
+<script src="../layout/scripts/jquery.mobilemenu.js"></script>
+</body>
+</html>

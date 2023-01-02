@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<!--
+Template Name: Wetwest
+Author: <a href="https://www.os-templates.com/">OS Templates</a>
+Author URI: https://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+-->
+<html>
+  <!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+.button {
+  background-color: #54b9ff;
+  border: none;
+  color: white;
+  padding: 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 4px;
+  cursor: pointer;
+}
+
+.button1 {border-radius: 12px;}
+.button2 {border-radius: 12px;}
+.button3 {border-radius: 12px;}
+.button4 {border-radius: 12px;}
+.button5 {border-radius: 12px;}
+    </style>
+    <style>
+table, th, td {
+  border: 1px whitesmoke;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 30px;
+}
+
+th, td {
+  background-color: whitesmoke;
+}
+
+p.uppercase {
+  text-transform: uppercase;
+}
+
+p.lowercase {
+  text-transform: lowercase;
+}
+
+p.capitalize {
+  text-transform: capitalize;
+}
+</style>
+    
+  <title>OJ-CSYS For Authors</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="../layout/styles/layout-alternative.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row1">
+  <header id="header" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+ <div id="logo" class="fl_left">
+      <p style = "font-size:32px;color:#00629B">
+	<a href="index.html">OJ-CSYS</a></p><br>
+      <p style = "font-size:14px;color:#00629B;line-height:50%">
+	  IEEE OPEN JOURNAL OF CONTROL SYSTEMS</p>
+    </div>
+    <div id="quickinfo" class="fl_right">
+      <p class="lowercase" style="font-size:13px;color:#00629B">
+      <a href="mailto:ojcsys@gmail.com">ojcsys@gmail.com</a></p>
+    </div>
+    <!-- ################################################################################################ -->
+  </header>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row4">
+  <nav id="mainav" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <ul class="clear">
+      <li><a href="../index.html">Home</a></li>
+      <li class="active"><a href="about.html">About</a>
+      <li><a class="drop" href="#">Editorial Board</a>
+        <ul>
+          <li><a href="editorialboard.html">Editorial Board</a></li>
+          <li><a href="editorinchief.html">Editor in Chief</a></li>
+          <li><a href="advisoryboard.html">Advisory Board</a></li>
+          <li><a href="senioreditors.html">Senior Editors</a></li>
+          <li><a href="associateeditors.html">Associate Editors</a></li>        
+        </ul>
+      </li>
+      <li><a class="drop" href="#">For Authors</a>
+        <ul>
+          <li><a href="forauthors.html">General Information</a></li>
+	  <li><a href="../files/OJ-CSYS Author Submission Guidelines 05-26-22.pdf" target="_blank">Guidelines for Authors</a></li>
+	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
+          <li><a href="faq.html">FAQ</a></li>
+	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
+        </ul>
+      </li>
+      <li><a class="drop" href="#">For Reviewers</a>
+        <ul>
+          <li><a href="forreviewers.html">General Information</a></li>
+	  <li><a href="../files/Reviewer-Guidelines-05-26-22.pdf" target="_blank">Guidelines for Reviewers</a></li>
+	  <li><a href="reviewers2022.html">2022 Reviewers</a></li>
+        </ul>
+      </li>
+      <li><a href="https://css.paperplaza.net/conferences/scripts/start.pl" target="_blank">Submit a Paper</a></li>
+      <li><a href="getinvolved.html">Get Involved</a></li>
+    </ul>
+    <!-- ################################################################################################ -->
+  </nav>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <main class="hoc container clear"> 
+    <!-- main body -->
+    <!-- ################################################################################################ -->
+    <div class="content three_quarter first"> 
+      <!-- ################################################################################################ -->
+      <p style = "font-size:24px;color:#00629B">Article Types & Requirements</p>
+        <p>The journal welcomes the submission of publications that can show how a variety of mathematical, statistical, computational and algorithmic techniques can be useful for the analysis and control of engineered, and natural systems. OJ-CSYS also welcomes the submission of papers that promote open access to all research, education, and data pertaining to dynamic systems and controls.</p>
+
+	  <p>The following article types can be currently submitted to the OJ-CSYS. Click on each link to understand the scope of the papers, and submission procedures.</p>
+
+	  <style>
+table, th, td 
+</style>
+<body>
+
+<button class="button button1" onclick="window.location.href='#regular_papers'">Regular Papers</button>
+<button class="button button2" onclick="window.location.href='#overview_paper_proposals'">Overview Papers</button>
+<button class="button button3" onclick="window.location.href='#position_proposals'">Position/Outlook Papers</button>
+<button class="button button4" onclick="window.location.href='#tools_papers'">Tools Papers</button>
+ <button class="button button5" onclick="window.location.href='#turnaround_time'">Turnaround Time</button>
+ <br><br><hr><br>	  
+
+
+<a id="regular_papers"><p style="font-size:24px;color:#00629B">Regular Papers</p></a>
+      <p>These are standard journal articles, presenting significant research on analysis relevant for dynamic control systems and/or applications. These papers can extend work presented at a previous conference. Papers should be written in as concise a manner as possible. </p>
+<p>Length: Twelve pages, not including references, or shorter. A paper longer than 12 pages may incur longer review times and require justification.<p><br>
+
+    <a id="overview_paper_proposals"><p style="font-size:24px;color:#00629B">Overview Paper Proposals</p></a>
+
+<p>These proposals are to discuss the importance and timeliness of a proposed overview paper topic and related subtopics. The senior editorial board will either encourage or discourage the authors from submitting a full overview paper ten weeks later. Only if encouraged, authors can submit a full overview paper that will be sent for further review.</p>
+  <p>The editorial board will evaluate overview paper proposals based on the proposal's breadth and timeliness, and the authors' depth of knowledge and recognized expertise in the proposed topic. An encouragement does not imply automatic acceptance of the full overview paper. </p>
+
+<p>Length: Six pages, including references. This is a strict required length.</p>  <br>
+
+  <a id="overview_papers"><p style="font-size:24px;color:#00629B">Overview Papers</p></a>  
+        <img class="imgr borderedbox inspace-5" src="../images/articletypes-circuit.jpg" alt="" width="250" height="188" align="bottom">
+   <p>Before submitting a full overview paper, authors should submit an overview paper proposal, which will be encouraged or discouraged for further development and submission. Overview papers are mostly survey papers, but with tutorial-like elements. As such, these papers should provide an introduction to the topic being surveyed, starting with key definitions and statements that allow a reader to get a clear grasp of the fundamental components of the area being reviewed. Taking this as a starting point, authors should provide an overview of techniques applied to address main questions in the area, describing pros and cons of an important subset of competing techniques with the goal of finding the limits to the state of the art. Overview papers can make more emphasis on one particular approach to solve a set of questions, but cannot fail to cite competing approaches, to provide the reader with a comprehensive view. As in a literature review, the cited references should give the reader clear information of what to find in the mentioned references.</p>
+  <p>Length: Twenty-five pages, not including references, or shorter. A paper longer than 25 pages may require longer review time and does require justification.</p>
+<br>	
+  <a id="position_proposals"> <p style="font-size:24px;color:#00629B">Position/Outlook Paper Proposal</p></a>
+         <p>Unsolicited position paper proposals may be submitted to the journal. In this proposal, the authors should indicate i) whether their paper is of technical type or of perspective type, ii) provide a solid motivation of why these types of problems are of interest, iii) concisely describe the issues and approaches that will be included in the paper. After this, the position paper will be either encouraged or discouraged for submission. The following criteria will be employed to encourage a position paper: a) the accredited knowledge/area of expertise/authority of at least one of the co-authors in the proposed area, b) the timeliness of the topic.</p>
+	 <p>Length: Six pages, including references. This is a strict required length. </p>
+<br>
+ <p style="font-size:24px;color:#00629B">Position/Outlook Papers</p></a>
+
+  <img class="imgl borderedbox inspace-5" src="../images/articletypes-gears.jpg" alt="" width="250" height="155" align="bottom">
+
+<p>  These are short papers presenting state-of-the-art assessments, future challenges, and offer new insights or resolutions in dynamic systems and controls. Each paper should strive to be accessible to a broad audience, but there are two possible styles for position papers:</p> 
+	<p>Technical: This paper advocates for a certain technical approach of the current research areas (and, the opposite, argue that a certain set of approaches are inadequate to do so). These papers need to be supported with technical arguments and evidence, providing critical overview of past research (quick state-of-the-art review), a short technical description of the proposed approach, and convincing arguments of why such approaches are the most promising. They can conclude with a technical commentary on current research activities and challenges in the area of interest. </p>
+	<p>Perspective: A perspective position paper can provide a personal analysis of a scientific problem in the area of Dynamic Systems and Controls. Broadly, a position paper can identify key research challenges or questions for the adoption of a control system technology, offer a personal perspective of these problems, and propose solutions to those stakeholders who can play an important role in this adoption (researchers, educators, regulatory agencies, social stakeholders). </p>
+	<p>Length: Three to six pages, not including references. A paper longer than six pages requires justification.</p>
+<br>
+
+ <a id="tools_papers"> <p style="font-size:24px;color:#00629B">Tools Papers</p></a>
+
+	  <p>Under this category of papers, authors can submit 1. tutorial-like papers describing new testbeds, software, data, and benchmark tests with appropriate links to these tools, and 2. report on the performance of control algorithms, as compared to others on benchmarking tests or other case studies with practical relevance.</p> 
+	  <figure class="imgr"><img class="imgr borderedbox inspace-5" src="../images/articletypes-network.jpeg" alt="" width="250" height="180" align="bottom"></figure>
+          <p>1.  Testbeds, software, data description papers: These submissions consist of i) a paper describing new accessible testbeds, software, benchmarking tests, and data, which should be of tutorial type. And ii) a link to the testbed, software, and/or corresponding data repository. </p> 
+	  <p>&nbsp;&nbsp;&nbsp;&#62; Testbeds and benchmark tests description: The paper should provide a clear description of the testbed elements, how it is built, how the testbed elements are integrated, what the requirements to access the testbed are, and what the capabilities of the testbed currently are, how to interface with the testbed, and usage support. Ideally, the testbed designers will include a set of benchmarking tests that can be used to validate and compare a variety of control algorithms. The tutorial should illustrate the usefulness and benefits of using the testbed by describing example test results, and evidence of testbed usage. Authors should also provide some data about testbed usage over time, success stories and challenges in experiments. Recommendations for future upgrades or challenges to overcome for the creation of new testbeds are also welcome. This is not a space for “selling” a particular product, but a space to describe how to access a testbed setting and how that testbed works. </p>
+ 	  <p>&nbsp;&nbsp;&nbsp;&#62; Open-access software description: This is the description of newly developed software and open-access software that has been developed by the authors. A comparison with similar software should be made, and arguments for the adoption of such software should be provided. For example, this can be done by including the results of software implementations and providing data about the usage of the software. The software should be first shared with reviewers via a link to a repository provided by the authors. Then, this repository should be permanently uploaded into the free IEEE Code Ocean. </p>
+	    <p>&nbsp;&nbsp;&nbsp;&#62; Dataset description: This is the description of a data set that has been obtained and made freely available by the authors. The data will be included in the IEEE DataPort free repository. The data can be synthetic or real data. If synthetic, the paper should describe how it was created in detail, and should make the case why this data is good enough to perform a given experiment. If real, the data should be completely anonymized. The paper should describe the data format, and how it can be imported and managed. It is not necessary to include a case study showcasing a data usage, but it would add value to the paper description. The data should be first shared with reviewers via a link to a repository provided by the authors. Then, this repository should be permanently uploaded into the free IEEE Data Port.</p>
+	  <p>2.  Research case-study outcomes: This is the report on the outcomes of a research study that is performed on a benchmarking test or a sophisticated simulation (high-fidelity, with hardware in the loop.)  Though encouraged, the data of the research case study does not have to be widely shared, but the authors have to be ready to disclose any amount of information and data that can be needed for reviewing purposes. These research case studies have to be of significant nature, with the goal of bringing the application of a control methodology closer to solving real-world problems. These papers should compare the benefits of a given methodology against an accepted baseline.</p>
+	  <p>Length: Twelve pages, not including references. Longer papers will require justification in the cover message.</p>
+	  <br>
+	  
+<table style="width:100%">
+  <tr>
+    <td>
+	 <p style="font-size:22px"><b>Turnaround Time</b></p>  
+	 <p>The OJ-CSYS strives for a short peer-review process that begins on the date of initial manuscript submission. For accepted papers, publication on IEEE Explore is estimated at 22 weeks after initial submission.</p>
+	  <p>To ensure a quicker turnaround time, after the initial round of review, OJ-CSYS papers may only be revised one time. We do not use the (major revision) decision type. We only use R (reject), AM (accept with minor revision), and A (accept).</p>
+	  </p>In case authors wish to do so, they can submit a new manuscript that has received an R decision due to a major revision being necessary. In this case, the review process will be restarted, and a response to the previous reviewers will have to be uploaded with the new submission.</p>
+  
+<p style="font-size:22px"><b>Coming Soon</b></p>
+          <p>In addition, future paper types and submission procedures will be announced soon for the following:</p>
+
+&nbsp; &#62; Outreach papers, education-in-controls case-study papers
+<br>&nbsp; &#62; R-articles
+<br>&nbsp; &#62; M-articles
+</td>
+  </tr>
+</table>
+
+	
+      <!-- ################################################################################################ -->
+    </div>
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <div class="sidebar one_quarter"> 
+      <!-- ################################################################################################ -->
+      
+<div align="right"><p style = "font-size:16px">RESOURCES</P></div>
+	    <hr>
+      <nav>
+        <ul>
+          <li><a href="articletypes.html">Article Types</a></li>
+            </ul>
+        <ul>
+          <li><a href="specialsections.html">Special Sections</a></li>
+            </ul>
+        <ul>
+          <li><a href="../files/OJ-CSYS Author Submission Guidelines 05-26-22.pdf" target="_blank">Author Guidelines</a></li>
+            </ul>
+      </nav>
+<BR>
+      <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
+	    <hr>
+          <p>Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
+
+ <div align="right"><p style = "font-size:16px">GET IN CONTACT</P></div>
+<HR>	    
+        Jennifer Klam<br>
+        Editorial Assistant<br>
+        Open Journal of Control Systems<br>
+        <br>
+        Email: <a href="mailto: ojcsys@gmail.com">ojcsys@gmail.com</a><br><br>
+
+	<div align="right"><p style = "font-size:16px">IMPACT FACTOR</P></div>
+	<hr>
+Impact factor to come
+
+      <!-- ################################################################################################ -->
+    </div>
+    <!-- ################################################################################################ -->
+    <!-- / main body -->
+    <div class="clear"></div>
+  </main>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row4">
+  <footer id="footer" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div class="one_third first">
+        <p>The IEEE Open Journal of Control Systems’ main mission is the promotion of open access to all control systems research and education publications, including software, and data.</p>
+	<p>The journal is fully open and compliant with funder mandates, including Plan S.</p>
+      <ul class="faico clear">
+        <li><a class="faicon-facebook" href="https://www.facebook.com/OJ.CSYS"><i class="fa fa-facebook"></i></a></li>
+        <li><a class="faicon-twitter" href="https://twitter.com/IEEE_OJCSYS"><i class="fa fa-twitter"></i></a></li>
+      </ul>
+    </div>
+    <div class="one_third">
+      <h6 class="heading"> </h6>
+    </div>
+    <div class="one_third">
+      <p style = "font-size:16px">News</p>
+        <ul>
+          <li>Tools Papers submissions are now being accepted! Read more about the paper type in <a href="articletypes.html" target="_blank">Article Types</a></li>
+		<br>
+          <li>Upcoming Special Sections opening soon. Read more in <a href="specialsections.html">Special Sections.</a></li>
+      </div>
+    </div>
+    <!-- ################################################################################################ -->
+  </footer>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row5">
+  <div id="copyright" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <p class="fl_left">Copyright &copy; 2018 - All Rights Reserved - <a href="#">OJ-CSYS</a></p>
+    <p class="fl_right">Template by <a target="_blank" href="https://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+    <!-- ################################################################################################ -->
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="../layout/scripts/jquery.min.js"></script>
+<script src="../layout/scripts/jquery.backtotop.js"></script>
+<script src="../layout/scripts/jquery.mobilemenu.js"></script>
+</body>
+</html>

@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<!--
+Template Name: Wetwest
+Author: <a href="https://www.os-templates.com/">OS Templates</a>
+Author URI: https://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+-->
+<html lang="">
+<!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
+<head>
+    <style>
+    p.uppercase {
+  text-transform: uppercase;
+}
+
+p.lowercase {
+  text-transform: lowercase;
+}
+
+p.capitalize {
+  text-transform: capitalize;
+}
+</style>
+
+<title>OJ-CSYS FAQ</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="../layout/styles/layout-alternative.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row1">
+  <header id="header" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div id="logo" class="fl_left">
+      <p style = "font-size:32px;color:#00629B">
+	<a href="index.html">OJ-CSYS</a></p><br>
+      <p style = "font-size:14px;color:#00629B;line-height:50%">
+	  IEEE OPEN JOURNAL OF CONTROL SYSTEMS</p>
+    </div>
+    <div id="quickinfo" class="fl_right">
+      <p class="lowercase" style="font-size:13px;color:#00629B">
+      <a href="mailto:ojcsys@gmail.com">ojcsys@gmail.com</a></p>
+    </div>
+    <!-- ################################################################################################ -->
+  </header>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row4">
+  <nav id="mainav" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <ul class="clear">
+      <li><a href="../index.html">Home</a></li>
+      <li class="active"><a href="about.html">About</a>
+      <li><a class="drop" href="#">Editorial Board</a>
+        <ul>
+          <li><a href="editorialboard.html">Editorial Board</a></li>
+          <li><a href="editorinchief.html">Editor in Chief</a></li>
+          <li><a href="advisoryboard.html">Advisory Board</a></li>
+          <li><a href="senioreditors.html">Senior Editors</a></li>
+          <li><a href="associateeditors.html">Associate Editors</a></li>        
+        </ul>
+      </li>
+      <li><a class="drop" href="#">For Authors</a>
+        <ul>
+          <li><a href="forauthors.html">General Information</a></li>
+	  <li><a href="../files/OJ-CSYS Author Submission Guidelines 05-26-22.pdf" target="_blank">Guidelines for Authors</a></li>
+	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
+          <li><a href="faq.html">FAQ</a></li>
+	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
+        </ul>
+      </li>
+      <li><a class="drop" href="#">For Reviewers</a>
+        <ul>
+          <li><a href="forreviewers.html">General Information</a></li>
+	  <li><a href="../files/Reviewer-Guidelines-05-26-22.pdf" target="_blank">Guidelines for Reviewers</a></li>
+	  <li><a href="reviewers2022.html">2022 Reviewers</a></li>
+        </ul>
+      </li>
+      <li><a href="https://css.paperplaza.net/conferences/scripts/start.pl" target="_blank">Submit a Paper</a></li>
+      <li><a href="getinvolved.html">Get Involved</a></li>
+    </ul>
+    <!-- ################################################################################################ -->
+  </nav>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <main class="hoc container clear"> 
+    <!-- main body -->
+    <!-- ################################################################################################ -->
+    <div class="content three_quarter first"> 
+      <!-- ################################################################################################ -->
+      <p style = "font-size:26px;color:#00629B">Frequently Asked Questions</p>
+	  <p>&#8226;&nbsp;<a href="#which_template">Which template do I use when submitting to the IEEE Open Journal of Control Systems (OJ-CSYS)?</a></p>
+
+	<p>&#8226;&nbsp;<a href="#page_limits">What are the page limits for (OJ-CSYS)?</a></p>
+
+	<p>&#8226;&nbsp;<a href="#how_long">How long does the review process take for OJ-CSYS?</a></p>
+
+	<p>&#8226;&nbsp;<a href="#special_section">If an article is submitted to a Special Section, how long does it take for it to complete peer review?</a></p>
+
+	<p>&#8226;&nbsp;<a href="#revise_resubmit">Does a Revise and Resubmit decision 'restart' the 24-week clock, or does the 24-week timeline include revisions? </a></p>
+
+	<p>&#8226;&nbsp;<a href="#arxiv">Can Authors post their manuscripts, submitted to OJ-CSYS, on a preprint server such as ArXiv? </a></p>
+
+	<p>&#8226;&nbsp;<a href="#conference">Can a paper that was published in the Proceedings of an IEEE conference be resubmitted to OJ-CSYS?</a></p>
+
+	<p>&#8226;&nbsp;<a href="#print_version">Will there be a print version of Open Journal of Control Systems?</a></p>
+
+	<p>&#8226;&nbsp;<a href="#apc">What is the APC (Article Processing Charge) for publication?</a></p>
+
+	<p>&#8226;&nbsp;<a href="#apc_discount">Can my APC be discounted or waived?</a></p>
+
+	<p>&#8226;&nbsp;<a href="#reviewers_response">How can I improve my responses to reviewers?</a></p>
+
+<br><hr>
+	<p><a id="which_template"><b>Which template do I use when submitting to OJ-CSYS?</b></a></p>
+<p>Manuscripts should be prepared in a double column, single-spaced format using a required IEEE OJ-CSYS template. You can find these templates 
+<a href="https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/templates-for-ieee-access/" target="_blank">here</a>.</p>
+
+<p align="right"><a href="#Top">Top</a></p>
+	<hr><br>
+<p><a id="page_limits"><b>What are the page limits for the IEEE Open Journal of Control Systems (OJ-CSYS)? </b></a></p>
+<p>Regular papers, or standard journal articles, should be no longer than 12 pages, not including references. A paper longer than 12 pages may incur longer review times and require justification.</p>
+<p>Overview paper proposals, which are proposals to discuss the importance and timeliness of a proposed overview paper topic and related subtopics, should be no longer than six pages, including references. This is a strict required length. </p>
+<p>Overview papers must be 25 pages, not including references, or shorter. A paper longer than 25 pages may require longer review time and does require justification.</p>
+<p>Unsolicited position paper proposals should be no longer than six pages, including references. This is a strict required length. </p>
+<p>Position/outlook papers should be three to six pages, not including references. A paper longer than six pages requires justification.</p>
+<p>Tools papers should be no longer than 12 pages, not including references. Longer papers will require justification in the cover message.</p>
+
+<p align="right"><a href="#Top">Top</a></p>
+
+	<hr><br>
+	<p><a id="how_long"><b>How long does the review process take for OJ-CSYS?</b></a></p>
+<p>On average, the OJ-CSYS review process takes 20 weeks from submission to an accept/reject decision notification. Submission to publication time typically takes 24 weeks.</p>
+
+
+	<p align="right"><a href="#Top">Top</a></p>
+	
+	<hr><br>
+	<p><a id="special_section"><b>If an article is submitted to a Special Section, how long does it take for it to complete peer review?</b></a></p>
+<p>The review time for an article submitted to a Special Section is the same as for any regular submission. On average, the review process takes 20 weeks from submission to accept/reject decision notification. Authors may submit their article to an "open" Special Section before the submission deadline.</p>
+	<p align="right"><a href="#Top">Top</a></p>
+
+	<hr><br>
+	<p><a id="revise_resubmit"><b>Does a Revise and Resubmit decision 'restart' the 24-week clock, or does the 24-week timeline include revisions? </b></a></p>
+<p>It includes revision, so the 24-week clock is between first submission and online publication in the case of acceptance.</p>
+<p align="right"><a href="#Top">Top</a></p>
+
+	<hr><br>
+	<p><a id="arxiv"><b>Can Authors post their manuscripts, submitted to OJ-CSYS, on a preprint server such as ArXiv?</b></a></p>
+<p>Yes. The IEEE recognizes that many authors share their unpublished manuscripts on public sites. Once manuscripts have been accepted for publication by IEEE, an author is required to post an IEEE copyright notice on his or her preprint. Upon publication, the author must replace the preprint with either 1) the full citation to the IEEE work with Digital Object Identifiers (DOI) or a link to the paper's abstract in IEEE Xplore, or 2) the accepted version only (not the IEEE-published version), including the IEEE copyright notice and full citation, with a link to the final, published paper in IEEE Xplore.</p>
+<p align="right"><a href="#Top">Top</a></p>
+
+	<hr><br>
+	<p><a id="conference"><b>Can a paper that was published in the Proceedings of an IEEE conference be resubmitted to OJ-CSYS?</b></a></p>
+<p>If a submitted manuscript has been published or has been accepted for publication in the Proceedings of an IEEE conference, it may be considered for publication if evidence is provided that it adds value relative to its conference version (for example, it contains detailed proofs omitted from the conference version, new material, and/or additional numerical results). </p>
+<p>If, at its time of submission, a manuscript has also been submitted for publication in the Proceedings of an IEEE conference, it will be considered for publication in the journal with the understanding that, should it be found publishable in both venues, evidence will be provided that its final version adds value relative to its conference version, as explained in the previous paragraph. Please refer to the CSS Policy for Overlap for further information. </p>
+
+<p align="right"><a href="#Top">Top</a></p>
+
+	<hr><br>
+	<p><a id="print_version"><b>Will there be a print version of Open Journal of Control Systems?</b></font></a></p>
+<p>No, OJ-CSYS does not publish printed issues, and only publishes through IEEE Xplore.</p>
+<p align="right"><a href="#Top">Top</a></p>
+
+	<hr><br>
+	<p><a id="apc"><b>What is the APC (Article Processing Charge) for publication?</b></a></p>
+<p>The article processing charge (APC) for articles submitted in 2022 is US$1,850 plus applicable local taxes. Please note that starting Jan. 1, 2023, the APC is US$1,950 plus applicable local taxes. </p>
+<p align="right"><a href="#Top">Top</a></p>
+
+	<hr><br>
+	<p><a id="apc_discount"><b>Can my APC be discounted or waived?</b></font></a></p>
+<p>Corresponding authors who are IEEE Members receive a 5% discount, and IEEE Society Members receive a 20% discount. The discounts cannot be combined and do not apply to undergraduate and graduate students.</p>
+
+<p>Corresponding authors from low-income countries (as classified by the World Bank) are eligible for discounts on article processing charges. For more information, please visit the <a href="https://journals.ieeeauthorcenter.ieee.org/choose-a-publishing-agreement/open-access-rights-management/" target="_blank">Author Center</a>. </p>
+
+<p>In addition, your institution may have established a transformative agreement with IEEE to pay APCs on your behalf. Please check with your institution’s library to find out whether an agreement is in place and for details. To view all the current IEEE Open Access Institutional Partners, click <a href="https://open.ieee.org/for-institutions/institutional-partners/" target="_blank">here</a>.</p>
+
+<p align="right"><a href="#Top">Top</a></p>
+
+	<hr><br>
+	<p><a id="reviewers_response"><b>How can I improve my responses to reviewers?</b></a></p>
+<p>Three tips from Authors@IEEE Newsletter: Volume 6, Issue 4, August 2021:</p>
+<b>1. Appreciate the opportunity to improve.</b> The reviewers and the editor have invested significant time in your article in order to help you improve it for the scientific community at large. Receiving a long list of suggested edits from reviewers may leave you feeling discouraged or defensive. Instead, consider the suggestions as opportunities to improve your article before publication. <br>
+<b>2. Respond to every comment.</b> Copy all of the reviewers’ suggestions from the decision letter into a new file and separate them into individual suggestions. This will be the basis for the response-to-reviewers document that you will submit along with your revised article. Read each suggestion carefully, implement the appropriate change in your article, and then explain your changes in the response document just below each suggestion. This will help the reviewers and the editor focus on the changes you have made. Keep your responses professional, factual, and concise. <br>
+If you disagree with a reviewer's suggestion, state this in the response document that you have not implemented the suggestion and provide your reason(s) for not doing so. The editor may accept your explanation. <br>
+<b>3. Read the article again before resubmitting.</b> Set aside the revised article and the response-to-reviewers document for a few days and then return and fully read both again. You may find additional edits when reading through the documents with fresh eyes. Resubmit to the journal once you are satisfied with the revised article and the response document.</p>
+
+<p align="right"><a href="#Top">Top</a></p>
+
+	
+<hr>
+      <!-- ################################################################################################ -->
+    </div>
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <div class="sidebar one_quarter"> 
+      <!-- ################################################################################################ -->
+      
+<div align="right"><p style = "font-size:16px">RESOURCES</P></div>
+	    <hr>
+      <nav>
+        <ul>
+          <li><a href="../pages/articletypes.html">Article Types</a></li>
+            </ul>
+        <ul>
+          <li><a href="../pages/specialsections.html">Special Sections</a></li>
+            </ul>
+        <ul>
+          <li><a href="../files/OJ-CSYS Author Submission Guidelines 05-26-22.pdf" target="_blank">Author Guidelines</a></li>
+            </ul>
+      </nav>
+<BR>
+      <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
+	    <hr>
+          <p>Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
+
+ <div align="right"><p style = "font-size:16px">GET IN CONTACT</P></div>
+<HR>	    
+        Jennifer Klam<br>
+        Editorial Assistant<br>
+        Open Journal of Control Systems<br>
+        <br>
+        Email: <a href="mailto: ojcsys@gmail.com">ojcsys@gmail.com</a><br><br>
+
+	<div align="right"><p style = "font-size:16px">IMPACT FACTOR</P></div>
+	<hr>
+Impact factor to come
+
+      <!-- ################################################################################################ -->
+    </div>
+    <!-- ################################################################################################ -->
+    <!-- / main body -->
+    <div class="clear"></div>
+  </main>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row4">
+  <footer id="footer" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div class="one_third first">
+        <p>The IEEE Open Journal of Control Systems’ main mission is the promotion of open access to all control systems research and education publications, including software, and data.</p>
+	<p>The journal is fully open and compliant with funder mandates, including Plan S.</p>
+      <ul class="faico clear">
+        <li><a class="faicon-facebook" href="https://www.facebook.com/OJ.CSYS"><i class="fa fa-facebook"></i></a></li>
+        <li><a class="faicon-twitter" href="https://twitter.com/IEEE_OJCSYS"><i class="fa fa-twitter"></i></a></li>
+      </ul>
+    </div>
+    <div class="one_third">
+      <h6 class="heading"> </h6>
+    </div>
+    <div class="one_third">
+      <p style = "font-size:16px">News</p>
+        <ul>
+          <li>Tools Papers submissions are now being accepted! Read more about the paper type in <a href="articletypes.html" target="_blank">Article Types</a></li>
+		<br>
+          <li>Upcoming Special Sections opening soon. Read more in <a href="specialsections.html">Special Sections.</a></li>
+      </div>
+    </div>
+    <!-- ################################################################################################ -->
+  </footer>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row5">
+  <div id="copyright" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <p class="fl_left">Copyright &copy; 2018 - All Rights Reserved - <a href="#">OJ-CSYS</a></p>
+    <p class="fl_right">Template by <a target="_blank" href="https://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+    <!-- ################################################################################################ -->
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="../layout/scripts/jquery.min.js"></script>
+<script src="../layout/scripts/jquery.backtotop.js"></script>
+<script src="../layout/scripts/jquery.mobilemenu.js"></script>
+</body>
+</html>

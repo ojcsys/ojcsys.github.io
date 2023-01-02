@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<!--
+Template Name: Wetwest
+Author: <a href="https://www.os-templates.com/">OS Templates</a>
+Author URI: https://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+-->
+<html lang="">
+<!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
+<head>
+    <style>
+    p.uppercase {
+  text-transform: uppercase;
+}
+
+p.lowercase {
+  text-transform: lowercase;
+}
+
+p.capitalize {
+  text-transform: capitalize;
+}
+</style>
+
+<title>OJ-CSYS For Authors</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="../layout/styles/layout-alternative.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row1">
+  <header id="header" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div id="logo" class="fl_left">
+      <p style = "font-size:32px;color:#0069A8">
+	<a href="../index.html">OJ-CSYS</a></p><br>
+      <p style = "font-size:14px;color:#0069A8;line-height:50%">
+	  IEEE OPEN JOURNAL OF CONTROL SYSTEMS</p>
+    </div>
+    <div id="quickinfo" class="fl_right">
+      <p class="lowercase" style="font-size:13px;color:#0069A8">
+      <a href="mailto:ojcsys@gmail.com">ojcsys@gmail.com</a></p>
+    </div>    <!-- ################################################################################################ -->
+  </header>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row4">
+  <nav id="mainav" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <ul class="clear">
+      <li><a href="../index.html">Home</a></li>
+      <li class="active"><a href="about">About</a>
+      <li><a class="drop" href="#">Editorial Board</a>
+        <ul>
+          <li><a href="editorialboard.html">Editorial Board</a></li>
+          <li><a href="editorinchief.html">Editor in Chief</a></li>
+          <li><a href="advisoryboard.html">Advisory Board</a></li>
+          <li><a href="senioreditors.html">Senior Editors</a></li>
+          <li><a href="associateeditors.html">Associate Editors</a></li>        
+        </ul>
+      </li>
+      <li><a class="drop" href="#">For Authors</a>
+        <ul>
+          <li><a href="forauthors.html">General Information</a></li>
+	  <li><a href="../files/OJ-CSYS Author Submission Guidelines 05-26-22.pdf" target="_blank">Guidelines for Authors</a></li>
+	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
+          <li><a href="faq.html">FAQ</a></li>
+	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
+        </ul>
+      </li>
+      <li><a class="drop" href="#">For Reviewers</a>
+        <ul>
+          <li><a href="forreviewers.html">General Information</a></li>
+	  <li><a href="../files/Reviewer-Guidelines-05-26-22.pdf" target="_blank">Guidelines for Reviewers</a></li>
+	  <li><a href="reviewers2022.html">2022 Reviewers</a></li>
+        </ul>
+      </li>
+      <li><a href="https://css.paperplaza.net/conferences/scripts/start.pl" target="_blank">Submit a Paper</a></li>
+      <li><a href="getinvolved.html">Get Involved</a></li>
+    </ul>
+    <!-- ################################################################################################ -->
+  </nav>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <main class="hoc container clear"> 
+    <!-- main body -->
+    <!-- ################################################################################################ -->
+    <div class="content three_quarter first"> 
+      <!-- ################################################################################################ -->
+      <p style = "font-size:24px;line-height:125%;color:#0069A8">Formal Verification and Synthesis of Cyber-Physical Systems</p>
+      <p><b>Editor:</b> Majid Zamani<br>
+University of Colorado, Boulder<br>
+<a href="https://sites.google.com/site/zamani1362/home" target="_blank">https://sites.google.com/site/zamani1362/home</a><br>
+<a href="mailto:Majid.Zamani@colorado.edu">Majid.Zamani@colorado.edu</a></p>
+      <p><b>Submission Window:</b> 15 Sept 2022 – 15 March 2023</p>
+
+      <p>Cyber-Physical Systems (CPSs) are complex systems resulting from intricate interactions of computational devices with the physical plants. Recent advances in device manufacturing, computation, and storage have made tremendous advances in hardware and systems platforms for CPSs. With this growing trend in computational devices, CPSs are becoming more and more ubiquitous with many safety-critical applications including autonomous transportations, robot-assisted surgery, medical devices such artificial pancreas, smart manufacturing, smart buildings, etc. Unfortunately, the analysis and design of CPSs nowadays are still based on ad-hoc solutions sought by simply taking the union of the classical techniques in control theory and computer science. This results in error-prone analysis or design, and very high testing and validation costs. Formal-methods based approach to CPS design recommends rigorous requirement specification in every stage of the system development. Formal verification and controller synthesis are two leading approaches to provide correctness guarantees for CPS with respect to such requirements. While formal verification aims at providing a proof of correctness with respect to the given specifications, the goal of the controller synthesis approach is more ambitious: it takes a control system together with the specification and produces a controller such that the resulting closed-loop satisfies the specification. This special section aims to contribute to the growing area of formal methods for CPS and calls thus for papers in this topical area. </p>
+      <p><b>Topics of interest for this special issue include and are not limited to:</b></p>
+      <p>&nbsp; &#62; Foundations of CPS<br>
+	&nbsp; &#62; Analysis, verification, and validation<br>
+	&nbsp; &#62; Design, synthesis, planning, and control<br>
+	&nbsp; &#62; Network science and network-based control<br>
+	&nbsp; &#62; Modeling paradigms and specification languages and requirements<br>
+	&nbsp; &#62; Security, trust, and privacy in CPS<br>
+	&nbsp; &#62; Safe autonomy, AI and Machine learning in CPS<br>
+	&nbsp; &#62; Software tools for the above topics<br>
+	&nbsp; &#62; Applications of CPS technologies such as transportation, autonomous systems, avionics, energy and power, robotics, and medical devices.</p>
+
+      <p><b>Special Section Schedule:</b></p>
+      
+      <p><b>&nbsp; &#62; Special Section Submission Window: 15 September 2022 – 15 March 2023</b><br>
+	&nbsp; &#62; Notification of reviews of and recommendations: 10 weeks after initial submission<br>
+	&nbsp; &#62; Final notification of regular papers: 20 weeks after initial submission<br>
+	&nbsp; &#62; Manuscript publication on IEEE Xplore: 24 weeks after initial submission</p>
+	&nbsp; * Review process starts at time of manuscript submission
+
+      <p><b>Submission Site:</b> <a href="https://css.paperplaza.net/" target="_blank">https://css.paperplaza.net/</a><br>
+      <b>Length:</b> 12 pages or under, not including references. Justification of longer papers is required.</p>
+      <br>
+      <p style="font-size:18px"><b>Guest Editor</b></p>
+<div class="imgl">
+  <img src="../images/people/Zamani.jpg" alt="Majid Zamani" width="100" height="133">
+</div>
+       <p>Name: <b>Majid Zamani</b><br>
+Affiliation: <b>University of Colorado Boulder</b> </p>
+       	<br><br><br><br><hr>
+
+      <p style="font-size:18px"><b>Guest Associate Editors</b></p>
+
+<div class="imgl">
+  <img src="../images/people/Coogan.jpg" alt="Samuel Coogan" width="100" height="133">
+</div>
+       <p>Name: <b>Samuel Coogan</b><br>
+Affiliation: <b>Georgia Institute of Technology</b> </p>
+       	<br><br><br><br><hr>
+
+<div class="imgl">
+  <img src="../images/people/Ornik.jpg" alt="Melkior Ornik" width="100" height="133">
+</div>
+       <p>Name: <b>Melkior Ornik</b><br>
+Affiliation: <b>University of Illinois Urbana-Champaign</b> </p>
+       	<br><br><br><br><hr>
+
+
+<div class="imgl">
+  <img src="../images/people/Fan.jpg" alt="Chuchu Fan" width="100" height="133">
+</div>
+       <p>Name: <b>Chuchu Fan</b><br>
+Affiliation: <b>MIT</b> </p>
+       	<br><br><br><br><hr>
+
+	<div class="imgl">
+  <img src="../images/people/Gol.jpg" alt="Ebru Aydin Gol" width="100" height="133">
+</div>
+       <p>Name: <b>Ebru Aydin Gol</b><br>
+Affiliation: <b>Middle East Technical University</b> </p>
+       	<br><br><br><br><hr>
+
+	<div class="imgl">
+  <img src="../images/people/Jungers.jpg" alt="Raphael Jungers" width="100" height="133">
+</div>
+       <p>Name: <b>Raphael Jungers</b><br>
+Affiliation: <b>UCLouvain</b> </p>
+       	<br><br><br><br><hr>
+
+	<div class="imgl">
+  <img src="../images/people/Liu.jpg" alt="Jun Liu" width="100" height="133">
+</div>
+       <p>Name: <b>Jun Liu</b><br>
+Affiliation: <b>University of Waterloo</b> </p>
+       	<br><br><br><br><hr>
+
+	<div class="imgl">
+  <img src="../images/people/Oishi.jpg" alt="Meeko Oishi" width="100" height="133">
+</div>
+       <p>Name: <b>Meeko Oishi</b><br>
+Affiliation: <b>University of New Mexico</b> </p>
+       	<br><br><br><br><hr>
+
+	<div class="imgl">
+  <img src="../images/people/Tumova.jpg" alt="Jana Tumova" width="100" height="133">
+</div>
+       <p>Name: <b>Jana Tumova</b><br>
+Affiliation: <b>KTH Royal Institute of Technology</b> </p>
+       	<br><br><br><br><hr>
+
+	<div class="imgl">
+  <img src="../images/people/Schmuck.jpg" alt="Anne-Kathrin Schmuck" width="100" height="133">
+</div>
+       <p>Name: <b>Anne-Kathrin Schmuck</b><br>
+Affiliation: <b>Max Planck Institute for Software Systems</b> </p>
+       	<br><br><br><br><hr>
+
+	<div class="imgl">
+  <img src="../images/people/Lavaei.jpg" alt="Abolfazl Lavaei" width="100" height="133">
+</div>
+       <p>Name: <b>Abolfazl Lavaei</b><br>
+Affiliation: <b>Newcastle University</b> </p>
+	
+      <!-- ################################################################################################ -->
+    </div>
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <div class="sidebar one_quarter"> 
+      <!-- ################################################################################################ -->
+      
+<div align="right"><p style = "font-size:16px">RESOURCES</P></div>
+	    <hr>
+      <nav>
+        <ul>
+          <li><a href="articletypes.html">Article Types</a></li>
+            </ul>
+        <ul>
+          <li><a href="specialsections.html">Special Sections</a></li>
+            </ul>
+        <ul>
+          <li><a href="../files/OJ-CSYS Author Submission Guidelines 05-26-22.pdf" target="_blank">Author Guidelines</a></li>
+            </ul>
+      </nav>
+<BR>
+      <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
+	    <hr>
+          <p>Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
+
+ <div align="right"><p style = "font-size:16px">GET IN CONTACT</P></div>
+<HR>	    
+        Jennifer Klam<br>
+        Editorial Assistant<br>
+        Open Journal of Control Systems<br>
+        <br>
+        Email: <a href="mailto: ojcsys@gmail.com">ojcsys@gmail.com</a><br><br>
+
+	<div align="right"><p style = "font-size:16px">IMPACT FACTOR</P></div>
+	<hr>
+Impact factor to come
+
+      <!-- ################################################################################################ -->
+    </div>
+    <!-- ################################################################################################ -->
+    <!-- / main body -->
+    <div class="clear"></div>
+  </main>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row2">
+  <footer id="footer" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div class="one_third first">
+        <p>The IEEE Open Journal of Control Systems’ main mission is the promotion of open access to all control systems research and education publications, including software, and data.</p>
+	<p>The journal is fully open and compliant with funder mandates, including Plan S.</p>
+      <ul class="faico clear">
+        <li><a class="faicon-facebook" href="https://www.facebook.com/OJ.CSYS"><i class="fa fa-facebook"></i></a></li>
+        <li><a class="faicon-twitter" href="https://twitter.com/IEEE_OJCSYS"><i class="fa fa-twitter"></i></a></li>
+      </ul>
+    </div>
+    <div class="one_third">
+      <h6 class="heading"> </h6>
+    </div>
+    <div class="one_third">
+      <p style = "font-size:16px">News</p>
+        <ul>
+          <li>Tools Papers submissions are now being accepted! Read more about the paper type in <a href="articletypes.html" target="_blank">Article Types</a></li>
+		<br>
+          <li>Upcoming Special Sections opening soon. Read more in <a href="specialsections.html">Special Sections.</a></li>
+      </div>
+    </div>
+    <!-- ################################################################################################ -->
+  </footer>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row5">
+  <div id="copyright" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <p class="fl_left">Copyright &copy; 2018 - All Rights Reserved - <a href="#">OJ-CSYS</a></p>
+    <p class="fl_right">Template by <a target="_blank" href="https://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+    <!-- ################################################################################################ -->
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="../layout/scripts/jquery.min.js"></script>
+<script src="../layout/scripts/jquery.backtotop.js"></script>
+<script src="../layout/scripts/jquery.mobilemenu.js"></script>
+</body>
+</html>

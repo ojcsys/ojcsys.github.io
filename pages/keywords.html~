@@ -36,13 +36,13 @@ p.capitalize {
   <header id="header" class="hoc clear"> 
     <!-- ################################################################################################ -->
     <div id="logo" class="fl_left">
-      <p style = "font-size:32px;color:#00629B">
-	<a href="index.html">OJ-CSYS</a></p><br>
-      <p style = "font-size:14px;color:#00629B;line-height:50%">
+      <p style = "font-size:32px;color:#0069A8">
+	<a href="../index.html">OJ-CSYS</a></p><br>
+      <p style = "font-size:14px;color:#0069A8;line-height:50%">
 	  IEEE OPEN JOURNAL OF CONTROL SYSTEMS</p>
     </div>
     <div id="quickinfo" class="fl_right">
-      <p class="lowercase" style="font-size:13px;color:#00629B">
+      <p class="lowercase" style="font-size:13px;color:#0069A8">
       <a href="mailto:ojcsys@gmail.com">ojcsys@gmail.com</a></p>
     </div>    <!-- ################################################################################################ -->
   </header>
@@ -55,7 +55,7 @@ p.capitalize {
     <!-- ################################################################################################ -->
     <ul class="clear">
       <li><a href="../index.html">Home</a></li>
-      <li class="active"><a href="about">About</a>
+      <li><a href="about.html">About</a>
       <li><a class="drop" href="#">Editorial Board</a>
         <ul>
           <li><a href="editorialboard.html">Editorial Board</a></li>
@@ -68,7 +68,7 @@ p.capitalize {
       <li><a class="drop" href="#">For Authors</a>
         <ul>
           <li><a href="forauthors.html">General Information</a></li>
-	  <li><a href="../files/OJ-CSYS Author Submission Guidelines 05-26-22.pdf" target="_blank">Guidelines for Authors</a></li>
+	  <li><a href="../files/OJ-CSYS Author Submission Guidelines.pdf" target="_blank">Guidelines for Authors</a></li>
 	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
           <li><a href="faq.html">FAQ</a></li>
 	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
@@ -97,9 +97,9 @@ p.capitalize {
     <div class="content three_quarter first"> 
       <!-- ################################################################################################ -->
       <section>  
-	<font size="+2">
+      <p style = "font-size:22px;line-height:150%">
 	<a href="#A">A</a> | <a href="#B">B</a> | <a href="#C">C</a> | <a href="#D">D</a> | <a href="#E">E</a> | <a href="#F">F</a> | <a href="#G">G</a> | <a href="#H">H</a> | <a href="#I">I</a> | J | <a href="#K">K</a> | <a href="#L">L</a> | <a href="#M">M</a> | <a href="#N">N</a> | <a href="#O">O</a> | <a href="#P">P</a> | <a href="#Q">Q</a> | <a href="#R">R</a> | <a href="#S">S</a> | <a href="#T">T</a> | <a href="#U">U</a> | <a href="#V">V</a> | X | Y | Z 
-	</font>
+	</p>
 <BR><br>
 	<p><a id="A"><font size="+2"><b>A</b></font></a></p>
 Adaptive control <br>
@@ -350,10 +350,13 @@ Variational methods<br>
           <li><a href="specialsections.html">Special Sections</a></li>
             </ul>
         <ul>
-          <li><a href="../files/OJ-CSYS Author Submission Guidelines 05-26-22.pdf" target="_blank">Author Guidelines</a></li>
+          <li><a href="../files/OJ-CSYS Author Submission Guidelines.pdf" target="_blank">Author Guidelines</a></li>
             </ul>
       </nav>
 <BR>
+      <div align="right"><p style = "font-size:16px">NEWS</P></div>
+	    <hr>
+          <p>View the latest  <a href="news.html">announcements</a> and updates <br><br>
       <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
 	    <hr>
           <p>Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
@@ -380,15 +383,15 @@ Impact factor to come
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<div class="wrapper row4">
+<div class="wrapper row2">
   <footer id="footer" class="hoc clear"> 
     <!-- ################################################################################################ -->
     <div class="one_third first">
         <p>The IEEE Open Journal of Control Systems’ main mission is the promotion of open access to all control systems research and education publications, including software, and data.</p>
 	<p>The journal is fully open and compliant with funder mandates, including Plan S.</p>
       <ul class="faico clear">
-        <li><a class="faicon-facebook" href="https://www.facebook.com/OJ.CSYS"><i class="fa fa-facebook"></i></a></li>
-        <li><a class="faicon-twitter" href="https://twitter.com/IEEE_OJCSYS"><i class="fa fa-twitter"></i></a></li>
+        <li><a class="faicon-facebook" href="https://www.facebook.com/OJ.CSYS" target="_blank"><i class="fa fa-facebook"></i></a></li>
+        <li><a class="faicon-twitter" href="https://twitter.com/IEEE_OJCSYS" target="_blank"><i class="fa fa-twitter"></i></a></li>
       </ul>
     </div>
     <div class="one_third">
@@ -397,6 +400,7 @@ Impact factor to come
     <div class="one_third">
       <p style = "font-size:16px">News</p>
         <ul>
+	  <li>Latest <a href="news.html">announcements</a></li><br> 
           <li>Tools Papers submissions are now being accepted! Read more about the paper type in <a href="articletypes.html" target="_blank">Article Types</a></li>
 		<br>
           <li>Upcoming Special Sections opening soon. Read more in <a href="specialsections.html">Special Sections.</a></li>

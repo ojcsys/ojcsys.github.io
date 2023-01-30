@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<!--
+Template Name: Wetwest
+Author: <a href="https://www.os-templates.com/">OS Templates</a>
+Author URI: https://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+-->
+<html lang="">
+<!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
+<head>
+  <style>
+    .button {
+  background-color: #54b9ff;
+  border: none;
+  color: white;
+  padding: 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 4px;
+  cursor: pointer;
+}
+
+.button1 {border-radius: 12px;}
+.button2 {border-radius: 12px;}
+.button3 {border-radius: 12px;}
+.button4 {border-radius: 12px;}
+.button5 {border-radius: 12px;}
+
+    p.uppercase {
+  text-transform: uppercase;
+}
+
+p.lowercase {
+  text-transform: lowercase;
+}
+
+p.capitalize {
+  text-transform: capitalize;
+}
+</style>
+<title>OJ-CSYS Reviewer Guidelines</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="../layout/styles/layout-alternative.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+<!--################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row1">
+  <header id="header" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div id="logo" class="fl_left">
+      <p style = "font-size:32px;color:#0069A8">
+	<a href="../index.html">OJ-CSYS</a></p><br>
+      <p style = "font-size:14px;color:#0069A8;line-height:50%">
+	  IEEE OPEN JOURNAL OF CONTROL SYSTEMS</p>
+    </div>
+    <div id="quickinfo" class="fl_right">
+      <p class="lowercase" style="font-size:13px;color:#0069A8">
+      <a href="mailto:ojcsys@gmail.com">ojcsys@gmail.com</a></p>
+    </div>
+    <!-- ################################################################################################ -->
+  </header>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row4">
+  <nav id="mainav" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <ul class="clear">
+      <li><a href="../index.html">Home</a></li>
+      <li><a href="about.html">About</a>
+      <li><a class="drop" href="#">Editorial Board</a>
+        <ul>
+          <li><a href="editorialboard.html">Editorial Board</a></li>
+          <li><a href="editorinchief.html">Editor in Chief</a></li>
+          <li><a href="advisoryboard.html">Advisory Board</a></li>
+          <li><a href="senioreditors.html">Senior Editors</a></li>
+          <li><a href="associateeditors.html">Associate Editors</a></li>        
+        </ul>
+      </li>
+      <li><a class="drop" href="#">For Authors</a>
+        <ul>
+          <li><a href="forauthors.html">General Information</a></li>
+	  <li><a href="authorguidelines.html">Guidelines for Authors</a></li>
+	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
+          <li><a href="faq.html">FAQ</a></li>
+	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
+        </ul>
+      </li>
+      <li><a class="drop" href="#">For Reviewers</a>
+        <ul>
+          <li><a href="forreviewers.html">General Information</a></li>
+	  <li><a href="reviewerguidelines.html">Guidelines for Reviewers</a></li>
+	  <li><a href="reviewers2022.html">2022 Reviewers</a></li>
+        </ul>
+      </li>
+      <li><a href="https://css.paperplaza.net/conferences/scripts/start.pl" target="_blank">Submit a Paper</a></li>
+      <li><a href="getinvolved.html">Get Involved</a></li>
+    </ul>
+    <!-- ################################################################################################ -->
+  </nav>
+</div>
+
+  <!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <main class="hoc container clear"> 
+    <!-- main body -->
+    <!-- ################################################################################################ -->
+      <!-- ################################################################################################ -->
+      <p style = "font-size:24px"><b>REVIEWER GUIDELINES</b></p>
+      <p><a class="btn" href="../files/Reviewer-Guidelines-05-26-22.pdf" download>Download PDF</a></p>
+      <br>
+    <p><a href="#paperplaza">PAPERPLAZA</a></P>
+    <P><a href="#reviewing_papers">REVIEWING PAPERS: WHAT TO LOOK FOR AS A REVIEWER</a></P>
+    <ol type="1">
+      <LI><a href="#regular_papers">Regular Papers</a></li>
+      <li><a href="#overview_papers">Overview/Position Papers</a></li>
+      <li><a href="#position_papers">Position Papers</a></li>
+      <li><a href="#tools_papers">Tools Papers</a></li>
+    </ol>
+    <p><a href="#supplementary_material">SUPPLEMENTARY MATERIAL</a></P>
+    <P><a href="#codeocean">CODE OCEAN</a></P>
+    <P><a href="#dataport">IEEE DATA PORT</a></P>
+    <P><a href="#reviewer_deadlines">REVIEWER DEADLINES</a></P>
+    <P><a href="#final_decisions">FINAL DECISIONS: AFTER THE MANUSCRIPT LEAVES YOUR HANDS</a></P>
+
+<HR>
+      
+    <p>The IEEE Open Journal of Control Systems (OJ-CSYS) is a new publication of the IEEE Control Systems Society covering the theory, design, optimization, and applications of Dynamic Systems and Controls. The journal’s main mission is the promotion of open access to all control systems research and education publications, including software, and data by drawing on the knowledge and help of the expert technical community. To that end, Reviewers play an integral role in the success of the journal by evaluating in a timely manner both the quality of the technical contribution and the quality of the assigned papers.</p>
+    <p>Reviewers are picked for being leading researchers in the field, likely having authored relevant papers that have been previously presented in high-profile journals and conferences. In addition to this criteria, our goal is in selecting those for whom the paper is on a topic that they would really like to see or to say something about. Having Reviewers who are interested in going over the manuscript is likely to yield a positive experience for the Reviewer and a succinct yet sufficiently detailed evaluations and recommendations for the authors. Please further note Reviewers should not be at the same institution as the authors of the paper.</p>
+    <br>
+<a id="paperplaza"><b>PAPERPLAZA</b></a></p>
+<p>All aspects of the manuscript review process are handled through an online submission system called <a href="https://css.paperplaza.net/conferences/scripts/start.pl">PaperPlaza</a>. To act as a Reviewer, you will have to be set up with the system/create a PIN for yourself:</p>
+<p>1. Visit <a href="https://css.paperplaza.net/conferences/scripts/start.pl">css.paperplaza.net/conferences/scripts/start.pl</a><br>
+2. Select “PIN” at the top left-hand menu<br>
+3. Follow the instructions to “Register a new PIN”<br>
+4. Enter your relevant information, including updating the keyword database</p>
+
+<p>*Please note that a new PIN does not need to be created if any personal information changes, such as affiliation. Instead, please modify your personal information using the last login. For those who have volunteered with the journal, please ensure that someone from the editorial board has added you to their own list of potential Reviewers through the system in addition to setting your PIN up. This means the Associate Editor will be able to find you through the system when he or she is ready to request a review. Upon selection, the request will be forwarded to the email listed on your PaperPlaza profile.</p>
+<br>
+
+<a id="reviewing_papers"><b>REVIEWING PAPERS: WHAT TO LOOK FOR AS A REVIEWER</b></a></p>
+<p>In general, there are things that will be essential to the success of each manuscript. As in a literature review, the authors’ depth of knowledge and recognized expertise in the proposed topic, for example, as well as the importance and timeliness of topics, technical correctness clarity, citation of enough references, inclusion of enough examples, and the coverage of basic concepts are all things you will be looking for. Negative comments or opinions should always be discouraged.</p>
+<p>In addition to these common factors of success for all manuscripts, certain focus should be given to a manuscript depending on its article type. There are three different article types for the OJ-CSYS, each with a different aim to keep in mind as you do your evaluation.</p>
+<br>
+1. <a id="regular_papers"<b>Regular Papers</b></a><br>
+<p>Regular papers are standard journal articles presenting significant research on analysis relevant for Dynamic Systems and Controls, and/or applications.</p>
+<p>Some questions to ask are:</p>
+<ul>
+  <li>Does the research focus on new, previously unpublished, and interesting
+contributions to the field of Dynamic Systems and Controls?</li>
+  <li>Does the manuscript have a technical emphasis?</li>
+  <li>Is the research relevant to answering a fundamental question of the field?</li>
+  <li>Does the research focus the advancement of some theoretical aspect or of the application of Dynamic Systems and Controls?</li>
+</ul>
+<p>Regarding applications, contributions can range from experimental results using a new method for a given application, to new concepts for real-time control architectures, to novel modeling techniques, or to innovative sensors. Descriptions of new application domains where control-engineering methods have not been applied previously are also acceptable contributions.</p>
+<p>Technical correctness of the paper results, of course, is mandatory but does not necessarily ensure the paper acceptance. Being able to solve a problem with correct mathematics does not necessarily imply that the problem is worth solving.</p>
+2. <a id="overview_papers"><b>Overview/Position Papers</b></a>
+<p>Overview/Position papers present a summary of a research area in the field of Dynamic Systems and Controls. They are mostly survey papers, but with tutorial-like elements.</p>
+<p>Some questions to ask are:</p>
+<ul>
+  <li>Does the paper provide a good introduction to the topic being surveyed, covering a wide breadth of that topic?</li>
+  <li>Is the paper accessible to a broad audience?</li>
+  <li>Does the paper provide key definitions and statements that allow a reader get a clear grasp of the fundamental components of the area being reviewed?</li>
+  <li>Does the author address main questions in the area?</li>
+  <li>Does the paper cover the significant contributions to the field?</li>
+  <li>Does the manuscript cover an overview, as well as pros and cons of important competing techniques? (Overview Papers can make more emphasis on one particular approach to solve a set of questions, but cannot fail to cite competing approaches, to provide the reader with a comprehensive view.</li>
+  </ul>
+
+3. <a id="position_papers"><b>Position Papers</b></a>
+<p>These are short papers presenting future challenges and new developments in Dynamic Systems and Controls. There are two types of papers: Perspective or Technical.</p>
+<p><b>Perspective</b> position papers provide a personal viewpoint on problems related to an emerging research area in Dynamic Systems and Controls. Perspective papers can either:</p>
+<p>(i) Outline key challenges, provide guidelines, and future agendas for the field, and identify collaboration opportunities for researchers in Dynamic Systems and Controls with other areas;</p>
+<p>(ii) Contextualize findings, adding a new dimension to the field, formulate questions that are related to the ethical, philosophical or legal dimension of a control systems technology, its public’s perception/acceptance, broad policy adoption, and social implications.</p>
+<p>For Perspective papers, some questions to ask are:</p>
+<ul>
+  <li>Is the paper written in a non-overly technical way, so as to be widely accessible to the broad scientific community?</li>
+  <li>Are solutions or recommendations supported with arguments and evidence?</li>
+</ul>
+<p>These papers can include some speculative and forward-looking content to stimulate new approaches and debate.</p>
+<p>Alternatively, <b>Technical</b> position papers identify technical bottlenecks in current research, its open problems, and new techniques to solve them.</p>
+<p>For Technical papers, some questions to ask are:</p>
+<ul>
+  <li>Does it provide an account of available tools?</li>
+  <li>Does it alert the audience to the importance and/or urgency of a problem?</li>
+  <li>Does it provide convincing arguments of why the new identified techniques are promising to advance the state of the art?</li>
+  </ul>
+<p>The style of these papers can be more technical, but still accessible to the Dynamic Systems and Controls community.</p>
+
+4. <a id="tools_papers"><b>Tools Papers</b></a>
+<p>Under this category of papers, authors can submit i.) tutorial-like papers describing new testbeds, software, data, and benchmark tests with appropriate links to these tools, and ii.) report on the performance of control algorithms, as compared to others on benchmarking tests, sophisticated simulation (high-fidelity, with hardware in the loop) or other case studies with practical relevance.</p>
+<p>For the first set of papers, some questions to ask are:</p>
+<ul>
+  <li>Is the paper written in a tutorial-like way?</li>
+  <li>Does the paper describe a new, accessible testbed, software, benchmarking test, or data?
+    <ul>
+      <li>For a testbed, does it provide a clear description of the elements, how it is built, how the testbed elements are integrated, what the requirements to access the testbed are, and what the capabilities of the testbed currently are, how to interface with the testbed, and usage support.</li>
+      <li>For software, is a comparison with similar software made? And are arguments for the adoption of such software should be provided?</li>
+      <li>For data, it can be synthetic or real data. If synthetic, does the paper describe how it was created in detail? Does the paper make the case why this data is good enough to perform a given experiment? If real, is the data completely anonymized? Does the paper describe how the data format? Does the paper describe how the data can be imported, and managed?</li>
+    </ul>
+  </li>
+  <li>Is the corresponding supplementary material easily accessible? Are you able to download and access the repository with the software? For data, a reviewer should verify that the data is accessible, downloadable, and can be reasonably understood by a reader.</li>
+  <li>Can the software be easily understood by a reader?</li>
+  <li>Does the corresponding supplementary material work? Are you able to run the demo programs? (An evaluation of the quality of each line of code is not necessary, but reviewers should inspect the code to check if its main structure and components are clearly described with comments within the code.)</li>
+</ul>
+<p>For the second set of papers, some questions to ask are:</p>
+<ul>
+  <li>Is the research case study of a significant nature?</li>
+  <li>Is it bringing the application of a control methodology closer to solving real-world problems?</li>
+  <li>Does the paper compare the benefits of a given methodology against an accepted baseline?</li>
+</ul>
+<br>
+<p>Assuming the manuscript has passed the test related to each article type, the Reviewer can go on to evaluate whether the presentation is clear, concise, and complete. In other words, is the paper readable? Are all concepts clearly explained? What sections were hard to follow? Is all notation and terminology clearly defined before it is used? Are there places where more detailed explanations are needed? Are there parts of the paper that can be made more concise or technical arguments that can be shortened? Is the importance of the problem sufficiently stressed? Is the paper written in proper English?</p>
+<p>The key to a good evaluation of the presentation is to be as specific as possible. Your review will guide the authors in making revisions to the paper. You need not re-write the paper for the authors, but you should tell them as precisely as possible where the revisions need to be made and why.</p>
+<br>
+<p><a id="supplementary_material"><b>SUPPLEMENTARY MATERIAL</b></a></p>
+<p>OJ-CSYS accepts computer code associated with the final accepted manuscript. As Reviewer, you are asked to review this supplementary material, which will be submitted through PaperPlaza or a repository such as Code Ocean and IEEE DataPort, in which case a visit to the respective website will be necessary.</p>
+<p>Instructions are included below to access the two main repositories, and in addition, authors will be asked to include a SUMMARY file describing the overall components and intent of the code, as well as a README file describing the steps required to reproduce simulated results and/or to build/execute the provided code.</p>
+<br>
+<p><a id="codeocean"><b>CODE OCEAN</b></a></p>
+<p>OJ-CSYS accepts computer code associated with an article (e.g., implementing algorithms), which can be submitted with the final accepted manuscript, and users in IEEEXplore will be able to discover and access the link to run the algorithm in Code Ocean.</p>
+<p>As reviewers, you will have to review this supplementary material. Please go through the following steps to run and review the code:</p>
+<ol type="a">
+  <li>Visit repository through <a href="http://CodeOcean.com/explore">CodeOcean.com/explore</a> or IEEE Xplore Widget</li>
+  <li>Sign Up with Code Ocean for free</li>
+  <li>Search for capsule you want to review (by keyword, research field,
+    title, author, DOI)</li>
+  <li>Click “Reproducible Run” on top, right-hand corner.</li>
+</Ol>
+<br>
+<P><a id="dataport"><b>  IEEE DATA PORT</b></a></p>
+<p>Datasets can similarly be submitted with the manuscript. The authors will be asked to upload the data either into PaperPlaza along with their submission or into their own repositories (Dropbox, Google Drive, Github, or another repository of your choice) during the review process. IEEE Data Port will then be used once the article has passed the review process and has been chosen for publication.</p>
+<br>
+<p><a id="reviewer_deadlines"><b>REVIEWER DEADLINES</b></a></p>
+<p>The OJ-CSYS aims at ensuring rapid dissemination of the most recent results in the broad field of Systems and Control. The OJ-CSYS has a target of 20 weeks from submission to final decision. To provide a service with such high standards, the Editorial Board and the Reviewers involved in the review process must comply with tight and demanding constraints. <b>As a Reviewer, you will have to observe the following strict deadlines:</b></p>
+<ul>
+  <li>Four weeks (28 days) from reception of original manuscript to first review</li>
+  <li>Two weeks (14 days) from reception of a revised manuscript to re-review</li>
+</ul>
+<br>
+<p><a id="final_decisions"><b>FINAL DECISIONS: AFTER THE MANUSCRIPT LEAVES YOUR HANDS</b></a></p>
+<p>The manuscript review process is handled by an Associate Editor, who prepares a report and makes a recommendation on the basis of peer reviews. The final decision on publication, whether accepting or modifying this recommendation, is taken by the Senior Editor handling the paper and by the Editor-in-Chief. The review process is single-blind: Reviewers are never known to the Authors. Also, the names of the Associate Editors handling the review processes are not disclosed to the Authors, who will only interact with the Senior Editors assigned to the papers.</p>
+<br><br>
+<p>Your contribution to the IEEE Open Journal of Control Systems is an invaluable resource for the journal’s mission of the promotion of open access to all control systems research and education publications, including software and data. Your feedback is therefore highly valued, and you can feel free to contact the <a href="editorialboard.html">Editorial Board</a> with any questions or suggestions, especially concerning the review procedures. You may contact the Associate Editor who sent you the manuscript, the Editor in Chief or the Editorial Assistant.
+
+    <!-- ################################################################################################ -->
+    <!-- / main body -->
+    <div class="clear"></div>
+  </main>
+
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row2">
+  <footer id="footer" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div class="one_third first">
+        <p>The IEEE Open Journal of Control Systems’ main mission is the promotion of open access to all control systems research and education publications, including software, and data.</p>
+	<p>The journal is fully open and compliant with funder mandates, including Plan S.</p>
+      <ul class="faico clear">
+        <li><a class="faicon-facebook" href="https://www.facebook.com/OJ.CSYS"><i class="fa fa-facebook"></i></a></li>
+        <li><a class="faicon-twitter" href="https://twitter.com/IEEE_OJCSYS"><i class="fa fa-twitter"></i></a></li>
+      </ul>
+    </div>
+    <div class="one_third">
+      <h6 class="heading"> </h6>
+    </div>
+    <div class="one_third">
+      <p style = "font-size:16px">News</p>
+        <ul>
+	  <li>Latest <a href="news.html">announcements</a></li><br> 
+          <li>Tools Papers submissions are now being accepted! Read more about the paper type in <a href="articletypes.html" target="_blank">Article Types</a></li>
+		<br>
+          <li>Upcoming Special Sections opening soon. Read more in <a href="specialsections.html">Special Sections.</a></li>
+      </div>
+    </div>
+    <!-- ################################################################################################ -->
+  </footer>
+</div>
+
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row5">
+  <div id="copyright" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <p class="fl_left">Copyright &copy; 2018 - All Rights Reserved - <a href="#">OJ-CSYS</a></p>
+    <p class="fl_right">Template by <a target="_blank" href="https://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+    <!-- ################################################################################################ -->
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="../layout/scripts/jquery.min.js"></script>
+<script src="../layout/scripts/jquery.backtotop.js"></script>
+<script src="../layout/scripts/jquery.mobilemenu.js"></script>
+</body>
+</html>

@@ -23,7 +23,7 @@ p.capitalize {
 }
 </style>
 
-<title>OJ-CSYS For Authors</title>
+<title>OJ-CSYS Get Involved</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="../layout/styles/layout-alternative.css" rel="stylesheet" type="text/css" media="all">
@@ -55,7 +55,7 @@ p.capitalize {
     <!-- ################################################################################################ -->
     <ul class="clear">
       <li><a href="../index.html">Home</a></li>
-      <li class="active"><a href="about">About</a>
+      <li><a href="about.html">About</a>
       <li><a class="drop" href="#">Editorial Board</a>
         <ul>
           <li><a href="editorialboard.html">Editorial Board</a></li>
@@ -68,7 +68,7 @@ p.capitalize {
       <li><a class="drop" href="#">For Authors</a>
         <ul>
           <li><a href="forauthors.html">General Information</a></li>
-	  <li><a href="../files/OJ-CSYS Author Submission Guidelines 05-26-22.pdf" target="_blank">Guidelines for Authors</a></li>
+	  <li><a href="../files/OJ-CSYS Author Submission Guidelines.pdf" target="_blank">Guidelines for Authors</a></li>
 	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
           <li><a href="faq.html">FAQ</a></li>
 	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
@@ -96,40 +96,18 @@ p.capitalize {
     <!-- ################################################################################################ -->
     <div class="content three_quarter first"> 
       <!-- ################################################################################################ -->
-      <p style = "font-size:24px;color:#0069A8">Author Information & Instructions</p>
-       <img class="imgr borderedbox inspace-5" src="../images/forauthors-pen.jpg" width="185" height="185" align+"bottom" alt="writing pen">
-     <p>The Control Systems Society is regarded as a trusted and unbiased source of technical information for dialog and collaboration to advance technology within the computing community. The Control Systems Society is led by researchers and technology professionals who are at the center of respected control systems communities where readers and authors already come together.</p>
-      <p style = "font-size:24px;color:#0069A8">Open Access</p>
-        <p>The broad mission of the OJ-CSYS is that of promoting open access to all control systems research and education publications, including software, and data. The journal is Gold Open Access, which means that the content is freely available to users or their institutions. This journal is 100% open access, which means that all content is freely available without charge to users or their institutions.</p>
-	<img class="imgl borderedbox inspace-5" src="../images/forauthors-computer.jpg" alt="computer" width="185" height="185" align="bottom">	
-	<p>All articles are currently published under Creative Commons licenses, and the author retains copyright. Users are allowed to read, download, copy, distribute, print, search, or link to the full texts of the articles published, or use them for any other lawful purpose, as long as proper attribution is given.</p>
-	<p>Open access is provided through the payment of an article processing charge (APC) paid after acceptance. APCs are often financed by an author's institution or the funder supporting their research. For specific information regarding APCs, and special offers, please see "Article Processing Charges (APCs)" section below.</p>
+      <p style = "font-size:24px;color:#0069A8">Ways to Get Involved</p>
+        <p><b>Associate Editors:</b> Becoming a member of the editorial board of the journal requires approval of the Conference Editorial Board (CEB).  If you feel you meet these qualifications, feel free to submit a completed copy of our <a href="../files/AE-bio-template.pdf" download="AE-bio-template.pdf" target="_blank">Author Bio form</a> to the OJ-CSYS Editorial Assistant.</p>
+        <p><b>Reviewers:</b>  If you are not yet ready to become part of the editorial board, becoming a reviewer is an excellent way to help the journal and gain experience. Reviewers are an integral part of the success of the OJ-CSYS.</p>
+	<p> We uphold the highest standards for our peer-reviewed papers, and reviewers help by selecting only the most qualified papers. Reviewers are picked for being leading researchers in the field, likely having authored relevant papers that have been previously presented in high-profile journals and conferences.</p>
+	 <p>Reviewers will need to contact the OJ-CSYS editorial assistant after setting themselves up on the <a href="https://css.paperplaza.net/conferences/scripts/pinwizard.pl" template="_blank">Submission Site</a>. Guidelines for reviewers can be found on the<a href="forreviewers.html"> For Reviewers</a> page.</p>
+        <p><p><b>Authors</b> are encouraged to submit their papers after setting themselves up on the <a href="https://css.paperplaza.net/conferences/scripts/pinwizard.pl" template="_blank">Submission Site</a>. The Author Guidelines and other helpful tools can be found under <a href="forauthors.html"> For Authors</a>. Please also feel free to reach out to the OJ-CSYS editorial assistant with any questions.</p>
+ <br>
 
-      <p style = "font-size:24px;color:#0069A8">Review Process</p>
-      <p>The articles in this journal are peer-reviewed in accordance with the requirements set forth in the <a href="https://pspb.ieee.org/images/files/files/opsmanual.pdf" target="_blank">IEEE Publication Services and Products Board Operations Manual</a>. The articles in this journal are peer-reviewed by a minimum of two independent reviewers using a single-blind peer-review process, where the identities of the reviewers are not known to the authors, but the reviewers know the identities of the authors. Articles will be screened for plagiarism before acceptance.</p>
+      <p style = "font-size:24px;color:#0069A8">The IEEE  Control Systems Society Mission</p>
+     <p>Founded in 1954, the Control Systems Society is a world-renowned society dedicated to the advancement of the theory and practice of systems and control which has been at the forefront of the field for over 65 years.</p>
+    <p>In keeping with the IEEE’s reputation, publishing with the Open Journal Systems of Control guarantees a rigorous peer-review process and insightful feedback for your research from leading experts in the field. With the priority of quality being of upmost importance, the journal additionally aims at a fast review time of around 6 months from submission to publication on IEEE Xplore.</p>
 
-      <hr>
-      
-      <p style = "font-size:24px;color:#0069A8">Article Processing Charges (APCs)</p>
-	<p style= "font-size:18px"><b>US$1850 – effective 1 January 2022</b></p></p>	
-      <p style = "font-size:18px">Discounts</p>
-      <p>&nbsp;&nbsp;&nbsp; &#62; IEEE Members receive a 5% discount.</p>
-      <p>&nbsp;&nbsp;&nbsp; &#62; IEEE Control Systems Society Members receive a 20% discount.</p>
-	<p><i>These discounts cannot be combined.</i></p>
-	<p><i>Check with your affiliation library for more possible discounts.</i></p>
-	<p><b>For papers submitted in 2023, the APC will be US$1950.</b></p>
-
-	<p>Corresponding authors from low-income countries (as classified by the World Bank) are eligible for discounts on article processing charges. For more information, please visit the <a href="https://journals.ieeeauthorcenter.ieee.org/choose-a-publishing-agreement/open-access-rights-management/" target="_blank">IEEE Author Center</a>.</p>
-	<p> In a transformative agreement with the IEEE, the University of California and University of Illinois have agreed to cover the full cost of the article processing charges, or APCs, to corresponding authors at these campuses to publish open access in IEEE journals. See your library website for more details.</p>
-<p>To view all the current IEEE Open Access Institutional Partners please <a href="https://open.ieee.org/for-institutions/institutional-partners/" target="_blank">click here.</a></p>
-
-	<p><a href="../files/OJ-CSYS Author Submission Guidelines 05-26-22.pdf"  target="_blank">View the OJ-CSYS Author Guidelines</a></p>
-	<p>Please contact the OJ-CSYS <a href="mailto: ojcsys@gmail.com"> editorial assistant</a> with any questions.
-	  <hr>
-	  
-      <p style = "font-size:24px;color:#0069A8">Author Tools</p>
-	<p>IEEE is committed to supporting authors and researchers with IEEE Author Tools, including the IEEE Publication Recommender, IEEE Reference Preparation Assistant, LaTeX Analyzer, and more. CSS authors now have an option to submit their research data to  <a href="https://ieee-dataport.org" target="_blank">IEEE DataPort</a>, which enables free storage of Open Access datasets, during the article submittal process and link the data to their submitted article. Please also refer to the information on  <a href="https://codeocean.com" target="_blank">IEEE CodeOcean</a> to store, run and share code over the cloud.</p>
-	<p>Discover the tools available at the <a href="https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/tools-for-ieee-authors/" target="_blank">IEEE Author Center</a>.</p>
 	
       <!-- ################################################################################################ -->
     </div>
@@ -142,21 +120,24 @@ p.capitalize {
 	    <hr>
       <nav>
         <ul>
+          <li><a href="../files/AE-bio-template.pdf" target="_blank">Author Bio Form</a></li>
+            </ul>
+        <ul>
           <li><a href="articletypes.html">Article Types</a></li>
             </ul>
         <ul>
           <li><a href="specialsections.html">Special Sections</a></li>
             </ul>
-        <ul>
-          <li><a href="../files/OJ-CSYS Author Submission Guidelines 05-26-22.pdf" target="_blank">Author Guidelines</a></li>
-            </ul>
       </nav>
 <BR>
-      <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
+      <div align="right"><p style = "font-size:16px">NEWS</P></div>
+	    <hr>
+          <p>View the latest  <a href="news.html">announcements</a> and updates <br><br>
+      <div align="right"><p style="font-size:16px">CURRENT ARTICLES</P></div>
 	    <hr>
           <p>Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
 
- <div align="right"><p style = "font-size:16px">GET IN CONTACT</P></div>
+ <div align="right"><p style="font-size:16px">GET IN CONTACT</P></div>
 <HR>	    
         Jennifer Klam<br>
         Editorial Assistant<br>
@@ -164,7 +145,7 @@ p.capitalize {
         <br>
         Email: <a href="mailto: ojcsys@gmail.com">ojcsys@gmail.com</a><br><br>
 
-	<div align="right"><p style = "font-size:16px">IMPACT FACTOR</P></div>
+	<div align="right"><p style="font-size:16px">IMPACT FACTOR</P></div>
 	<hr>
 Impact factor to come
 
@@ -185,8 +166,8 @@ Impact factor to come
         <p>The IEEE Open Journal of Control Systems’ main mission is the promotion of open access to all control systems research and education publications, including software, and data.</p>
 	<p>The journal is fully open and compliant with funder mandates, including Plan S.</p>
       <ul class="faico clear">
-        <li><a class="faicon-facebook" href="https://www.facebook.com/OJ.CSYS"><i class="fa fa-facebook"></i></a></li>
-        <li><a class="faicon-twitter" href="https://twitter.com/IEEE_OJCSYS"><i class="fa fa-twitter"></i></a></li>
+        <li><a class="faicon-facebook" href="https://www.facebook.com/OJ.CSYS" target="_blank"><i class="fa fa-facebook"></i></a></li>
+        <li><a class="faicon-twitter" href="https://twitter.com/IEEE_OJCSYS" target="_blank"><i class="fa fa-twitter"></i></a></li>
       </ul>
     </div>
     <div class="one_third">
@@ -195,9 +176,10 @@ Impact factor to come
     <div class="one_third">
       <p style = "font-size:16px">News</p>
         <ul>
+	  <li>Latest <a href="news.html">announcements</a></li><br> 
           <li>Tools Papers submissions are now being accepted! Read more about the paper type in <a href="articletypes.html" target="_blank">Article Types</a></li>
 		<br>
-          <li>Upcoming Special Sections opening soon. Read more in <a href="specialsections.html">Special Sections.</a></li>
+          <li>Upcoming Special Sections opening soon. Read more in <a href="specialsections.html">Special Sections</a></li>
       </div>
     </div>
     <!-- ################################################################################################ -->

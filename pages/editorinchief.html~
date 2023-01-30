@@ -9,7 +9,7 @@ Licence URI: https://www.os-templates.com/template-terms
 <html lang="">
 <!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
 <head>
-<title>OJ-CSYS EDITORIAL BOARD</title>
+<title>OJ-CSYS Editor in Chief</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="../layout/styles/layout-alternative.css" rel="stylesheet" type="text/css" media="all">
@@ -45,13 +45,13 @@ p.capitalize {
   <header id="header" class="hoc clear"> 
     <!-- ################################################################################################ -->
     <div id="logo" class="fl_left">
-      <p style = "font-size:32px;color:#00629B">
-	<a href="index.html">OJ-CSYS</a></p><br>
-      <p style = "font-size:14px;color:#00629B;line-height:50%">
+      <p style = "font-size:32px;color:#0069A8">
+	<a href="../index.html">OJ-CSYS</a></p><br>
+      <p style = "font-size:14px;color:#0069A8;line-height:50%">
 	  IEEE OPEN JOURNAL OF CONTROL SYSTEMS</p>
     </div>
     <div id="quickinfo" class="fl_right">
-      <p class="lowercase" style="font-size:13px;color:#00629B">
+      <p class="lowercase" style="font-size:13px;color:#0069A8">
       <a href="mailto:ojcsys@gmail.com">ojcsys@gmail.com</a></p>
     </div>    <!-- ################################################################################################ -->
   </header>
@@ -64,7 +64,7 @@ p.capitalize {
     <!-- ################################################################################################ -->
     <ul class="clear">
       <li><a href="../index.html">Home</a></li>
-      <li class="active"><a href="about.html">About</a>
+      <li><a href="about.html">About</a>
       <li><a class="drop" href="#">Editorial Board</a>
         <ul>
           <li><a href="editorialboard.html">Editorial Board</a></li>
@@ -77,7 +77,8 @@ p.capitalize {
       <li><a class="drop" href="#">For Authors</a>
         <ul>
           <li><a href="forauthors.html">General Information</a></li>
-	  <li><a href="../files/OJ-CSYS Author Submission Guidelines 05-26-22.pdf" target="_blank">Guidelines for Authors</a></li>
+	  <li><a href="authorguidelines.html">Guidelines for Authors</a></li>
+	  <li><a href="specialsections.html">Special Sections</a></li>
 	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
           <li><a href="faq.html">FAQ</a></li>
 	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
@@ -86,7 +87,7 @@ p.capitalize {
       <li><a class="drop" href="#">For Reviewers</a>
         <ul>
           <li><a href="forreviewers.html">General Information</a></li>
-	  <li><a href="../files/Reviewer-Guidelines-05-26-22.pdf" target="_blank">Guidelines for Reviewers</a></li>
+	  <li><a href="reviewerguidelines.html">Guidelines for Reviewers</a></li>
 	  <li><a href="reviewers2022.html">2022 Reviewers</a></li>
         </ul>
       </li>
@@ -109,8 +110,8 @@ p.capitalize {
         <figure>
           <ul class="nospace clear">
             <li class="one_quarter first">
-          <p style = "font-size:20px;color:#00629B">OJ-CSYS Editor in Chief</p>
-	     <div class="imgr borderedbox inspace-5"> <a href="https://orcid.org/0000-0001-6756-1484" target="_blank"><img src="../images/people/Martinez.jpg" alt="Prof. Sonia Martinez"></a><br><b>Sonia Martínez</b><br>University of California,<br> San Diego<br>
+          <p style="font-size:20px;color:#0069A8">OJ-CSYS Editor in Chief</p>
+	     <div class="imgr borderedbox inspace-5"> <a href="https://orcid.org/0000-0001-6756-1484" target="_blank"><img src="../images/people/Martinez.jpg" alt="Prof. Sonia Martinez"></a><br><b>Sonia Martínez</b><br>University of California,<br> San Diego<br>United States<br>
 	      <a href="mailto:soniamd@eng.ucsd.edu"><i class="fa fa-envelope-o"></i> Email</a><br>
 	      <a href="http://muro.ucsd.edu/sonia" target="_blank"><i class="fa fa-globe"></i> Website</i></a>
 <br><a href="https://orcid.org/0000-0001-6756-1484"><img src="../images/orcid_icon.png"> ORCID</a>
@@ -124,6 +125,10 @@ p.capitalize {
         <p>Dr. Martínez' research interests include networked control systems, multi-agent systems, and nonlinear control theory with applications to robotics, cyber-physical systems, and natural/social networks. In particular, she has focused on the modeling and control of robotic sensor networks, the development of distributed coordination algorithms for groups of autonomous vehicles, and the geometric control of mechanical systems.</p>
 
 <li class="one_quarter">
+        <div align="right"><p style = "font-size:16px">NEWS</P></div>
+	    <hr>
+          <p>View the latest  <a href="news.html">announcements</a> and updates <br><br>
+
             <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
 	    <hr>
           <p>Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
@@ -159,15 +164,15 @@ p.capitalize {
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<div class="wrapper row4">
+<div class="wrapper row2">
   <footer id="footer" class="hoc clear"> 
     <!-- ################################################################################################ -->
     <div class="one_third first">
         <p>The IEEE Open Journal of Control Systems’ main mission is the promotion of open access to all control systems research and education publications, including software, and data.</p>
 	<p>The journal is fully open and compliant with funder mandates, including Plan S.</p>
       <ul class="faico clear">
-        <li><a class="faicon-facebook" href="https://www.facebook.com/OJ.CSYS"><i class="fa fa-facebook"></i></a></li>
-        <li><a class="faicon-twitter" href="https://twitter.com/IEEE_OJCSYS"><i class="fa fa-twitter"></i></a></li>
+        <li><a class="faicon-facebook" href="https://www.facebook.com/OJ.CSYS" target="_blank"><i class="fa fa-facebook"></i></a></li>
+        <li><a class="faicon-twitter" href="https://twitter.com/IEEE_OJCSYS" target="_blank"><i class="fa fa-twitter"></i></a></li>
       </ul>
     </div>
     <div class="one_third">
@@ -176,6 +181,7 @@ p.capitalize {
     <div class="one_third">
       <p style = "font-size:16px">News</p>
         <ul>
+	  <li>Latest <a href="news.html">announcements</a></li><br> 
           <li>Tools Papers submissions are now being accepted! Read more about the paper type in <a href="articletypes.html" target="_blank">Article Types</a></li>
 		<br>
           <li>Upcoming Special Sections opening soon. Read more in <a href="specialsections.html">Special Sections.</a></li>

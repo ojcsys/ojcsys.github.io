@@ -69,7 +69,6 @@ p.capitalize {
         <ul>
           <li><a href="forauthors.html">General Information</a></li>
 	  <li><a href="authorguidelines.html">Guidelines for Authors</a></li>
-	  <li><a href="specialsections.html">Special Sections</a></li>
 	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
           <li><a href="faq.html">FAQ</a></li>
 	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
@@ -115,7 +114,8 @@ p.capitalize {
       <p id="APCs" style="font-size:24px;color:#0069A8">Article Processing Charges (APCs)</p>
 	<p style= "font-size:18px"><b>US$1950 – effective 1 January 2023</b></p></p>	
 <p style = "font-size:18px">Discounts</p>
-      <p>&nbsp;&nbsp;&nbsp; &#62; Special sections papers are eligible for a 50% discount. See <a href="specialsections.html#discounts">Special Sections</a> for more information. 
+       <p>&nbsp;&nbsp;&nbsp; &#62; Special sections papers are eligible for a 50% discount. See <a href="specialsections.html#discounts">Special Sections</a> for more information.
+       <p>&nbsp;&nbsp;&nbsp; &#62; 50% discounts are available for the next 12  regular papers published in the journal. See <a href="news.html">News</a> for more information.</p>
       <p>&nbsp;&nbsp;&nbsp; &#62; IEEE Members receive a 5% discount.</p>
       <p>&nbsp;&nbsp;&nbsp; &#62; IEEE Control Systems Society Members receive a 20% discount.</p>
 	<p><i>Discounts do not apply to undergraduate and graduate students. These discounts cannot be combined.</i></p>
@@ -161,7 +161,9 @@ p.capitalize {
           <p>Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
 
  <div align="right"><p style = "font-size:16px">GET IN CONTACT</P></div>
-<HR>	    
+ <HR>
+  	<a href="https://dashboard.mailerlite.com/forms/365405/82644009139308087/share">Sign up</a> to get the latest announcements straight to your inbox!<br><br>
+
         Jennifer Klam<br>
         Editorial Assistant<br>
         Open Journal of Control Systems<br>

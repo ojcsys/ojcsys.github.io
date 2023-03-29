@@ -68,7 +68,7 @@ p.capitalize {
       <li><a class="drop" href="#">For Authors</a>
         <ul>
           <li><a href="forauthors.html">General Information</a></li>
-	  <li><a href="../files/OJ-CSYS Author Submission Guidelines.pdf" target="_blank">Guidelines for Authors</a></li>
+	  <li><a href="authorguidelines.html">Guidelines for Authors</a></li>
 	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
           <li><a href="faq.html">FAQ</a></li>
 	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
@@ -77,7 +77,7 @@ p.capitalize {
       <li><a class="drop" href="#">For Reviewers</a>
         <ul>
           <li><a href="forreviewers.html">General Information</a></li>
-	  <li><a href="../files/Reviewer-Guidelines-05-26-22.pdf" target="_blank">Guidelines for Reviewers</a></li>
+	  <li><a href="reviewerguidelines.html">Guidelines for Reviewers</a></li>
 	  <li><a href="reviewers2022.html">2022 Reviewers</a></li>
         </ul>
       </li>
@@ -97,6 +97,10 @@ p.capitalize {
     <div class="content three_quarter first"> 
       <!-- ################################################################################################ -->
       <p style="font-size:28px;color:#0069A8">NEWS</p>
+      <p style="font-size:24px;color:#0069A8">APC Discounts on Regular Papers</p>
+      <p>The next 12 regular papers published in the journal are eligible to receive a 50% discount on article processing charges (APCs). Some restrictions apply. Please contact the <a href="mailto:ojcsys@gmail.com">editorial assistant</a> for more information.</p><br>
+      <hr>
+	
       <p style="font-size:24px;color:#0069A8">Important Message for UC Authors</p>
      <p>IEEE and the University of California have reached a four-year read-and-publish agreement enabling researchers across the university system to publish open access in IEEE journals, regardless of whether they have research funds available to pay for open access publishing.</p>
 
@@ -158,7 +162,9 @@ Submission Site: <a href="https://css.paperplaza.net/">https://css.paperplaza.ne
           <p>Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
 
  <div align="right"><p style = "font-size:16px">GET IN CONTACT</P></div>
-<HR>	    
+ <HR>
+  	<a href="https://dashboard.mailerlite.com/forms/365405/82644009139308087/share">Sign up</a> to get the latest announcements straight to your inbox!<br><br>
+
         Jennifer Klam<br>
         Editorial Assistant<br>
         Open Journal of Control Systems<br>

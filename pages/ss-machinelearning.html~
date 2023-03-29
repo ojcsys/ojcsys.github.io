@@ -77,7 +77,7 @@ p.capitalize {
       <li><a class="drop" href="#">For Reviewers</a>
         <ul>
           <li><a href="forreviewers.html">General Information</a></li>
-	  <li><a href="../files/Reviewer-Guidelines-05-26-22.pdf" target="_blank">Guidelines for Reviewers</a></li>
+	  <li><a href="reviewerguidelines.html">Guidelines for Reviewers</a></li>
 	  <li><a href="reviewers2022.html">2022 Reviewers</a></li>
         </ul>
       </li>
@@ -101,7 +101,7 @@ p.capitalize {
 University of Toronto Canada<br>
 <a href="https://www.control.utoronto.ca/~pavel/" target="_blank">https://www.control.utoronto.ca/~pavel/</a><br>
 <a href="mailto:pavel@control.toronto.edu">pavel@control.toronto.edu</a></p>
-      <p><b>Submission Window:</b> 15 Nov 2022 – 15 March 2023</p>
+      <p><b>Submission Window:</b> 15 Nov 2022 – 30 April 2023</p>
 
       <p>Unprecedented technological advances have fueled the creation of devices that can collect, generate, store, and transfer large amounts of data. This massive data outpour is profoundly changing the way in which complex engineering problems are solved, calling for the conception of new interdisciplinary tools at the intersection of machine learning, dynamic systems and control, and optimization. While the repurposing of control theories building on new Machine Learning methods can be highly successful, Dynamic Systems and Control can greatly contribute to analyze and devise novel adaptive, safety-critical controllers with performance guarantees. This special issue aims to contribute to this growing area of interest and calls thus for papers in this topical area.</p>
       <p><b>Topics of interest for this special issue include and are not limited to:</b></p>
@@ -225,7 +225,7 @@ Affiliation: <b>University of California, Santa Barbara</b> </p>
           <li><a href="specialsections.html">Special Sections</a></li>
             </ul>
         <ul>
-          <li><a href="../files/OJ-CSYS Author Submission Guidelines.pdf" target="_blank">Author Guidelines</a></li>
+          <li><a href="authorguidelines.html">Author Guidelines</a></li>
             </ul>
       </nav>
 <BR>
@@ -237,7 +237,9 @@ Affiliation: <b>University of California, Santa Barbara</b> </p>
           <p>Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
 
  <div align="right"><p style = "font-size:16px">GET IN CONTACT</P></div>
-<HR>	    
+ <HR>
+  	<a href="https://dashboard.mailerlite.com/forms/365405/82644009139308087/share">Sign up</a> to get the latest announcements straight to your inbox!<br><br>
+
         Jennifer Klam<br>
         Editorial Assistant<br>
         Open Journal of Control Systems<br>

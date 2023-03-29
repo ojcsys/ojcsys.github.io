@@ -88,7 +88,6 @@ p.capitalize {
         <ul>
           <li><a href="forauthors.html">General Information</a></li>
 	  <li><a href="authorguidelines.html">Guidelines for Authors</a></li>
-	  <li><a href="specialsections.html">Special Sections</a></li>
 	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
           <li><a href="faq.html">FAQ</a></li>
 	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
@@ -97,7 +96,7 @@ p.capitalize {
       <li><a class="drop" href="#">For Reviewers</a>
         <ul>
           <li><a href="forreviewers.html">General Information</a></li>
-	  <li><a href="reviewersguidelines.html">Guidelines for Reviewers</a></li>
+	  <li><a href="reviewerguidelines.html">Guidelines for Reviewers</a></li>
 	  <li><a href="reviewers2022.html">2022 Reviewers</a></li>
         </ul>
       </li>
@@ -304,6 +303,16 @@ author, DOI)</li>
 <p>Save or export your video in MP4, MOV, or AVI format. Video file size is limited to 100MB. Contact <a href="mailto:editsupport@ieee.org">editsupport@ieee.org</a> with questions about specifications, or email the <a href="mailto:ojcsys@gmail.com">editorial assistant</a> with any other questions.</p>
 <p>See an example of a video on Xplore here: <a href="https://ieeexplore.ieee.org/document/9756252/media#media">Optimally Biomimetic Passivity-Based Control of a Lower-Limb Exoskeleton Over the Primary Activities of Daily Life</a></p>
 <p>For more information on supplementary videos, visit the <a href="https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/prepare-supplementary-materials/#producingvideo">IEEE Author Center</a>.</p>
+<p>Evan Ackerman, Senior Editor at IEEE Spectrum, has written a helpful article providing advice for creating a good robot video. However, many of the tips are relevant to research videos in general:</p>
+ <ul>
+   <li>Keep your video as accessible as possible, so that a non-technical audience can watch, understand, and enjoy it.</li>
+   <li>Aim for a video between 1-3 minutes. Remember that your objective with a video is not completeness, but rather to selectively highlight the most interesting parts of your research.</li>
+   <li>Try to avoid simply showing a series of slides as a video.</li>
+   <li>Place the emphasis on experiments, results, and future work.</li>
+   <li>Make sure the video is very clear about where more information can be found; consider including a link to a publicly accessible version of the paper and a website with more detail.</li>
+   </ul>
+<p>Ackerman also provides suggestions for effective video structure, what to do if your research doesn’t have a visual component, tips on hardware and software, and more. Read the full article <a href=“https://www.ieee-ras.org/publications/how-to-make-a-good-robot-video”>here</a>.</p>
+
 <br>
 
 <p style="font-size:18"><a id="illustrations"><b>STYLE FOR ILLUSTRATIONS</b></a></p>
@@ -352,6 +361,8 @@ published, submitted, or accepted for publication elsewhere. IEEE policy require
 </ul>
 
 <p>If the overlap is with other journal papers by the same authors or with non-IEEE conference papers (for which there may be copyright issues) the evaluation of the added value will be more strict. </p>
+<p>The use of artificial intelligence (AI)–generated text in an article shall be disclosed in the acknowledgements section of any paper submitted to an IEEE Conference or Periodical. The sections of the paper that use AI-generated text shall have a citation to the AI system used to generate the text.</p>
+
 <br>
 
 <p style="font-size:18"><a id="references"><b>POLICY ON REFERENCES</b></a></p>

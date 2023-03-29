@@ -68,7 +68,7 @@ p.capitalize {
       <li><a class="drop" href="#">For Authors</a>
         <ul>
           <li><a href="forauthors.html">General Information</a></li>
-	  <li><a href="../files/OJ-CSYS Author Submission Guidelines.pdf" target="_blank">Guidelines for Authors</a></li>
+	  <li><a href="authorguidelines.html">Guidelines for Authors</a></li>
 	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
           <li><a href="faq.html">FAQ</a></li>
 	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
@@ -77,7 +77,7 @@ p.capitalize {
       <li><a class="drop" href="#">For Reviewers</a>
         <ul>
           <li><a href="forreviewers.html">General Information</a></li>
-	  <li><a href="../files/Reviewer-Guidelines-05-26-22.pdf" target="_blank">Guidelines for Reviewers</a></li>
+	  <li><a href="reviewerguidelines.html">Guidelines for Reviewers</a></li>
 	  <li><a href="reviewers2022.html">2022 Reviewers</a></li>
         </ul>
       </li>
@@ -97,11 +97,12 @@ p.capitalize {
     <div class="content three_quarter first"> 
       <!-- ################################################################################################ -->
       <p style = "font-size:24px;color:#0069A8">Ways to Get Involved</p>
-        <p><b>Associate Editors:</b> Becoming a member of the editorial board of the journal requires approval of the Conference Editorial Board (CEB).  If you feel you meet these qualifications, feel free to submit a completed copy of our <a href="../files/AE-bio-template.pdf" download="AE-bio-template.pdf" target="_blank">Author Bio form</a> to the OJ-CSYS Editorial Assistant.</p>
+      <p><b>Associate Editors:</b> Becoming a member of the editorial board of the journal requires approval of the Conference Editorial Board (CEB). Associate Editors are expected to have a PhD in a relevant field and a significant publication record in relevant academic journals. If you feel you meet these qualifications, you may submit a nomination for yourself in <a href="https://css.paperplaza.net/conferences/scripts/start.pl" target="_blank">PaperPlaza</a>. Scroll down to "Awards, Nominations" and click on "Submit a nomination" on the right side. On the next page, find OJ-CSYS on the list, click on "Submit" and follow the prompts. You will need at least one letter of recommendation.</p>
         <p><b>Reviewers:</b>  If you are not yet ready to become part of the editorial board, becoming a reviewer is an excellent way to help the journal and gain experience. Reviewers are an integral part of the success of the OJ-CSYS.</p>
 	<p> We uphold the highest standards for our peer-reviewed papers, and reviewers help by selecting only the most qualified papers. Reviewers are picked for being leading researchers in the field, likely having authored relevant papers that have been previously presented in high-profile journals and conferences.</p>
 	 <p>Reviewers will need to contact the OJ-CSYS editorial assistant after setting themselves up on the <a href="https://css.paperplaza.net/conferences/scripts/pinwizard.pl" template="_blank">Submission Site</a>. Guidelines for reviewers can be found on the<a href="forreviewers.html"> For Reviewers</a> page.</p>
-        <p><p><b>Authors</b> are encouraged to submit their papers after setting themselves up on the <a href="https://css.paperplaza.net/conferences/scripts/pinwizard.pl" template="_blank">Submission Site</a>. The Author Guidelines and other helpful tools can be found under <a href="forauthors.html"> For Authors</a>. Please also feel free to reach out to the OJ-CSYS editorial assistant with any questions.</p>
+      <p><p><b>Authors</b> are encouraged to submit their papers after setting themselves up on the <a href="https://css.paperplaza.net/conferences/scripts/pinwizard.pl" template="_blank">Submission Site</a>. The Author Guidelines and other helpful tools can be found under <a href="forauthors.html"> For Authors</a>. Please also feel free to reach out to the OJ-CSYS editorial assistant with any questions.</p>
+      <p><b>Guest Senior Editors</b> are renowned experts in the field their Special Section focuses on. The OJ-CSYS accepts proposals for Special Sections covering state-of-the-art topics that contribute to a growing area of interest. To be considered as a Guest Senior Editor of a Special Section, first view the <a href=ss-proposalguidelines.html>Special Section Proposal Guidelines</a>. You may then submit a proposal via the <a href=https://css.paperplaza.net/conferences/scripts/start.pl>online submission system</a>. Proposals should include a timeline, specific topics, list of potential guest associate editors that would assist with the review process, as well as a list of potential authors. 
  <br>
 
       <p style = "font-size:24px;color:#0069A8">The IEEE  Control Systems Society Mission</p>
@@ -120,14 +121,17 @@ p.capitalize {
 	    <hr>
       <nav>
         <ul>
-          <li><a href="../files/AE-bio-template.pdf" target="_blank">Author Bio Form</a></li>
+          <li><a href="https://css.paperplaza.net/conferences/scripts/start.pl" target="_blank">AE Nomination</a></li>
             </ul>
         <ul>
           <li><a href="articletypes.html">Article Types</a></li>
             </ul>
         <ul>
           <li><a href="specialsections.html">Special Sections</a></li>
-            </ul>
+        </ul>
+	<ul>
+	  <li><a href="ss-proposalguidelines.html">SS Proposal Guidelines</a></li>
+	  </ul>
       </nav>
 <BR>
       <div align="right"><p style = "font-size:16px">NEWS</P></div>
@@ -138,7 +142,9 @@ p.capitalize {
           <p>Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
 
  <div align="right"><p style="font-size:16px">GET IN CONTACT</P></div>
-<HR>	    
+ <HR>
+  	<a href="https://dashboard.mailerlite.com/forms/365405/82644009139308087/share">Sign up</a> to get the latest announcements straight to your inbox!<br><br>
+
         Jennifer Klam<br>
         Editorial Assistant<br>
         Open Journal of Control Systems<br>

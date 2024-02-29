@@ -81,7 +81,7 @@ p.capitalize {
 	  <li><a href="../pages/reviewers2022.html">2022 Reviewers</a></li>
         </ul>
       </li>
-      <li><a href="https://css.paperplaza.net/conferences/scripts/start.pl" target="_blank">Submit a Paper</a></li>
+      <li><a href="https://css.paperplaza.net/journals/ojcs/scripts/login.pl" target="_blank">Submit a Paper</a></li>
       <li><a href="../pages/getinvolved.html">Get Involved</a></li>
     </ul>
     <!-- ################################################################################################ -->
@@ -98,13 +98,12 @@ p.capitalize {
       <!-- ################################################################################################ -->
       <p style = "font-size:24px;color:#0069A8">Recent Articles and Multimedia</p>
     <ul class = "clear">
-      <p ><b> Paper Title:</b> </font>Exact Decomposition of Optimal Control
-Problems via Simultaneous Block Diagonalization of Matrices</p>
-      <p>  READ MORE ABOUT THIS PAPER <a href="https://ieeexplore.ieee.org/document/9996568" target="_blank"> <b> HERE </b> </a> 
+      <p ><b> Paper Title:</b> </font>A Computational Framework for Optimal Adaptive Function Allocation in a Human-Autonomy Teaming Scenario</p>
+      <p>  READ MORE ABOUT THIS PAPER <a href="https://ieeexplore.ieee.org/document/10345767" target="_blank"> <b> HERE </b> </a> 
       </p>
     </ul>
   
-<img src="paperimage/22-0046.png">
+<img src="paperimage/23-0044.png">
 
       <!-- ################################################################################################ -->
     </div>

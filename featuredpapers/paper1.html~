@@ -9,7 +9,12 @@ Licence URI: https://www.os-templates.com/template-terms
 <html lang="">
 <!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
 <head>
-    <style>
+  <style>
+    video {
+  /* override other styles to make responsive */
+  width: 100%    !important;
+  height: auto   !important;
+}
     p.uppercase {
   text-transform: uppercase;
 }
@@ -68,7 +73,7 @@ p.capitalize {
       <li><a class="drop" href="#">For Authors</a>
         <ul>
           <li><a href="../pages/forauthors.html">General Information</a></li>
-	  <li><a href="../files/OJ-CSYS Author Submission Guidelines 05-26-22.pdf" target="_blank">Guidelines for Authors</a></li>
+	  <li><a href="../pages/authorguidelines.html" target="_blank">Guidelines for Authors</a></li>
 	  <li><a href="../pages/codeocean.html">CodeOcean and IEEE DataPort</a></li>
           <li><a href="../pages/faq.html">FAQ</a></li>
 	  <li><a href="../pages/keywords.html">OJ-CSYS Keywords List</a></li>
@@ -77,11 +82,11 @@ p.capitalize {
       <li><a class="drop" href="#">For Reviewers</a>
         <ul>
           <li><a href="../pages/forreviewers.html">General Information</a></li>
-	  <li><a href="../files/Reviewer-Guidelines-05-26-22.pdf" target="_blank">Guidelines for Reviewers</a></li>
+	  <li><a href="../pages/reviewerguidelines.html" target="_blank">Guidelines for Reviewers</a></li>
 	  <li><a href="../pages/reviewers2022.html">2022 Reviewers</a></li>
         </ul>
       </li>
-      <li><a href="https://css.paperplaza.net/conferences/scripts/start.pl" target="_blank">Submit a Paper</a></li>
+      <li><a href="https://css.paperplaza.net/journals/ojcs/scripts/login.pl" target="_blank">Submit a Paper</a></li>
       <li><a href="../pages/getinvolved.html">Get Involved</a></li>
     </ul>
     <!-- ################################################################################################ -->
@@ -98,16 +103,17 @@ p.capitalize {
       <!-- ################################################################################################ -->
       <p style = "font-size:24px;color:#0069A8">Recent Articles and Multimedia</p>
     <ul class = "clear">
-      <p > <b>Paper Title:</b> </font>Optimally Biomimetic Passivity-Based Control of a Lower-Limb Exoskeleton Over the Primary Activities of Daily Life
-      </p>
-      <p>  READ MORE ABOUT THIS PAPER <a href="https://ieeexplore.ieee.org/document/9756252" target="_blank"> <b> HERE </b> </a> 
+      <p ><b> Paper Title:</b> </font>Context-Triggered Abstraction-Based Control Design</p>
+<p>Note: The below video has sound.</p>
+      <p>  READ MORE ABOUT THIS PAPER <a href="https://ieeexplore.ieee.org/document/10221705" target="_blank"> <b> HERE </b> </a> 
       </p>
     </ul>
   
- <video  width="900" height="500" autoplay muted>
-	   <source src="../videos/multitaskOESfinal4mbpscomp480.mp4"
+ <video  width="900" height="500" controls>
+	   <source src="../videos/video-23-0023.mp4"
 	   type="video/mp4">
 </video>
+
 	
       <!-- ################################################################################################ -->
     </div>

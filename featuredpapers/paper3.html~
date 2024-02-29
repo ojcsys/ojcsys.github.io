@@ -9,7 +9,12 @@ Licence URI: https://www.os-templates.com/template-terms
 <html lang="">
 <!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
 <head>
-    <style>
+  <style>
+        video {
+  /* override other styles to make responsive */
+  width: 100%    !important;
+  height: auto   !important;
+}
     p.uppercase {
   text-transform: uppercase;
 }
@@ -81,7 +86,7 @@ p.capitalize {
 	  <li><a href="../pages/reviewers2022.html">2022 Reviewers</a></li>
         </ul>
       </li>
-      <li><a href="https://css.paperplaza.net/conferences/scripts/start.pl" target="_blank">Submit a Paper</a></li>
+      <li><a href="https://css.paperplaza.net/journals/ojcs/scripts/login.pl" target="_blank">Submit a Paper</a></li>
       <li><a href="../pages/getinvolved.html">Get Involved</a></li>
     </ul>
     <!-- ################################################################################################ -->
@@ -98,13 +103,15 @@ p.capitalize {
       <!-- ################################################################################################ -->
       <p style = "font-size:24px;color:#0069A8">Recent Articles and Multimedia</p>
     <ul class = "clear">
-      <p ><b> Paper Title:</b> </font>Cross Apprenticeship Learning Framework:
-Properties and Solution Approaches</p>
-      <p>  READ MORE ABOUT THIS PAPER <a href="https://ieeexplore.ieee.org/document/10011555" target="_blank"> <b> HERE </b> </a> 
+      <p ><b> Paper Title:</b> </font>Provably Safe Reinforcement Learning via Action Projection Using Reachability Analysis and Polynomial Zonotopes</p>
+      <p>  READ MORE ABOUT THIS PAPER <a href="https://ieeexplore.ieee.org/document/10068193" target="_blank"> <b> HERE </b> </a> 
       </p>
     </ul>
   
-<img src="paperimage/22-0042.png">
+ <video  width="900" height="500" autoplay muted>
+	   <source src="../videos/videoSafetyShield.mp4"
+	   type="video/mp4">
+</video>
 
       <!-- ################################################################################################ -->
     </div>

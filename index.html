@@ -391,30 +391,54 @@ font-family: Formata, Helvetica, sans-serif;
     <div class="group">
       <article class="one_third first">
 	<p style = "font-size:20px;color: #00629B">Article Processing Charges</p>
-        <p>Open access is provided through the payment of an article processing charge paid after acceptance. APCs are US$1995, effective 1 Jan. 2024. Partial discounts available. Find out more on the For Authors page. 
+        <p>Open access is provided through the payment of an article processing charge paid after acceptance. APCs are US$1995, effective 1 Jan. 2024.<b> Partial discounts available.</b> Find out more on the For Authors page. 
 	</p><br><br>
-        <footer class="nospace"><a class="btn" href="pages/forauthors.html#APCs">Read More</a></footer>
+        <footer class="nospace"><a class="btn" href="pages/forauthors.html#APCs">Read More &raquo;</a></footer>
       </article>
       <article class="one_third">
         <p style = "font-size:20px;color: #00629B">Copyright</p>
         <p>Open access articles are published under a Creative Commons license, which allows authors to retain copyright of their article and permits a broad range of reuse. For example, authors may reuse their materials in books or on their web sites at no extra charge.</p><br>
-        <footer class="nospace"><a class="btn" href="https://journals.ieeeauthorcenter.ieee.org/choose-a-publishing-agreement/open-access-rights-management/" target="_blank">Read More</a></footer>
+        <footer class="nospace"><a class="btn" href="https://journals.ieeeauthorcenter.ieee.org/choose-a-publishing-agreement/open-access-rights-management/" target="_blank">Read More &raquo;</a></footer>
       </article>
       <article class="one_third">
         <p  style = "font-size:20px;color: #00629B">News</p>
         <p>OJ-CSYS recently published its first <font color="#00629B">Overview paper</font>, <strong><q>Human Trust in Robots: A Survey on Trust Models and Their Controls/Robotics Applications</strong>.</q> Click below to read the article on IEEE Xplore.</p><br><br>
-        <footer class="nospace"><a class="btn" href="https://ieeexplore.ieee.org/document/10366819">Read More</a></footer>
+        <footer class="nospace"><a class="btn" href="https://ieeexplore.ieee.org/document/10366819">Read More &raquo;</a></footer>
       </article>
     </div>
     <!-- ################################################################################################ -->
-<!-- ################################################################################################ FOUR COLUMN ARTICLES & MULTIMEDIA-->
+<!-- ################################################################################################ BUTTON ONE ARTICLES & MULTIMEDIA-->
 
-<style>
-* {
-  box-sizing: border-box;
+    <style>
+      div.scroll-container {
+  background-color: :#333;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
 }
 
-/* Create four equal columns that floats next to each other */
+div.scroll-container img {
+  padding: 10px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.responsive {
+  width: 75%;
+  max-width: 300px;
+  height: auto;
+}
+
+#myDIV {
+  width: 100%;
+  padding: 10px 0;
+  text-align: center;
+  background-color: white;
+  margin-top: 10px;
+      }
+      /* Create four equal columns that floats next to each other */
 .column {
   float: left;
   width: 25%;
@@ -435,16 +459,13 @@ font-family: Formata, Helvetica, sans-serif;
     width: 100%;
   }
 }
-</style>
-<style>
-            p {
-font-family: Formata, Helvetica, sans-serif; 
-}
-</style>
+    </style>
+
 <div class="wrapper row3">
   <section class="hoc container clear"> 
     <p style="font-size:24px;color: #0069A8">Recent Articles & Multimedia</p>
     <p style="font-size:14px"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9552933" target="_blank">View all articles</a></p>
+    
 <div class="row">
   <div class="column">
     <a href="featuredpapers/paper3.html" target="_blank" rel="noopener noreferrer">
@@ -467,13 +488,44 @@ font-family: Formata, Helvetica, sans-serif;
   <div class="column">
     <a href="featuredpapers/paper4.html"><img src="featuredpapers/paperimage/23-0044-thumb.jpg" width="240" height="145"></a><br><br><br>
   </div>
+</div>
 
-</section>
-  </div>
+  
+    <button class="btn" onclick="myFunction()">Most viewed/cited articles &raquo;</button>
+
+    <div id="myDIV" style="display: none">
+
+      <div class="scroll-container">
+	
+    <a href="featuredpapers/paper12.html"><img src="featuredpapers/paperimage/22-0055-thumb.jpg" width="240" height="145"></a>
+    <a href="featuredpapers/paper11.html"><img src="featuredpapers/paperimage/22-0052-thumb.jpg" width="240" height="145"></a>
+    <a href="featuredpapers/paper10.html"><img src="featuredpapers/paperimage/22-0046-thumb.jpg" width="240" height="145"></a>
+    <a href="featuredpapers/paper9.html"><img src="featuredpapers/paperimage/22-0040-thumb.jpg" width="240" height="145"></a>
+    <a href="featuredpapers/paper8.html"><img src="featuredpapers/paperimage/22-0037-thumb.jpg" width="240" height="145"></a>
+    <a href="featuredpapers/paper7.html"><img src="featuredpapers/paperimage/22-0035-thumb.jpg" width="240" height="145"></a>
+    <a href="featuredpapers/paper6.html"><img src="featuredpapers/paperimage/22-0010-thumb.jpg" width="240" height="145"></a>
+    <a href="featuredpapers/paper5.html"><img src="featuredpapers/paperimage/22-0001-thumb.jpg" width="240" height="145"></a>
+	
+      </div>
+    </div>
+    </section>
+    </div>
+    <script>
+      
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+
   <!-- ################################################################################################ -->
   <!-- ################################################################################################ -->
 
-  <style>
+    <style>
     p {
 font-family: Formata, Helvetica, sans-serif;
 }

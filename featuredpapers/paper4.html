@@ -9,7 +9,12 @@ Licence URI: https://www.os-templates.com/template-terms
 <html lang="">
 <!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
 <head>
-    <style>
+  <style>
+        video {
+  /* override other styles to make responsive */
+  width: 100%    !important;
+  height: auto   !important;
+}
     p.uppercase {
   text-transform: uppercase;
 }
@@ -80,7 +85,6 @@ p.capitalize {
 	  <li><a href="../pages/reviewerguidelines.html">Guidelines for Reviewers</a></li>
 	  <li><a href="../pages/reviewers2022.html">2022 Reviewers</a></li>
 	  <li><a href="../pages/reviewers2023.html">2023 Reviewers</a></li>
-	  <li><a href="../pages/reviewers2024.html">2024 Reviewers</a></li>
         </ul>
       </li>
       <li><a href="https://css.paperplaza.net/journals/ojcs/scripts/login.pl" target="_blank">Submit a Paper</a></li>
@@ -99,13 +103,26 @@ p.capitalize {
     <div class="content three_quarter first"> 
       <!-- ################################################################################################ -->
       <p style = "font-size:24px;color:#0069A8">Recent Articles and Multimedia</p>
-    <ul class = "clear">
-      <p ><b> Paper Title:</b> </font>Controllability and Observability of Heterogeneous Networked Systems With Non-Uniform Node Dimensions and Distinct Inner-Coupling Matrices</p>
-      <p>  READ MORE ABOUT THIS PAPER <a href="https://ieeexplore.ieee.org/document/11075535" target="_blank"> <b> HERE </b> </a> 
-      </p>
-    </ul>
-  
-<img src="paperimage/25-0010.png">
+      <p ><b> Paper Title:</b> </font>Integrating Reinforcement Learning and Model Predictive Control for Mixed-logical Dynamical Systems</p>
+
+<p><b>Authors:</b> Caio Fabio Oliveira da Silva, Azita Dabiri, and Bart De Schutter</p>
+
+
+<p>The use of model predictive control for mixed-logical dynamical systems entails
+the solution of mixed-integer programs, which are typically intractable for real-time
+operation. The authors of this paper address this challenge by training a reinforcement learning policy to determine the discrete decision variables, thereby simplifying the control problem to a continuous optimization problem that is significantly more tractable.
+</p>
+
+      <p>  READ MORE ABOUT THIS PAPER <a href="https://ieeexplore.ieee.org/document/11134093" target="_blank"> <b> HERE </b> </a>
+      </p><br>
+
+      <figure>
+  <img src="paperimage/25-0025-olive1-3601435-large.gif" style="width:100%"><br>
+  <figcaption><i><br>A depiction of the proposed control scheme that integrates reinforcement learning into an MPC framework for mixed-logical dynamical system. The agent’s goal is to
+maximize its long-term reward. It learns to adapt its policy by repeatedly interacting with the environment, that is, by sending a discrete action 𝜖_d(𝑘) and by receiving the extended state 𝜒(𝑘) and immediate reward 𝑟(𝑘). The MPC controller, which is lumped in the environment, receives this discrete action 𝜖_d(𝑘) and then solves an optimization problem to determine
+the continuous action 𝜖_c(𝑘). Finally, the input 𝜖(𝑘) is fed to the system, and the next state is computed.
+</i></figcaption>
+</figure>
 
       <!-- ################################################################################################ -->
     </div>
@@ -139,7 +156,7 @@ p.capitalize {
       <p style = "font-size:16px">News</p>
         <ul>
 	  <li>Latest <a href="news.html">announcements</a></li><br> 
-          <li>Tools Papers submissions are now being accepted! Read more about the paper type in <a href="../pages/articletypes.html" target="_blank">Article Types</a></li>
+          <li>Tools Papers submissions are now being accepted! Read more about the paper type in <a href="../pages/articletypes.html">Article Types</a></li>
 		<br>
           <li>Upcoming Special Sections opening soon. Read more in <a href="../pages/specialsections.html">Special Sections.</a></li>
       </div>

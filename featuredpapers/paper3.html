@@ -103,19 +103,19 @@ p.capitalize {
     <div class="content three_quarter first"> 
       <!-- ################################################################################################ -->
       <p style = "font-size:24px;color:#0069A8">Recent Articles and Multimedia</p>
-      <p ><b> Paper Title:</b> </font>Generalized Concentration-Based Performance Guarantees on Sensor Selection for State Estimation</p>
+      <p ><b> Paper Title:</b> </font>Gaussian Process Supported Stochastic MPC for Distribution Grids</p>
 
-<p><b>Authors:</b> Christopher I. Calle and Shaunak D. Bopardikar</p>
+<p><b>Authors:</b> Moritz Wenzel, Edoardo De Din, Marcel Zimmer, and Andrea Benigni</p>
 
 
-<p>In this paper, the authors develop novel matrix concentration inequalities and a convex optimization framework to formulate a priori performance guarantees on the sensor selection problem for the objective of performing state estimation via the discrete-time Kalman filter. By focusing on sampling with replacement policies to draw a sensor selection for state estimation, matrix concentration inequalities allow us to formulate a priori performance guarantees that do not depend on the submodularity property, a property that is typically necessary for providing combinatorial optimization problems with guarantees.</p>
+<p>The control of distribution grids faces the challenge of increasing uncertainties related to the rising share of distributed renewable generation. At the same time, including probabilistic information into the solution of the system-determining power flow equations further complicates an already computationally complex task. This paper proposes an algorithm to solve these two interwoven problems by approximating non-linear parts of the power flow equations with a Gaussian Process Regression (GPR), which enables the efficient application of a stochastic tube algorithm to deal with forecast and measurement uncertainties in the Model Predictive Control (MPC).</p>
 
-      <p>  READ MORE ABOUT THIS PAPER <a href="https://ieeexplore.ieee.org/document/11123730" target="_blank"> <b> HERE </b> </a>
+      <p>  READ MORE ABOUT THIS PAPER <a href="https://ieeexplore.ieee.org/document/11134570" target="_blank"> <b> HERE </b> </a>
       </p><br>
 
       <figure>
-  <img src="paperimage/25-0014-calle1-3598626-large.gif" style="width:100%"><br>
-  <figcaption><i>Figure comparing the concentration-based upper bounds achievable by the baseline approach, the single-shot approach (SSA), and multi-shot approach (MSA).</i></figcaption>
+  <img src="paperimage/25-0022-wenze3-3601836-large.gif" style="width:100%"><br>
+  <figcaption><i><br>The sequence of the proposed algorithm is mostly executed offline, starting with the distribution grid model and uncertainty model, and training the GPR first, followed by the computation of the stochastic tubes. Hence, only the relatively computationally lightweight online MPC is executed in real-time.</i></figcaption>
 </figure>
 
       <!-- ################################################################################################ -->

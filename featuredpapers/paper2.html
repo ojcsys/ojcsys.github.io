@@ -85,6 +85,7 @@ p.capitalize {
 	  <li><a href="../pages/reviewerguidelines.html">Guidelines for Reviewers</a></li>
 	  <li><a href="../pages/reviewers2022.html">2022 Reviewers</a></li>
 	  <li><a href="../pages/reviewers2023.html">2023 Reviewers</a></li>
+	  <li><a href="../pages/reviewers2024.html">2024 Reviewers</a></li>
         </ul>
       </li>
       <li><a href="https://css.paperplaza.net/journals/ojcs/scripts/login.pl" target="_blank">Submit a Paper</a></li>
@@ -103,25 +104,22 @@ p.capitalize {
     <div class="content three_quarter first"> 
       <!-- ################################################################################################ -->
       <p style = "font-size:24px;color:#0069A8">Recent Articles and Multimedia</p>
-      <p ><b> Paper Title:</b> </font>Mutual Support by Sensor-Attacker Team for a Passive Target
+      <p ><b> Paper Title:</b> </font>Recursively Feasible Probabilistic Safe Online Learning with Control Barrier Functions
 </p>
 
-<p><b>Authors:</b> Prajakta Surve, Shaunak D. Bopardikar, Alexander Von Moll, Isaac Weintraub, and David W. Casbeer</p>
+<p><b>Authors:</b> Fernando Casta&ntilde;eda, Jason J. Choi, Wonsuhk Jung, Bike Zhang, Claire J. Tomlin, Koushil Sreenath</p>
 
 
-<p>This paper studies a pursuit-evasion problem involving a sensor–attacker team and a mobile target in the unbounded plane. It presents optimal strategies for the sensor–attacker team, characterizes the sensable region—the set of target positions that can be kept within the sensor’s range — and derives target speed bounds based on the relative geometry of the Apollonius circle and the sensable region, determining when capture or escape is guaranteed.</p>
+<p>The authors propose a novel safe online learning framework that combines Gaussian process uncertainty modeling with control barrier function (CBF)-based safety filters. Their event-triggered data collection strategy maintains recursive feasibility of the safety filter while guaranteeing probabilistic set invariance with high confidence under model uncertainty.</p>
 
-      <p>  READ MORE ABOUT THIS PAPER <a href="https://ieeexplore.ieee.org/document/11173712" target="_blank"> <b> HERE </b> </a>
+      <p>  READ MORE ABOUT THIS PAPER <a href="https://ieeexplore.ieee.org/document/11199905" target="_blank"> <b> HERE </b> </a>
       </p><br>
 
       <figure>
-  <img src="paperimage/25-0043.jpg" style="width:100%"><br>
-  <figcaption><i><br>In subplot (a), the target’s speed is below the threshold, resulting in initial Apollonius circle (A0) to be contained in the initial sensable region (S0), i.e., A0 ⊂ S0 and leading to guaranteed capture. In subplot (b), the target’s speed exceeds the critical threshold, causing the set A0 to extend beyond the sensable region S0, enabling the target to escape. In subplot (c), although the target speed exceeds the critical value, the condition A0 ⊂ S0 still holds, and capture remains guaranteed. In all three subplots the sets At and St are shown at the initial time t = 0 (dashed line) and at the termination time t = tf (solid line).</i></figcaption>
+  <img src="paperimage/25-0051-choi1-3620209-large.gif" style="width:100%"><br>
+  <figcaption><i><br>State-space illustration of the adaptive cruise control (ACC) scenario demonstrating the core idea of the authors' method. The black curve shows the system trajectory up to the current state (marked by a star). The colored background visualizes the feasibility certificate λ†(x) of the probabilistic CBF constraint, computed from the Gaussian Process posterior over the CBF dynamics. Regions where λ†(x) < 0 denote certified safe states (shown in green and yellow) given the dataset of measurements collected up until that point. In the top plot, as the vehicle approaches a boundary where uncertainty threatens this condition, the algorithm triggers an active measurement along an exploratory, safety-informed control direction, expanding the certified safe region with new states (in blue). As new data accumulate, this safe region continues to expand, enabling progression into states that were previously too uncertain. This adaptive interplay ensures the controller never leaves itself without a guaranteed safe backup direction, thereby maintaining recursive feasibility of the probabilistic CBF constraint. The bottom plot shows the final snapshot after completing the trajectory, highlighting the enlarged certified safe region resulting from the collected measurements.</i></figcaption>
       </figure>
 <br><br>
-         <video  width="100%" height="auto" controls>
-	<source src="https://ojcsys.github.io/videos/SAT-video.mp4" type="video/mp4"> 	    </video> </a>
-
 
       <!-- ################################################################################################ -->
     </div>

@@ -69,6 +69,7 @@ p.capitalize {
         <ul>
           <li><a href="forauthors.html">General Information</a></li>
 	  <li><a href="authorguidelines.html">Guidelines for Authors</a></li>
+	  <li><a href="ss-proposalguidelines.html">Special Section Proposal Guidelines</a></li>
 	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
           <li><a href="faq.html">FAQ</a></li>
 	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
@@ -78,10 +79,14 @@ p.capitalize {
         <ul>
           <li><a href="forreviewers.html">General Information</a></li>
 	  <li><a href="reviewerguidelines.html">Guidelines for Reviewers</a></li>
+	  <li><a href="ss-proposalguidelines.html">Special Section Proposal Guidelines</a>
 	  <li><a href="reviewers2022.html">2022 Reviewers</a></li>
+	  <li><a href="reviewers2023.html">2023 Reviewers</a></li>
+  	  <li><a href="reviewers2024.html">2024 Reviewers</a></li>
+  	  <li><a href="reviewers2025.html">2025 Reviewers</a></li>
         </ul>
       </li>
-      <li><a href="https://css.paperplaza.net/conferences/scripts/start.pl" target="_blank">Submit a Paper</a></li>
+      <li><a href="https://css.paperplaza.net/journals/ojcs/scripts/login.pl" target="_blank">Submit a Paper</a></li>
       <li><a href="getinvolved.html">Get Involved</a></li>
     </ul>
     <!-- ################################################################################################ -->
@@ -106,23 +111,25 @@ p.capitalize {
 	<p>Open access is provided through the payment of an article processing charge (APC) paid after acceptance. APCs are often financed by an author's institution or the funder supporting their research. For specific information regarding APCs, and special offers, please see "Article Processing Charges (APCs)" section below.</p>
 
       <p style = "font-size:24px;color:#0069A8">Review Process</p>
-      <p>The articles in this journal are peer-reviewed in accordance with the requirements set forth in the <a href="https://pspb.ieee.org/images/files/files/opsmanual.pdf" target="_blank">IEEE Publication Services and Products Board Operations Manual</a>. The articles in this journal are peer-reviewed by a minimum of two independent reviewers using a single-blind peer-review process, where the identities of the reviewers are not known to the authors, but the reviewers know the identities of the authors. Articles will be screened for plagiarism before acceptance.</p>
+      <p>The articles in this journal are peer-reviewed in accordance with the requirements set forth in the <a href="https://pspb.ieee.org/images/files/files/opsmanual.pdf" target="_blank">IEEE Publication Services and Products Board Operations Manual</a>. The articles in this journal are peer-reviewed by a minimum of two independent reviewers using a single-anonymous peer-review process, where the identities of the reviewers are not known to the authors, but the reviewers know the identities of the authors. Articles will be screened for plagiarism before acceptance.</p>
       <p><a href="https://ieeexplore.ieee.org/Xplorehelp/author-center/publishing-policies#publishing-ethics">IEEE Publishing Ethics Policy</a></p>
 
       <hr>
       
       <p id="APCs" style="font-size:24px;color:#0069A8">Article Processing Charges (APCs)</p>
-	<p style= "font-size:18px"><b>US$1950 – effective 1 January 2023</b></p></p>	
+	<p style= "font-size:18px"><b>US$2160 – effective 1 January 2026</b></p></p>	
 <p style = "font-size:18px">Discounts</p>
-       <p>&nbsp;&nbsp;&nbsp; &#62; Special sections papers are eligible for a 50% discount. See <a href="specialsections.html#discounts">Special Sections</a> for more information.
-       <p>&nbsp;&nbsp;&nbsp; &#62; 50% discounts are available for the next 12  regular papers published in the journal. See <a href="news.html">News</a> for more information.</p>
+       <p>&nbsp;&nbsp;&nbsp; &#62; Special sections may have 50% discounts available for published authors. See <a href="specialsections.html#discounts">Special Sections</a> for more information.
+       <p>&nbsp;&nbsp;&nbsp; &#62; <b>A number of 50% discounts are available for regular papers published in Vol. 5.</b> In order to get the discount, papers must be submitted by mid-June 2026 (20 weeks prior to the close of the volume).  Contact the <a href="mailto:jcklam@ucsd.edu">Editorial Assistant</a> for more information. </p>
       <p>&nbsp;&nbsp;&nbsp; &#62; IEEE Members receive a 5% discount.</p>
       <p>&nbsp;&nbsp;&nbsp; &#62; IEEE Control Systems Society Members receive a 20% discount.</p>
 	<p><i>Discounts do not apply to undergraduate and graduate students. These discounts cannot be combined.</i></p>
 	<p><i>Check with your affiliation library for more possible discounts.</i></p>
-	<p>Corresponding authors from low-income countries (as classified by the World Bank) are eligible for discounts on article processing charges. For more information, please visit the <a href="https://journals.ieeeauthorcenter.ieee.org/choose-a-publishing-agreement/open-access-rights-management/" target="_blank">IEEE Author Center</a>.</p>
-	<p> In a transformative agreement with the IEEE, the University of California and University of Illinois have agreed to cover the full cost of the article processing charges, or APCs, to corresponding authors at these campuses to publish open access in IEEE journals. See your library website for more details.</p>
-<p>To view all the current IEEE Open Access Institutional Partners please <a href="https://open.ieee.org/for-institutions/institutional-partners/" target="_blank">click here.</a></p>
+<p>Corresponding authors from low-income countries (as classified by the World Bank) are eligible for discounts on article processing charges. For more information, please visit the <a href="https://journals.ieeeauthorcenter.ieee.org/choose-a-publishing-agreement/open-access-rights-management/" target="_blank">IEEE Author Center</a>.</p>
+<p> In a transformative agreement with the IEEE, the University of Illinois has agreed to cover the full cost of the article processing charges, or APCs, to corresponding authors at its campuses to publish open access in IEEE journals. See your library website for more details. As of 1 January 2024, the University of California will be ending open access publishing support through its agreement with IEEE. Funding for page charges will also end at that time, and UC authors who publish in IEEE journals will be responsible for covering the APCs.</p>
+
+<p><b>To view all the current IEEE Open Access Institutional Partners please <a href="https://open.ieee.org/for-institutions/institutional-partners/" target="_blank">click here.</a></b></p>
+<p>Additionally, some institutions provide funds to promote open access publishing and support their authors' research activities. <b>To see whether your institution has open access funding, check with your library or view this partial <a href="OAfunding.html">list</a>.</b></p>
 
 	<p><a href="authorguidelines.html">View the OJ-CSYS Author Guidelines</a></p>
 	<p>Please contact the OJ-CSYS <a href="mailto: ojcsys@gmail.com"> editorial assistant</a> with any questions.
@@ -150,29 +157,36 @@ p.capitalize {
             </ul>
         <ul>
           <li><a href="authorguidelines.html">Author Guidelines</a></li>
-            </ul>
+        </ul>
+	<ul>
+	  <li><a href="ss-proposalguidelines.html">Special Section Proposal Guidelines</a>
+	</ul>
+	
       </nav>
 <BR>
-      <div align="right"><p style = "font-size:16px">NEWS</P></div>
+	<div align="right"><p style = "font-size:16px">IMPACT FACTOR</P></div>
+	<hr>
+	Impact Factor of 1.2<br><br>
+	<a href="https://www.scopus.com/sourceid/21101257208" target="_blank">Scopus</a> CiteScore of 2.3<br><br>
+	Indexed in the <a href="https://doaj.org/toc/2694-085X">Directory of Open Access Journals</a> (DOAJ)
+	<br><br>
+
+	<div align="right"><p style = "font-size:16px">NEWS</P></div>
 	    <hr>
-          <p>View the latest  <a href="news.html">announcements</a> and updates <br><br>
-      <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
+            View the latest  <a href="news.html">announcements</a> and updates <br><br>
+	    <a href="newsletter.html">Sign up</a> to receive updates straight to your inbox<br><br>
+
+	    <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
 	    <hr>
-          <p>Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
+          Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
 
  <div align="right"><p style = "font-size:16px">GET IN CONTACT</P></div>
- <HR>
-  	<a href="https://dashboard.mailerlite.com/forms/365405/82644009139308087/share">Sign up</a> to get the latest announcements straight to your inbox!<br><br>
-
+<HR>	    	
         Jennifer Klam<br>
         Editorial Assistant<br>
         Open Journal of Control Systems<br>
         <br>
         Email: <a href="mailto: ojcsys@gmail.com">ojcsys@gmail.com</a><br><br>
-
-	<div align="right"><p style = "font-size:16px">IMPACT FACTOR</P></div>
-	<hr>
-Impact factor to come
 
       <!-- ################################################################################################ -->
     </div>

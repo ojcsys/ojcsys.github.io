@@ -78,6 +78,7 @@ p.capitalize {
         <ul>
           <li><a href="forauthors.html">General Information</a></li>
 	  <li><a href="authorguidelines.html">Guidelines for Authors</a></li>
+	  <li><a href="ss-proposalguidelines.html">Special Section Proposal Guidelines</a></li>
 	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
           <li><a href="faq.html">FAQ</a></li>
 	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
@@ -88,9 +89,12 @@ p.capitalize {
           <li><a href="forreviewers.html">General Information</a></li>
 	  <li><a href="reviewerguidelines.html">Guidelines for Reviewers</a></li>
 	  <li><a href="reviewers2022.html">2022 Reviewers</a></li>
+	  <li><a href="reviewers2023.html">2023 Reviewers</a></li>
+	  <li><a href="reviewers2024.html">2024 Reviewers</a></li>
+	  <li><a href="reviewers2025.html">2025 Reviewers</a></li>
         </ul>
       </li>
-      <li><a href="https://css.paperplaza.net/conferences/scripts/start.pl" target="_blank">Submit a Paper</a></li>
+      <li><a href="https://css.paperplaza.net/journals/ojcs/scripts/login.pl" target="_blank">Submit a Paper</a></li>
       <li><a href="getinvolved.html">Get Involved</a></li>
     </ul>
     <!-- ################################################################################################ -->
@@ -108,17 +112,27 @@ p.capitalize {
 <div class="content three_quarter first"> 
 
   <a id="Associate_Editors"><p style = "font-size:24px;color:#00629B">Associate Editors (continued)</p></a>
-<div class="imgl">
-  <img src="../images/people/Sojoudi.jpg" alt="Somayeh Sojoudi"></a><br><br>
-</div>
-<p><b>Somayeh Sojoudi</b> is Assistant Professor of Electrical Engineering and Computer Sciences and Mechanical Engineering departments at the University of California, Berkeley. She works on interdisciplinary problems in optimization theory, control theory, machine learning and power systems.</p>
 
-<hr>
+
+<div class="imgl">
+  <img src="../images/people/Reniers.jpg" alt="Michel Reniers"></a><br><br>
+</div>
+<p><b>Michel Reniers</b> is an Associate Professor at the Mechanical Engineering Department at Eindhoven University of Technology. His research interests include model-based engineering of supervisory controllers, synthesis of supervisory controllers for modal logics, engineering of cyber-physical systems (of systems) and development of modeling languages and model transformations.</p>
+
+  <hr>
 
 <div class="imgl">
   <img src="../images/people/Speranzon.jpeg" alt="Alberto Speranzon"></a><br><br>
 </div>
 <p><b>Alberto Speranzon</b> is a Technical Fellow at Honeywell Aerospace, Advanced Technology Group, based in Minneapolis, MN. At Honeywell, he works on autonomous systems, machine learning and systems of systems, leading such research areas as program manager and principal investigator.  
+</p>
+
+       <hr>
+
+       <div class="imgl">
+  <img src="../images/people/Srivastava.jpg" alt="Vaibhav Srivastava"></a><br><br>
+</div>
+<p><b>Vaibhav Srivastava</b> is currently an Associate Professor of Electrical and Computer Engineering at Michigan State University. He is also affiliated with the  Mechanical Engineering, Cognitive Science Program, and Connected and Autonomous Networked Vehicles for Active Safety (CANVAS). He served as a Lecturer and Associate Research Scholar with the Mechanical and Aerospace Engineering Department at Princeton University from 2013-2016. He has served on the IEEE Control System Society conference editorial board since 2018.   
 </p>
 
        <hr>
@@ -129,30 +143,32 @@ p.capitalize {
 <p><b>Pavankumar Tallapragada</b> is an Assistant Professor and Associate Faculty in the Department of Electrical Engineering at the Indian Institute of Science Bengaluru - India. His research areas include networked control systems, distributed systems and control, multi-agent systems and control, and dynamics of socio-technical systems. </p>
 
 	 <hr>
-	 
+
+	 <div class="imgl">
+  <img src="../images/people/tedesco.jpg" alt="Francesco Tedesco"></a><br><br>
+</div>
+<p><b>Francesco Tedesco</b> is an Associate Professor in the Department of Computer Engineering, Modelling, Electronics, and Systems (DIMES) at the University of Calabria, Italy. His research interests include supervision approaches over data networks, model predictive control, automotive control systems, and the control of cyber-physical systems. He is a Senior Member of the IEEE, and currently serves as an Associate Editor for the Asian Journal of Control, IET Control Theory & Applications, and IEEE Transactions on Automation Science and Engineering (TASE). </p>
+
+<hr>
+
 <div class="imgl">
   <img src="../images/people/WangG.jpg" alt="Gang Wang"></a><br><br>
 </div>
-<p><b>Gang Wang</b> Gang Wang is currently a Professor with the School of Automation, Beijing Institute of Technology, Beijing, China. </p>
+<p><b>Gang Wang</b> Gang Wang is a Professor with the School of Automation, Beijing Institute of Technology, Beijing, China. </p>
 
 	 <hr>
   
 <div class="imgl">
-  <img src="../images/people/WangY.png" alt="Yue Wang"></a><br><br>
+  <img src="../images/people/Zheng.jpg" alt="Wei Xing Zheng"></a><br><br>
 </div>
-<p><b>Yue Wang</b> a Professor in the Department of Mechanical Engineering at Clemson University and the director of the Interdisciplinary & Intelligence Research (I2R) Laboratory. Research interests include cooperative control and decision-making for human-robot collaboration systems, symbolic robot motion planning with a human-in-the-loop, cyber-physical systems and multi-agent systems. </p>
-
-         <hr>
-<div class="imgl">
-  <img src="../images/people/Yang.jpg" alt="Insoon Yang"></a><br><br>
-</div>
-<p><b>Insoon Yang</b> is an Associate Professor of Electrical and Computer Engineering at Seoul National University. His research areas include stochastic control and reinforcement learning, safe autonomy and risk management, and optimization.</p>
+<p><b>Wei Xing Zheng</b> received the PhD degree in Electrical Engineering from Southeast University, China in 1989. He is currently a University Distinguished Professor at Western Sydney University, Australia. He has been a Distinguished Lecturer of IEEE Control Systems Society. He is a Fellow of IEEE and a Fellow of IFAC. </p>
 
   <hr>
 <div class="imgl">
   <img src="../images/people/Zhu.jpg" alt="Minghui Zhu"></a><br><br>
 </div>
 <p><b>Minghui Zhu</b> is an Associate Professor in the School of Electrical Engineering and Computer Science at the Pennsylvania State University. His research interests lie in distributed control and decision-making of multi-agent networks with applications in robotic networks, security and the smart grid. </p>
+
 </div>
 
 
@@ -163,27 +179,31 @@ p.capitalize {
 <!-- ########################################################################################## -->
     <div class="one_quarter"> 
       <!-- ################################################################################################ -->
-      <div align="right"><p style = "font-size:16px">NEWS</P></div>
-	    <hr>
-          <p>View the latest  <a href="news.html">announcements</a> and updates <br><br>
-      <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
-	    <hr>
-          <p>Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
+	<div align="right"><p style = "font-size:16px">IMPACT FACTOR</P></div>
+	<hr>
+	Impact Factor of 1.2<br><br>
+	<a href="https://www.scopus.com/sourceid/21101257208" target="_blank">Scopus</a> CiteScore of 2.3<br><br>
+	Indexed in the <a href="https://doaj.org/toc/2694-085X">Directory of Open Access Journals</a> (DOAJ)
+	<br><br>
 
+	<div align="right"><p style = "font-size:16px">NEWS</P></div>
+	    <hr>
+            View the latest  <a href="news.html">announcements</a> and updates <br><br>
+	     	    <a href="newsletter.html">Sign up</a> to receive updates straight to your inbox<br><br>
+	    
+	    <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
+	    <hr>
+	    
+	    Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
+
+	    
  <div align="right"><p style = "font-size:16px">GET IN CONTACT</P></div>
- <HR>
- 	<a href="https://dashboard.mailerlite.com/forms/365405/82644009139308087/share">Sign up</a> to get the latest announcements straight to your inbox!<br><br>
-
+<HR>	    	
         Jennifer Klam<br>
         Editorial Assistant<br>
         Open Journal of Control Systems<br>
         <br>
         Email: <a href="mailto: ojcsys@gmail.com">ojcsys@gmail.com</a><br><br>
-
-	<div align="right"><p style = "font-size:16px">IMPACT FACTOR</P></div>
-	<hr>
-Impact factor to come
-</div>
 </div>
       <!-- ########################################################################################## --> 
       <!-- ########################################################################################## --> 

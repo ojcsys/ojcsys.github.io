@@ -9,7 +9,7 @@ Licence URI: https://www.os-templates.com/template-terms
 <html lang="">
 <!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
 <head>
-  <style>
+    <style>
     p.uppercase {
   text-transform: uppercase;
 }
@@ -22,7 +22,8 @@ p.capitalize {
   text-transform: capitalize;
 }
 </style>
-<title>About</title>
+
+<title>Sign up for the OJ-CSYS Newsletter</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="../layout/styles/layout-alternative.css" rel="stylesheet" type="text/css" media="all">
@@ -43,8 +44,7 @@ p.capitalize {
     <div id="quickinfo" class="fl_right">
       <p class="lowercase" style="font-size:13px;color:#0069A8">
       <a href="mailto:ojcsys@gmail.com">ojcsys@gmail.com</a></p>
-    </div>
-    <!-- ################################################################################################ -->
+    </div>    <!-- ################################################################################################ -->
   </header>
 </div>
 <!-- ################################################################################################ -->
@@ -69,7 +69,7 @@ p.capitalize {
         <ul>
           <li><a href="forauthors.html">General Information</a></li>
 	  <li><a href="authorguidelines.html">Guidelines for Authors</a></li>
-	  <li><a href="pages/ss-proposalguidelines.html">Special Section Proposal Guidelines</a>
+	  <li><a href="ss-proposalguidelines.html">Special Section Proposal Guidelines</a></li>
 	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
           <li><a href="faq.html">FAQ</a></li>
 	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
@@ -79,10 +79,10 @@ p.capitalize {
         <ul>
           <li><a href="forreviewers.html">General Information</a></li>
 	  <li><a href="reviewerguidelines.html">Guidelines for Reviewers</a></li>
+	  <li><a href="ss-proposalguidelines.html">Special Section Proposal Guidelines</a>
 	  <li><a href="reviewers2022.html">2022 Reviewers</a></li>
 	  <li><a href="reviewers2023.html">2023 Reviewers</a></li>
-	  <li><a href="reviewers2024.html">2024 Reviewers</a></li>
-	  <li><a href="reviewers2025.html">2025 Reviewers</a></li>
+  	  <li><a href="reviewers2024.html">2024 Reviewers</a></li>
         </ul>
       </li>
       <li><a href="https://css.paperplaza.net/journals/ojcs/scripts/login.pl" target="_blank">Submit a Paper</a></li>
@@ -98,90 +98,42 @@ p.capitalize {
   <main class="hoc container clear"> 
     <!-- main body -->
     <!-- ################################################################################################ -->
-    <div class="content three_quarter first"> 
       <!-- ################################################################################################ -->
-      <p style = "font-size:24px;color:#0069A8">Aim & Scope</p>
-      <p style = "font-size:18px;line-height:125%">The IEEE Open Journal of Control Systems covers the theory, design, optimization, and applications of dynamic systems and control. The field integrates elements of sensing, communication, decision and actuation components, as relevant for the analysis, design and operation of dynamic systems and control. The systems considered include: technological, physical, biological, economic, organizational and other entities, and combinations thereof.</p>
-      <hr>
-      <p style = "font-size:24px;color:#0069A8;line-height:120%">Get Published in the new IEEE Open Journal of Control Systems</p>
-      <img class="imgl borderedbox inspace-5" src="../images/pub-cover.jpg" width="170" height="220" alt="OJ-CSYS cover">
-      <p>Submit a paper to the premier open-access journal in control systems!</p>
-<p>We invite you to be among the first to have your article peer-reviewed and published in this new journal. This is an exciting opportunity for your research to benefit from the high visibility and interest the journal’s marketing launch will generate. Your work will also be exposed to 5 million unique monthly users of the IEEE Xplore® Digital Library.</p>
-      <p>The IEEE Open Journal of Control Systems (OJ-CSYS) will draw on the expert technical community to continue IEEE’s commitment to publishing the most highly cited content. The editor-in-chief is the distinguished Prof. Sonia Martínez. Our goal is to publish quickly. Publication of accepted papers on IEEE Xplore is no more than 24 weeks after initial submission. Read more information <a href="articletypes.html#turnaround_time">here</a>. This journal is fully open and compliant with funder mandates, including Plan S.</p>
-      	<p><a href="https://ieeexplore.ieee.org/Xplorehelp/author-center/publishing-policies#publishing-ethics" target="_blank">IEEE Publishing Ethics Policy</a></p>
-
-<p>The IEEE Open Journal of Control Systems is a new publication of the IEEE Control Systems Society. The journal aims to publish high-quality papers on the theory, design, optimization, and applications of dynamic systems and control.</p>
-
-<p>The <a href="editorialboard.html">Editorial Board</a> demonstrates the breadth of areas covered within the journal.</p>
-
-<p>The journal’s main mission is the promotion of open access to all control systems research and education publications, including software, and data.</p>
-
-<p>Some journal highlights include:</p>
-
-<ul style=list-style-type="disc">
-  
- <li><b>Special emphasis areas</b> are the interplay between data science and control, and the interdisciplinary connection of dynamic systems and controls with diverse applications in biological, social, cognitive, and cyber-physical systems.</li>
- <li><b>New publication categories</b> will be featured in addition to regular papers, including overview, position, open software/testbed tutorial papers, and reproducible papers in dynamic systems and controls.</li>
- </ul>
-
-<hr>
-
-      <p style = "font-size:24px;color:#0069A8;line-height:120%">Special Sections</p>
-	<p>These special sections covering state-of-the-art trending topics are now open:
-<p>
-&nbsp;&nbsp;&nbsp;&#62; Intersection of Machine Learning with Control <br><br>
-
-</p>
-      <p>Go to <a href="specialsections.html">Special Sections</a> for more information.</p>
-
-<hr>
-
-      <p style = "font-size:24px;color:#0069A8">Editor-in-Chief</p>
-
-      <p>       <img class="imgl borderedbox inspace-5" src="../images/people/Martinez.jpg" alt="Prof. Sonia Martinez" style="width:185px;height:230px;">
-</p><br>
-
-<b>Sonia Martínez</b><br>
-University of California, <br>San Diego<br>
-United States<br>
-<a href="mailto:soniamd@ucsd.edu"><i class="fa fa-envelope-o"></i> Email</a>
-       <br><a href="http://muro.ucsd.edu/sonia/" target="_blank"><i class="fa fa-globe"></i> Website</i></a>
-<br><a href="https://orcid.org/0000-0001-6756-1484" target="_blank"><img src="../images/orcid_icon.png"> ORCID</a><br><br>
-
-      <!-- ################################################################################################ -->
+<div id="mc_embed_shell">
+      <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
+        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px;}
+        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+    <form action="https://github.us14.list-manage.com/subscribe/post?u=7e4185fa55484fbc42fa7de05&amp;id=4ac3e90fa8&amp;f_id=009143e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+        <div id="mc_embed_signup_scroll"><h2>Subscribe</h2>
+            <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+            <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div><div class="mc-field-group"><label for="mce-FNAME">First Name </label><input type="text" name="FNAME" class=" text" id="mce-FNAME" value=""></div><div class="mc-field-group"><label for="mce-LNAME">Last Name </label><input type="text" name="LNAME" class=" text" id="mce-LNAME" value=""></div>
+        <div id="mce-responses" class="clear foot">
+            <div class="response" id="mce-error-response" style="display: none;"></div>
+            <div class="response" id="mce-success-response" style="display: none;"></div>
+        </div>
+    <div aria-hidden="true" style="position: absolute; left: -5000px;">
+        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
+        <input type="text" name="b_7e4185fa55484fbc42fa7de05_4ac3e90fa8" tabindex="-1" value="">
     </div>
-    <!-- ################################################################################################ -->
-    <!-- ################################################################################################ -->
-    <div class="sidebar one_quarter"> 
-      <!-- ################################################################################################ -->
-
-	<div align="right"><p style = "font-size:16px">IMPACT FACTOR</P></div>
-	<hr>
-	Impact Factor of 1.2<br><br>
-	<a href="https://www.scopus.com/sourceid/21101257208" target="_blank">Scopus</a> CiteScore of 3.2<br><br>
-	Indexed in the <a href="https://doaj.org/toc/2694-085X">Directory of Open Access Journals</a> (DOAJ)
-	<br><br>
-
-	<div align="right"><p style = "font-size:16px">NEWS</P></div>
-	    <hr>
-            View the latest  <a href="news.html">announcements</a> and updates <br><br>
-	    <a href="newsletter.html">Sign up</a> to receive updates straight to your inbox<br><br>
-
-	    <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
-	    <hr>
-          Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
-
- <div align="right"><p style = "font-size:16px">GET IN CONTACT</P></div>
-<HR>	    	
-        Jennifer Klam<br>
-        Editorial Assistant<br>
-        Open Journal of Control Systems<br>
-        <br>
-        Email: <a href="mailto: ojcsys@gmail.com">ojcsys@gmail.com</a><br><br>
-
-
-      <!-- ################################################################################################ -->
+        <div class="optionalParent">
+            <div class="clear foot">
+                <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
+                <p style="margin: 0px auto;"><a href="http://eepurl.com/jdmiFA" title="Mailchimp - email marketing made easy and fun"><span style="display: inline-block; background-color: transparent; border-radius: 4px;"><img class="refferal_badge" src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg" alt="Intuit Mailchimp" style="width: 220px; height: 40px; display: flex; padding: 2px 0px; justify-content: center; align-items: center;"></span></a></p>
+            </div>
+        </div>
     </div>
+</form>
+</div>
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';fnames[6]='COMPANY';ftypes[6]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
+
+
+
+      <!-- ################################################################################################ -->
+      <!-- ################################################################################################ -->
     <!-- ################################################################################################ -->
     <!-- / main body -->
     <div class="clear"></div>
@@ -197,8 +149,8 @@ United States<br>
         <p>The IEEE Open Journal of Control Systems’ main mission is the promotion of open access to all control systems research and education publications, including software, and data.</p>
 	<p>The journal is fully open and compliant with funder mandates, including Plan S.</p>
       <ul class="faico clear">
-        <li><a class="faicon-facebook" href="https://www.facebook.com/OJ.CSYS"><i class="fa fa-facebook"></i></a></li>
-        <li><a class="faicon-twitter" href="https://twitter.com/IEEE_OJCSYS"><i class="fa fa-twitter"></i></a></li>
+        <li><a class="faicon-facebook" href="https://www.facebook.com/OJ.CSYS" target="_blank"><i class="fa fa-facebook"></i></a></li>
+        <li><a class="faicon-twitter" href="https://twitter.com/IEEE_OJCSYS" target="_blank"><i class="fa fa-twitter"></i></a></li>
       </ul>
     </div>
     <div class="one_third">

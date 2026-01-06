@@ -10,6 +10,25 @@ Licence URI: https://www.os-templates.com/template-terms
 <!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
 <head>
   <style>
+    .button {
+  background-color: #54b9ff;
+  border: none;
+  color: white;
+  padding: 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 4px;
+  cursor: pointer;
+}
+
+.button1 {border-radius: 12px;}
+.button2 {border-radius: 12px;}
+.button3 {border-radius: 12px;}
+.button4 {border-radius: 12px;}
+.button5 {border-radius: 12px;}
+
     p.uppercase {
   text-transform: uppercase;
 }
@@ -22,13 +41,13 @@ p.capitalize {
   text-transform: capitalize;
 }
 </style>
-<title>About</title>
+<title>Open Access Funds</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="../layout/styles/layout-alternative.css" rel="stylesheet" type="text/css" media="all">
 </head>
 <body id="top">
-<!-- ################################################################################################ -->
+<!--################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <div class="wrapper row1">
@@ -69,7 +88,7 @@ p.capitalize {
         <ul>
           <li><a href="forauthors.html">General Information</a></li>
 	  <li><a href="authorguidelines.html">Guidelines for Authors</a></li>
-	  <li><a href="pages/ss-proposalguidelines.html">Special Section Proposal Guidelines</a>
+	  <li><a href="ss-proposalguidelines.html">Special Section Proposal Guidelines</a></li>
 	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
           <li><a href="faq.html">FAQ</a></li>
 	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
@@ -81,8 +100,7 @@ p.capitalize {
 	  <li><a href="reviewerguidelines.html">Guidelines for Reviewers</a></li>
 	  <li><a href="reviewers2022.html">2022 Reviewers</a></li>
 	  <li><a href="reviewers2023.html">2023 Reviewers</a></li>
-	  <li><a href="reviewers2024.html">2024 Reviewers</a></li>
-	  <li><a href="reviewers2025.html">2025 Reviewers</a></li>
+  	  <li><a href="reviewers2024.html">2024 Reviewers</a></li>
         </ul>
       </li>
       <li><a href="https://css.paperplaza.net/journals/ojcs/scripts/login.pl" target="_blank">Submit a Paper</a></li>
@@ -91,6 +109,10 @@ p.capitalize {
     <!-- ################################################################################################ -->
   </nav>
 </div>
+
+  <!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
@@ -98,95 +120,101 @@ p.capitalize {
   <main class="hoc container clear"> 
     <!-- main body -->
     <!-- ################################################################################################ -->
-    <div class="content three_quarter first"> 
       <!-- ################################################################################################ -->
-      <p style = "font-size:24px;color:#0069A8">Aim & Scope</p>
-      <p style = "font-size:18px;line-height:125%">The IEEE Open Journal of Control Systems covers the theory, design, optimization, and applications of dynamic systems and control. The field integrates elements of sensing, communication, decision and actuation components, as relevant for the analysis, design and operation of dynamic systems and control. The systems considered include: technological, physical, biological, economic, organizational and other entities, and combinations thereof.</p>
-      <hr>
-      <p style = "font-size:24px;color:#0069A8;line-height:120%">Get Published in the new IEEE Open Journal of Control Systems</p>
-      <img class="imgl borderedbox inspace-5" src="../images/pub-cover.jpg" width="170" height="220" alt="OJ-CSYS cover">
-      <p>Submit a paper to the premier open-access journal in control systems!</p>
-<p>We invite you to be among the first to have your article peer-reviewed and published in this new journal. This is an exciting opportunity for your research to benefit from the high visibility and interest the journal’s marketing launch will generate. Your work will also be exposed to 5 million unique monthly users of the IEEE Xplore® Digital Library.</p>
-      <p>The IEEE Open Journal of Control Systems (OJ-CSYS) will draw on the expert technical community to continue IEEE’s commitment to publishing the most highly cited content. The editor-in-chief is the distinguished Prof. Sonia Martínez. Our goal is to publish quickly. Publication of accepted papers on IEEE Xplore is no more than 24 weeks after initial submission. Read more information <a href="articletypes.html#turnaround_time">here</a>. This journal is fully open and compliant with funder mandates, including Plan S.</p>
-      	<p><a href="https://ieeexplore.ieee.org/Xplorehelp/author-center/publishing-policies#publishing-ethics" target="_blank">IEEE Publishing Ethics Policy</a></p>
+    <p style = "font-size:24px"><b>OPEN ACCESS FUNDS</b></p>
+    <p style = "font-size:18px">(As of 6/23/23; check your institution’s web site for availability, eligibility, and requirements. Information subject to change.)</p>
+      <p><a class="btn" href="../files/OAfunds-06-23-23.pdf" download>Download PDF</a></p>
+      <br>
+     
+<b>California State University, Los Angeles</b> (up to $1,000; $1,500 with student co-author) <br>
+<a href="https://libguides.calstatela.edu/openaccess/faq">https://libguides.calstatela.edu/openaccess/faq</a>
+<br><br>
+<b>Clemson University</b> (up to $1500)<br>
+<a href="https://libraries.clemson.edu/digital-scholarship-publishing/publishing-copyright/open-access-publishing-fund/">https://libraries.clemson.edu/digital-scholarship-publishing/publishing-copyright/open-access-publishing-fund/</a>
+<br><br>
+<b>Colorado School of Mines</b> (awards up to $1000)<br>
+<a href="https://libguides.mines.edu/OA/publishing">https://libguides.mines.edu/OA/publishing</a>
+<br><br>
+<b>Cornell</b> (up to $3000)<br>
+<a href="https://www.library.cornell.edu/research-teaching/scholarly-publishing/coap">https://www.library.cornell.edu/research-teaching/scholarly-publishing/coap</a>
+<br><br> 
+<b>Harvard</b> (HOPE Fund, up to $3000)<br>
+<a href="https://osc.hul.harvard.edu/programs/hope/">https://osc.hul.harvard.edu/programs/hope/</a>
+<br><br>
+<b>Iowa State University</b> (OA Subvention Grant, covers half of APC)<br>
+<a href="https://open.lib.iastate.edu/open-access/agreements">https://open.lib.iastate.edu/open-access/agreements</a>
+<br><br>
+<b>Louisiana State University</b> (up to $2000)<br>
+<a href="https://www.lib.lsu.edu/services/oaf">https://www.lib.lsu.edu/services/oaf</a>
+<br><br>
+<b>MIT</b> (limit of $1000)<br>
+<a href="https://libraries.mit.edu/scholarly/publishing/oa-publishing-support/open-access-publishing-fund/">https://libraries.mit.edu/scholarly/publishing/oa-publishing-support/open-access-publishing-fund/</a>
+<br><br>
+<b>Northwestern</b> (up to $3500)<br>
+<a href="https://www.library.northwestern.edu/research/scholarly/open-access-fund.html">https://www.library.northwestern.edu/research/scholarly/open-access-fund.html</a>
+<br><br>
+<b>Princeton University</b> (up to $3000)<br>
+<a href="https://library.princeton.edu/services/scholarly-communications/oa-fund-program">https://library.princeton.edu/services/scholarly-communications/oa-fund-program</a>
+<br><br>
+<b>Purdue</b> (up to $2500)<br>
+<a href="https://www.lib.purdue.edu/openaccess/fund">https://www.lib.purdue.edu/openaccess/fund</a>
+<br><br>
+<b>Rice University</b> (up to $1,500)<br>
+<a href="https://libguides.rice.edu/AuthorFees/Journals">https://libguides.rice.edu/AuthorFees/Journals</a>
+<br><br>
+<b>Texas A&M University-Corpus Christi</b> (up to $3000)<br>
+<a href="https://guides.library.tamucc.edu/OpenAccess/OAFund">https://guides.library.tamucc.edu/OpenAccess/OAFund</a>
+<br><br>
+<b>Texas Tech University</b> (limit of $1000)<br>
+<a href="https://guides.library.ttu.edu/open-access/open-access-fund">https://guides.library.ttu.edu/open-access/open-access-fund</a>
+<br><br>
+<b>Tufts University</b> (up to $3000)<br>
+<a href="https://tischlibrary.tufts.edu/about-library/library-awards/tisch-library-open-access-publishing-fund">https://tischlibrary.tufts.edu/about-library/library-awards/tisch-library-open-access-publishing-fund</a>
+<br><br>
+<b>University of Central Florida</b> (up to $1500)<br>
+<a href="https://graduate.ucf.edu/open-access-publishing-fund/">https://graduate.ucf.edu/open-access-publishing-fund/</a>
+<br><br>
+<b>University of Cincinnati</b> (up to $3000)<br>
+<a href="https://libraries.uc.edu/research-teaching-support/scopenaccess/OAA.html">https://libraries.uc.edu/research-teaching-support/scopenaccess/OAA.html</a>
+<br><br>
+<b>University of Colorado Boulder</b> (limit of $2000)<br>
+<a href="https://www.colorado.edu/libraries/research/open-access/open-access-fund">https://www.colorado.edu/libraries/research/open-access/open-access-fund</a>
+<br><br>
+<b>University of Denver</b> (up to $3000)<br>
+<a href="https://library.du.edu/collections-library-materials/libraries-and-open-access/open-access-publication-equity-fund">https://library.du.edu/collections-library-materials/libraries-and-open-access/open-access-publication-equity-fund</a>
+<br><br>
+<b>University of Maryland</b> (50% of APC)<br>
+<a href="https://www.lib.umd.edu/research/oss/oa/fund">https://www.lib.umd.edu/research/oss/oa/fund</a>
+<br><br>
+<b>University of Massachusetts, Amherst</b> (SOAR fund, up to $1200)<br>
+<a href="https://guides.library.umass.edu/SOARFund">https://guides.library.umass.edu/SOARFund</a>
+<br><br>
+<b>University of Nevada, Reno</b> (up to $1500; future support depends on funding)<br>
+<a href="https://library.unr.edu/locations-and-spaces/savitt-medical-library/savitt-research-guides/special-topics/scholarly-communication/open-access-publishing-fund">https://library.unr.edu/locations-and-spaces/savitt-medical-library/savitt-research-guides/special-topics/scholarly-communication/open-access-publishing-fund</a>
+<br><br>
+<b>University of North Carolina at Charlotte</b> (limit of $1000)<br>
+<a href="https://library.charlotte.edu/research-write/publishing/grants-funding">https://library.charlotte.edu/research-write/publishing/grants-funding</a>
+<br><br>
+<b>University of Pittsburgh</b> (up to $3000)<br>
+<a href="https://www.library.pitt.edu/open-access-author-fee-fund-policy">https://www.library.pitt.edu/open-access-author-fee-fund-policy</a>
+<br><br>
+<b>University of Rhode Island</b> (up to $2000)<br>
+<a href="https://uri.libguides.com/oafund">https://uri.libguides.com/oafund</a>
+<br><br>
+<b>University of Tennessee Knoxville</b> (up to $1800)<br>
+<a href="https://www.lib.utk.edu/scholar/services/opsf/">https://www.lib.utk.edu/scholar/services/opsf/</a>
+<br><br>
+<b>Virginia Tech</b> (limited to $1500 per article)<br>
+<a href="https://guides.lib.vt.edu/oasf/guidelines">https://guides.lib.vt.edu/oasf/guidelines</a>
+<br><br>
 
-<p>The IEEE Open Journal of Control Systems is a new publication of the IEEE Control Systems Society. The journal aims to publish high-quality papers on the theory, design, optimization, and applications of dynamic systems and control.</p>
-
-<p>The <a href="editorialboard.html">Editorial Board</a> demonstrates the breadth of areas covered within the journal.</p>
-
-<p>The journal’s main mission is the promotion of open access to all control systems research and education publications, including software, and data.</p>
-
-<p>Some journal highlights include:</p>
-
-<ul style=list-style-type="disc">
-  
- <li><b>Special emphasis areas</b> are the interplay between data science and control, and the interdisciplinary connection of dynamic systems and controls with diverse applications in biological, social, cognitive, and cyber-physical systems.</li>
- <li><b>New publication categories</b> will be featured in addition to regular papers, including overview, position, open software/testbed tutorial papers, and reproducible papers in dynamic systems and controls.</li>
- </ul>
-
-<hr>
-
-      <p style = "font-size:24px;color:#0069A8;line-height:120%">Special Sections</p>
-	<p>These special sections covering state-of-the-art trending topics are now open:
-<p>
-&nbsp;&nbsp;&nbsp;&#62; Intersection of Machine Learning with Control <br><br>
-
-</p>
-      <p>Go to <a href="specialsections.html">Special Sections</a> for more information.</p>
-
-<hr>
-
-      <p style = "font-size:24px;color:#0069A8">Editor-in-Chief</p>
-
-      <p>       <img class="imgl borderedbox inspace-5" src="../images/people/Martinez.jpg" alt="Prof. Sonia Martinez" style="width:185px;height:230px;">
-</p><br>
-
-<b>Sonia Martínez</b><br>
-University of California, <br>San Diego<br>
-United States<br>
-<a href="mailto:soniamd@ucsd.edu"><i class="fa fa-envelope-o"></i> Email</a>
-       <br><a href="http://muro.ucsd.edu/sonia/" target="_blank"><i class="fa fa-globe"></i> Website</i></a>
-<br><a href="https://orcid.org/0000-0001-6756-1484" target="_blank"><img src="../images/orcid_icon.png"> ORCID</a><br><br>
-
-      <!-- ################################################################################################ -->
-    </div>
-    <!-- ################################################################################################ -->
-    <!-- ################################################################################################ -->
-    <div class="sidebar one_quarter"> 
-      <!-- ################################################################################################ -->
-
-	<div align="right"><p style = "font-size:16px">IMPACT FACTOR</P></div>
-	<hr>
-	Impact Factor of 1.2<br><br>
-	<a href="https://www.scopus.com/sourceid/21101257208" target="_blank">Scopus</a> CiteScore of 3.2<br><br>
-	Indexed in the <a href="https://doaj.org/toc/2694-085X">Directory of Open Access Journals</a> (DOAJ)
-	<br><br>
-
-	<div align="right"><p style = "font-size:16px">NEWS</P></div>
-	    <hr>
-            View the latest  <a href="news.html">announcements</a> and updates <br><br>
-	    <a href="newsletter.html">Sign up</a> to receive updates straight to your inbox<br><br>
-
-	    <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
-	    <hr>
-          Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
-
- <div align="right"><p style = "font-size:16px">GET IN CONTACT</P></div>
-<HR>	    	
-        Jennifer Klam<br>
-        Editorial Assistant<br>
-        Open Journal of Control Systems<br>
-        <br>
-        Email: <a href="mailto: ojcsys@gmail.com">ojcsys@gmail.com</a><br><br>
 
 
-      <!-- ################################################################################################ -->
-    </div>
     <!-- ################################################################################################ -->
     <!-- / main body -->
     <div class="clear"></div>
   </main>
-</div>
+
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
@@ -216,6 +244,10 @@ United States<br>
     <!-- ################################################################################################ -->
   </footer>
 </div>
+
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->

@@ -78,6 +78,7 @@ p.capitalize {
         <ul>
           <li><a href="forauthors.html">General Information</a></li>
 	  <li><a href="authorguidelines.html">Guidelines for Authors</a></li>
+	  <li><a href="ss-proposalguidelines.html">Special Section Proposal Guidelines</a></li>
 	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
           <li><a href="faq.html">FAQ</a></li>
 	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
@@ -88,9 +89,12 @@ p.capitalize {
           <li><a href="forreviewers.html">General Information</a></li>
 	  <li><a href="reviewerguidelines.html">Guidelines for Reviewers</a></li>
 	  <li><a href="reviewers2022.html">2022 Reviewers</a></li>
+	  <li><a href="reviewers2023.html">2023 Reviewers</a></li>
+ 	  <li><a href="reviewers2024.html">2024 Reviewers</a></li>
+ 	  <li><a href="reviewers2025.html">2025 Reviewers</a></li>
         </ul>
       </li>
-      <li><a href="https://css.paperplaza.net/conferences/scripts/start.pl" target="_blank">Submit a Paper</a></li>
+      <li><a href="https://css.paperplaza.net/journals/ojcs/scripts/login.pl" target="_blank">Submit a Paper</a></li>
       <li><a href="getinvolved.html">Get Involved</a></li>
     </ul>
     <!-- ################################################################################################ -->
@@ -108,50 +112,62 @@ p.capitalize {
 <div class="content three_quarter first"> 
 
   <a id="Associate_Editors"><p style = "font-size:24px;color:#00629B">Associate Editors (continued)</p></a>
+
 <div class="imgl">
-  <img src="../images/people/Kia.png" alt="Solmaz S. Kia"></a><br><br>
+  <img src="../images/people/Liu.jpg" alt="Jun Liu"></a><br><br>
 </div>
-<p><b>Solmaz S. Kia</b> is Associate Professor in the Department of Mechanical and Aerospace Engineering at the University of California at Irvine. Her research interests include networked control systems, decentralized/distributed algorithm design for multi-agent systems, nonlinear control theory and robotics.</p>
+<p><b>Jun Liu</b> is an Associate Professor of Applied Mathematics and directs the Hybrid Systems Laboratory. Liu is a senior member of IEEE, a member of SIAM, and a lifetime member of CAIMS. He has served on the editorial boards and program committees of several journals and conferences, including Automatica, Nonlinear Analysis: Hybrid Systems, Systems & Control Letters, the IEEE Conference on Decision and Control (CDC), and the American Control Conference (ACC). </p>
+
+<hr>
+
+<div class="imgl">
+  <img src="../images/people/Mathieu.jpg" alt="Johanna L. Mathieu"></a><br><br>
+</div>
+<p><b>Johanna L. Mathieu</b> is an Associate Professor in the Department of Electrical Engineering and Computer Science at the University of Michigan, Ann Arbor. Prior to that she was a postdoctoral researcher at the Swiss Federal Institute of Technology (ETH) in Zurich, Switzerland. Her research interests include modeling, estimation, control, and optimization of distributed energy resources. </p>
+
+       <hr>
+
+<div class="imgl">
+  <img src="../images/people/Mehr.jpg" alt="Negar Mehr"></a><br><br>
+</div>
+<p><b>Negar Mehr</b> is an Assistant Professor of Aerospace Engineering at the University of Illinois Urbana-Champaign. She is also affiliated with the Coordinated Science Laboratory and the Electrical and Computer Engineering department at UIUC. Her research interests lie at the intersection of control theory, game theory, and machine learning. </p>
+
+       <hr>
+
+       <div class="imgl">
+  <img src="../images/people/Miao.jpg" alt="Fei Miao"></a><br><br>
+</div>
+<p><b>Fei Miao</b> is the Pratt & Whitney Associate Professor of the School of Computing and a Courtesy Faculty of the Department of Electrical & Computer Engineering at the University of Connecticut. She is also affiliated to the Institute of Advanced Systems Engineering and Eversource Energy Center. She is a recipient of the NSF CAREER award, among other awards from NSF. </p>
+
+<hr>
+
+       <div class="imgl">
+  <img src="../images/people/Nowzari.jpg" alt="Cameron Nowzari"></a><br><br>
+</div>
+<p><b>Cameron Nowzari</b> is currently an Associate Professor with the Electrical and Computer Engineering Department at George Mason University in Virginia. He has received several awards including the American Automatic Control Council’s O. Hugo Schuck Best Paper Award, the IEEE Control Systems Magazine Outstanding Paper Award, and the Office of Naval Research’s Young Investigator Program (YIP) Award. 
+ </p>
 
 <hr>
 
 <div class="imgl">
   <img src="../images/people/Ocampo.jpeg" alt="Carlos Ocampo-Martinez"></a><br><br>
 </div>
-<p><b>Carlos Ocampo-Martinez</b> is an Associate Professor at the Universitat Politècnica de Catalunya in Spain. His research interests include constrained model predictive control, large-scale systems management, process control and industrial applications.</p>
+<p><b>Carlos Ocampo-Martinez</b> is an Associate Professor at the Universitat Politècnica de Catalunya in Spain. His research interests include constrained model predictive control, large-scale systems management, process control and industrial applications. </p>
 
-       <hr>
+<hr>
 
-<div class="imgl">
+  <div class="imgl">
   <img src="../images/people/Oliveira.png" alt="Tiago Roux Oliveira"></a><br><br>
 </div>
 <p><b>Tiago Roux Oliveira</b> is a control theorist and Associate Professor at State University of Rio de Janeiro in Brazil. He has published more than 65-refereed journal articles and more than 140-refereed conference papers. </p>
 
-	 <hr>
-	 
-<div class="imgl">
-  <img src="../images/people/Prabhakar.jpeg" alt="Pavithra Prabhakar"></a><br><br>
-</div>
-<p><b>Pavithra Prabhakar</b> is a Professor in the Department of Computer Science at Kansas State University. Her research interests include formal verification and synthesis of autonomous and cyber-physical systems; formal analysis of AI-based controllers; applications in robotics, aerospace systems, autonomous vehicles and agricultural automation.</p>
+<hr>
 
-	 <hr>
-  
 <div class="imgl">
-  <img src="../images/people/Reniers.jpg" alt="Michel Reniers"></a><br><br>
+  <img src="../images/people/ramirez-llanos.jpg" alt="Eduardo Ramirez-Llanos"></a><br><br>
 </div>
-<p><b>Michel Reniers</b> is an Associate Professor at the Mechanical Engineering Department at Eindhoven University of Technology. His research interests include model-based engineering of supervisory controllers, synthesis of supervisory controllers for modal logics, engineering of cyber-physical systems (of systems) and development of modeling languages and model transformations.</p>
+<p><b>Eduardo Ramirez Llanos</b> leads systems engineering at Aumovio, focusing on autonomous driving, control systems, and machine learning. He holds 19 patents and has authored numerous publications in control and robotics. He serves as Associate Editor for IEEE conferences and earned his Ph.D. from UC San Diego. </p>
 
-         <hr>
-<div class="imgl">
-  <img src="../images/people/Seiler.jpg" alt="Peter Seiler"></a><br><br>
-</div>
-<p><b>Peter Seiler</b> is an Associate Professor of Electrical Engineering and Computer Science at the University of Michigan. His research is grounded in robust control theory, which focuses on the impact of model uncertainty on systems design.</p>
-
-  <hr>
-<div class="imgl">
-  <img src="../images/people/Smith.png" alt="Stephen Smith"></a><br><br>
-</div>
-<p><b>Stephen L. Smith</b> is a Canada Research Chair in Autonomous Systems and a Professor in Electrical and Computer Engineering at the University of Waterloo, where he directs the Autonomous Systems Lab. His research focuses on control and optimization for autonomous systems and robotics. </p>
 </div>
 
 
@@ -162,28 +178,30 @@ p.capitalize {
 <!-- ########################################################################################## -->
     <div class="one_quarter"> 
       <!-- ################################################################################################ -->
-            <div align="right"><p style = "font-size:16px">NEWS</P></div>
-	    <hr>
-          <p>View the latest  <a href="news.html">announcements</a> and updates <br><br>
+	<div align="right"><p style = "font-size:16px">IMPACT FACTOR</P></div>
+	<hr>
+	Impact Factor of 1.2<br><br>
+	<a href="https://www.scopus.com/sourceid/21101257208" target="_blank">Scopus</a> CiteScore of 2.3<br><br>
+	Indexed in the <a href="https://doaj.org/toc/2694-085X">Directory of Open Access Journals</a> (DOAJ)
+	<br><br>
 
-      <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
+	<div align="right"><p style = "font-size:16px">NEWS</P></div>
 	    <hr>
-          <p>Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
+            View the latest  <a href="news.html">announcements</a> and updates<br><br>
+
+	    <a href="https://mailchi.mp/f97d8dc72f44/newsletter-signup" target="_blank">Sign up</a> to receive our quarterly newsletter<br><br>
+
+	    <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
+	    <hr>
+          Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
 
  <div align="right"><p style = "font-size:16px">GET IN CONTACT</P></div>
- <HR>
- 	<a href="https://dashboard.mailerlite.com/forms/365405/82644009139308087/share">Sign up</a> to get the latest announcements straight to your inbox!<br><br>
-
+<HR>	    	
         Jennifer Klam<br>
         Editorial Assistant<br>
         Open Journal of Control Systems<br>
         <br>
         Email: <a href="mailto: ojcsys@gmail.com">ojcsys@gmail.com</a><br><br>
-
-	<div align="right"><p style = "font-size:16px">IMPACT FACTOR</P></div>
-	<hr>
-Impact factor to come
-</div>
 </div>
       <!-- ########################################################################################## --> 
       <!-- ########################################################################################## --> 

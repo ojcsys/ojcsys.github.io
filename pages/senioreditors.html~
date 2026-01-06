@@ -78,6 +78,7 @@ p.capitalize {
         <ul>
           <li><a href="forauthors.html">General Information</a></li>
 	  <li><a href="authorguidelines.html">Guidelines for Authors</a></li>
+	  <li><a href="ss-proposalguidelines.html">Special Section Proposal Guidelines</a></li>
 	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
           <li><a href="faq.html">FAQ</a></li>
 	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
@@ -88,9 +89,11 @@ p.capitalize {
           <li><a href="forreviewers.html">General Information</a></li>
 	  <li><a href="reviewerguidelines.html">Guidelines for Reviewers</a></li>
 	  <li><a href="reviewers2022.html">2022 Reviewers</a></li>
+	  <li><a href="reviewers2023.html">2023 Reviewers</a></li>
+  	  <li><a href="reviewers2024.html">2024 Reviewers</a></li>	  
         </ul>
       </li>
-      <li><a href="https://css.paperplaza.net/conferences/scripts/start.pl" target="_blank">Submit a Paper</a></li>
+      <li><a href="https://css.paperplaza.net/journals/ojcs/scripts/login.pl" target="_blank">Submit a Paper</a></li>
       <li><a href="getinvolved.html">Get Involved</a></li>
     </ul>
     <!-- ################################################################################################ -->
@@ -109,16 +112,16 @@ p.capitalize {
 
   <a id="Senior_Editors"><p style = "font-size:24px;color:#0069A8">Senior Editors</p></a>
 <div class="imgl">
-  <img src="../images/people/Pavel.jpg" alt="Lacra Pavel"></a><br><br>
+  <img src="../images/people/Seiler.jpg" alt="Peter Seiler"></a><br><br>
 </div>
-<p><b>Lacra Pavel</b> is a Professor in the Systems Control Group in the Department of Electrical and Computer Engineering at the University of Toronto, in Canada. </p>
+<p><b>Peter Seiler</b> is an Associate Professor in the Electrical Engineering and Computer Science department at the University of Michigan. He works in the area of robust control theory, which focuses on the impact of model uncertainty on systems design. He is a contributor to the Robust Control Toolbox in Matlab. He is currently developing theoretical and numerical algorithms to assess the robustness of systems on finite time horizons. </p>
 
 <hr>
 
 <div class="imgl">
-  <img src="../images/people/Zhang.jpeg" alt="Wei Zhang"></a><br><br>
+  <img src="../images/people/Smith.png" alt="Stephen Smith"></a><br><br>
 </div>
-<p><b>Wei Zhang</b> is currently a Professor in the Department of Mechanical and Energy Engineering at the Southern University of Science and Technology in Shenzhen, China. </p>
+<p><b>Stephen Smith</b> is a Canada Research Chair in Autonomous Systems and a Professor in Electrical and Computer Engineering at the University of Waterloo, where he directs the Autonomous Systems Lab. He is co-director of the Waterloo Artificial Intelligence Institute. His research interests are in the control of autonomous systems, robot motion planning and coordination, along with applied combinatorial optimization. </p>
 </div>	      
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
@@ -127,27 +130,28 @@ p.capitalize {
 <!-- ########################################################################################## -->
     <div class="sidebar one_quarter"> 
       <!-- ################################################################################################ -->
-      <div align="right"><p style = "font-size:16px">NEWS</P></div>
-	    <hr>
-          <p>View the latest  <a href="news.html">announcements</a> and updates <br><br>
-      <div align="right"><p style="font-size:16px">CURRENT ARTICLES</P></div>
-	    <hr>
-          <p>Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
+	<div align="right"><p style = "font-size:16px">IMPACT FACTOR</P></div>
+	<hr>
+	Impact Factor of 1.2<br><br>
+	<a href="https://www.scopus.com/sourceid/21101257208" target="_blank">Scopus</a> CiteScore of 2.3<br><br>
+	Indexed in the <a href="https://doaj.org/toc/2694-085X">Directory of Open Access Journals</a> (DOAJ)
+	<br><br>
 
- <div align="right"><p style="font-size:16px">GET IN CONTACT</P></div>
- <HR>
-  	<a href="https://dashboard.mailerlite.com/forms/365405/82644009139308087/share">Sign up</a> to get the latest announcements straight to your inbox!<br><br>
+	<div align="right"><p style = "font-size:16px">NEWS</P></div>
+	    <hr>
+          View the latest  <a href="news.html">announcements</a> and updates <br><br>
 
+	    <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
+	    <hr>
+          Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
+
+ <div align="right"><p style = "font-size:16px">GET IN CONTACT</P></div>
+<HR>	    	
         Jennifer Klam<br>
         Editorial Assistant<br>
         Open Journal of Control Systems<br>
         <br>
         Email: <a href="mailto: ojcsys@gmail.com">ojcsys@gmail.com</a><br><br>
-
-	<div align="right"><p style="font-size:16px">IMPACT FACTOR</P></div>
-	<hr>
-Impact factor to come
-</div>
 
       <!-- ########################################################################################## --> 
     </aside>

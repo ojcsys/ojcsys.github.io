@@ -78,6 +78,7 @@ p.capitalize {
         <ul>
           <li><a href="forauthors.html">General Information</a></li>
 	  <li><a href="authorguidelines.html">Guidelines for Authors</a></li>
+	  <li><a href="ss-proposalguidelines.html">Special Section Proposal Guidelines</a>
 	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
           <li><a href="faq.html">FAQ</a></li>
 	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
@@ -88,9 +89,12 @@ p.capitalize {
           <li><a href="forreviewers.html">General Information</a></li>
 	  <li><a href="reviewerguidelines.html">Guidelines for Reviewers</a></li>
 	  <li><a href="reviewers2022.html">2022 Reviewers</a></li>
+	  <li><a href="reviewers2023.html">2023 Reviewers</a></li>
+	  <li><a href="reviewers2024.html">2024 Reviewers</a></li>
+	  <li><a href="reviewers2025.html">2025 Reviewers</a></li>
         </ul>
       </li>
-      <li><a href="https://css.paperplaza.net/conferences/scripts/start.pl" target="_blank">Submit a Paper</a></li>
+      <li><a href="https://css.paperplaza.net/journals/ojcs/scripts/login.pl" target="_blank">Submit a Paper</a></li>
       <li><a href="getinvolved.html">Get Involved</a></li>
     </ul>
     <!-- ################################################################################################ -->
@@ -108,20 +112,6 @@ p.capitalize {
 <div class="content three_quarter first"> 
 
   <a id="Associate_Editors"><p style = "font-size:24px;color:#00629B">Associate Editors</p></a>
-<div class="imgl">
-  <img src="../images/people/Alizadeh.png" alt="Manhoosh Alizadeh"></a><br><br>
-</div>
-<p><b>Manhoosh Alizadeh</b> is an Associate Professor in the  Electrical and Computer Engineering Department at the University of California, Santa Barbara. Her research interests include learning, optimization, and control with applications to cyber-physical systems and smart grid.
-</p>
-
-<hr>
-
-<div class="imgl">
-  <img src="../images/people/Briat.png" alt="Corentin Briat"></a><br><br>
-</div>
-<p><b>Corentin Briat</b> is a Senior Scientist at ETH-Zürich, working at the intersection of mathematics, control theory and engineering, optimization, data science, and biology. He is also an Optimization and Control engineer at Swisspods Technologies and an independent researcher. </p>
-
-       <hr>
 
 <div class="imgl">
   <img src="../images/people/Canale.jpg" alt="Massimo Canale"></a><br><br>
@@ -129,33 +119,54 @@ p.capitalize {
        <p><b>Massimo Canale</b> is an Associate Professor of Automatic Control at the Politecnico di Torino in Italy. He is coauthor of over 80 papers published on international journals and international conferences.</p>
 
 	 <hr>
-	 
-<div class="imgl">
-  <img src="../images/people/Chaves.jpg" alt="Madalena Chaves"></a><br><br>
-</div>
-      <p><b>Madalena Chaves</b> is a Senior Researcher at Inria Sophia Antipolis
-- Mediterranean in France. Her research is in the area of dynamical systems.</p>
 
-	 <hr>
-  
 <div class="imgl">
-  <img src="../images/people/Fang.jpg" alt="Huazhen Fang"></a><br><br>
+  <img src="../images/people/Carli.jpg" alt="Ruggero Carli"></a><br><br>
 </div>
-      <p><b>Huazhen Fang</b> is an Associate Professor in the Department of Mechanical Engineering at the University of Kansas, where he leads the Information & Smart Systems Laboratory. </p>
+<p><b>Ruggero Carli</b> is an Associate Professor at the Department of Information Engineering at the University of Padova in Italy. His research interests include distributed algorithms for optimization, estimation and control over networks, nonparametric estimation, and learning algorithms for robotics. He has co-authored more than 160 publications in peer-reviewed international journals and conferences.
+
+  <hr>
+      
+<div class="imgl">
+  <img src="../images/people/Gambuzza.jpg" alt="Lucia Valentina Gambuzza"></a><br><br>
+</div>
+<p><b>Lucia Valentina Gambuzza</b> is an Assistant Professor in the  Department of Electrical, Electronic and Computer  Engineering at  the University of Catania in Italy. Her research interests include analysis and control of complex systems, control of nonlinear dynamics and chaos, nonlinear systems and their applications, consensus and synchronization. </p>
 
 	<hr>
 <div class="imgl">
   <img src="../images/people/Iannelli.png" alt="Luigi Iannelli"></a><br><br>
 </div>
-<p><b>Luigi Iannelli</b> is an Associate Professor at Department of Engineering at  the University of Sannio in Italy. He held visiting researcher positions at the Royal Institute of Technology, Sweden, and the Johann Bernoulli Institute of Mathematics and Computer Science, University of Groningen, The Netherlands. </p>
+<p><b>Luigi Iannelli</b> is an Associate Professor in the Department of Engineering at  the University of Sannio in Italy. He held visiting researcher positions at the Royal Institute of Technology, Sweden, and the Johann Bernoulli Institute of Mathematics and Computer Science, University of Groningen, The Netherlands. </p>
 
-  <hr>
+	<hr>
 <div class="imgl">
-  <img src="../images/people/Jain.jpeg" alt="Neera Jain"></a><br><br>
+  <img src="../images/people/Innocenti.jpg" alt="Giacomo Innocenti"></a><br><br>
 </div>
-<p><b>Neera Jain</b> is an Assistant Professor in the School of Mechanical Engineering and a faculty member in the Ray W. Herrick Laboratories at Purdue University. She directs the Jain Research Laboratory, which aims to advance technologies that will have a lasting impact on society through a systems-based approach grounded in dynamic modeling and control theory.</p>
-</div>
+<p><b>Giacomo Innocenti</b> is an Associate Professor in Automation at the University of Florence in Italy. He is also a fellow of the Department of Information Engineering, a member of the Scientific Committee of the Technological Sciences Library and the scientific supervisor of the Cyber-Physical Systems Laboratory at the university. </p>
 
+<hr>
+
+<div class="imgl">
+  <img src="../images/people/Kishida.jpg" alt="Masako Kishida"></a><br><br>
+</div>
+<p><b>Masako Kishida</b> is a Professor of Engineering, Information and Systems at the University of Tsukuba, Japan. Her research interests include networked control systems, optimization, and uncertainty analysis. She is currently a JST PREST Researcher and a senior member of IEEE.</p>
+
+<hr>
+
+<div class="imgl">
+  <img src="../images/people/le-ny.jpg" alt="Jerome Le Ny"></a><br><br>
+</div>
+<p><b>Jerome Le Ny</b> is Professor of Electrical Engineering at Polytechnique Montreal, Canada, and a member of GERAD, a multi-university research center on decision analysis. His research interests include the control of multi-agent and networked systems, mean-field games, privacy and security in control systems, with applications to autonomous multi-robot systems and intelligent infrastructure systems.
+</p>
+
+<hr>
+
+<div class="imgl">
+  <img src="../images/people/Li.jpg" alt="Xiuxian Li"></a><br><br>
+</div>
+<p><b>Xiuxian Li</b> is a full Professor with the College of Electronic and Information Engineering and the Shanghai Research Institute for Intelligent Autonomous Systems, Tongji University, Shanghai, China. He received the Ph.D. degree in mechanical engineering from HKU, Hong Kong, in 2016. His research interests include distributed control and optimization, game theory, and autonomous vehicles. He is a member of IEEE CSS Conference Editorial Board (CEB) and a senior member of IEEE.
+</p>
+</div>
 
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
@@ -164,28 +175,29 @@ p.capitalize {
 <!-- ########################################################################################## -->
     <div class="one_quarter"> 
       <!-- ################################################################################################ -->
-            <div align="right"><p style = "font-size:16px">NEWS</P></div>
-	    <hr>
-          <p>View the latest  <a href="news.html">announcements</a> and updates <br><br>
+	<div align="right"><p style = "font-size:16px">IMPACT FACTOR</P></div>
+	<hr>
+	Impact Factor of 1.2<br><br>
+	<a href="https://www.scopus.com/sourceid/21101257208" target="_blank">Scopus</a> CiteScore of 2.3<br><br>
+	Indexed in the <a href="https://doaj.org/toc/2694-085X">Directory of Open Access Journals</a> (DOAJ)
+	<br><br>
 
-      <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
+	<div align="right"><p style = "font-size:16px">NEWS</P></div>
 	    <hr>
-          <p>Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
+          View the latest  <a href="news.html">announcements</a> and updates <br><br>
+	    <a href="newsletter.html">Sign up</a> to receive updates straight to your inbox<br><br>
+	    
+	    <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
+	    <hr>
+          Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
 
  <div align="right"><p style = "font-size:16px">GET IN CONTACT</P></div>
- <HR>
- 	<a href="https://dashboard.mailerlite.com/forms/365405/82644009139308087/share">Sign up</a> to get the latest announcements straight to your inbox!<br><br>
-
+<HR>	    	
         Jennifer Klam<br>
         Editorial Assistant<br>
         Open Journal of Control Systems<br>
         <br>
         Email: <a href="mailto: ojcsys@gmail.com">ojcsys@gmail.com</a><br><br>
-
-	<div align="right"><p style = "font-size:16px">IMPACT FACTOR</P></div>
-	<hr>
-Impact factor to come
-</div>
 </div>
       <!-- ########################################################################################## --> 
       <!-- ########################################################################################## --> 

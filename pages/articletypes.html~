@@ -104,6 +104,7 @@ p.capitalize {
         <ul>
           <li><a href="forauthors.html">General Information</a></li>
 	  <li><a href="authorguidelines.html">Guidelines for Authors</a></li>
+	  <li><a href="ss-proposalguidelines.html">Special Section Proposal Guidelines</a></li>
 	  <li><a href="codeocean.html">CodeOcean and IEEE DataPort</a></li>
           <li><a href="faq.html">FAQ</a></li>
 	  <li><a href="keywords.html">OJ-CSYS Keywords List</a></li>
@@ -114,9 +115,11 @@ p.capitalize {
           <li><a href="forreviewers.html">General Information</a></li>
 	  <li><a href="reviewerguidelines.html">Guidelines for Reviewers</a></li>
 	  <li><a href="reviewers2022.html">2022 Reviewers</a></li>
+	  <li><a href="reviewers2023.html">2023 Reviewers</a></li>
+  	  <li><a href="reviewers2024.html">2024 Reviewers</a></li>
         </ul>
       </li>
-      <li><a href="https://css.paperplaza.net/conferences/scripts/start.pl" target="_blank">Submit a Paper</a></li>
+      <li><a href="https://css.paperplaza.net/journals/ojcs/scripts/login.pl" target="_blank">Submit a Paper</a></li>
       <li><a href="getinvolved.html">Get Involved</a></li>
     </ul>
     <!-- ################################################################################################ -->
@@ -134,7 +137,7 @@ p.capitalize {
       <p style = "font-size:24px;color:#00629B">Article Types & Requirements</p>
         <p>The journal welcomes the submission of publications that can show how a variety of mathematical, statistical, computational and algorithmic techniques can be useful for the analysis and control of engineered, and natural systems. OJ-CSYS also welcomes the submission of papers that promote open access to all research, education, and data pertaining to dynamic systems and controls.</p>
 
-	  <p>The following article types can be currently submitted to the OJ-CSYS. Click on each link to understand the scope of the papers, and submission procedures.</p>
+	  <p>The following article types can be currently submitted to the OJ-CSYS. Click on each link to understand the scope of the papers and submission procedures, and read recently published special articles.</p>
 
 
 	  <style>
@@ -146,13 +149,14 @@ table, th, td
 <a class="btn" href="#position_proposals">Position/Outlook Papers</a><br><br>
 <a class="btn" href="#tools_papers">Tools Papers</a>
 <a class="btn" href="#turnaround_time">Turnaround Time</a>
+<a class="btn" href="specialpapers.html">Read Special Articles</a>
 
  <br><br><hr><br>	  
 
 
 <a id="regular_papers"><p style="font-size:24px;color:#00629B">Regular Papers</p></a>
       <p>These are standard journal articles, presenting significant research on analysis relevant for dynamic control systems and/or applications. These papers can extend work presented at a previous conference. Papers should be written in as concise a manner as possible. </p>
-<p>Length: Twelve pages, not including references, or shorter. A paper longer than 12 pages may incur longer review times and require justification.<p><br>
+<p>Length: Minimum 10 pages, up to 15 pages, not including references. A paper longer than 15 pages may incur longer review times and require justification.<p><br>
 
     <a id="overview_paper_proposals"><p style="font-size:24px;color:#00629B">Overview Paper Proposals</p></a>
 
@@ -164,7 +168,10 @@ table, th, td
   <a id="overview_papers"><p style="font-size:24px;color:#00629B">Overview Papers</p></a>  
         <img class="imgr borderedbox inspace-5" src="../images/articletypes-circuit.jpg" alt="" width="250" height="188" align="bottom">
    <p>Before submitting a full overview paper, authors should submit an overview paper proposal, which will be encouraged or discouraged for further development and submission. Overview papers are mostly survey papers, but with tutorial-like elements. As such, these papers should provide an introduction to the topic being surveyed, starting with key definitions and statements that allow a reader to get a clear grasp of the fundamental components of the area being reviewed. Taking this as a starting point, authors should provide an overview of techniques applied to address main questions in the area, describing pros and cons of an important subset of competing techniques with the goal of finding the limits to the state of the art. Overview papers can make more emphasis on one particular approach to solve a set of questions, but cannot fail to cite competing approaches, to provide the reader with a comprehensive view. As in a literature review, the cited references should give the reader clear information of what to find in the mentioned references.</p>
-  <p>Length: Twenty-five pages, not including references, or shorter. A paper longer than 25 pages may require longer review time and does require justification.</p>
+<p>Length: Twenty-five pages, not including references, or shorter. A paper longer than 25 pages may require longer review time and does require justification.</p>
+<p><b>Read a recently published Overview Paper <a href="https://ieeexplore.ieee.org/document/10366819">here</a>.</b></p>
+
+
 <br>	
   <a id="position_proposals"> <p style="font-size:24px;color:#00629B">Position/Outlook Paper Proposal</p></a>
          <p>Unsolicited position paper proposals may be submitted to the journal. In this proposal, the authors should indicate i) whether their paper is of technical type or of perspective type, ii) provide a solid motivation of why these types of problems are of interest, iii) concisely describe the issues and approaches that will be included in the paper. After this, the position paper will be either encouraged or discouraged for submission. The following criteria will be employed to encourage a position paper: a) the accredited knowledge/area of expertise/authority of at least one of the co-authors in the proposed area, b) the timeliness of the topic.</p>
@@ -177,7 +184,9 @@ table, th, td
 <p>  These are short papers presenting state-of-the-art assessments, future challenges, and offer new insights or resolutions in dynamic systems and controls. Each paper should strive to be accessible to a broad audience, but there are two possible styles for position papers:</p> 
 	<p>Technical: This paper advocates for a certain technical approach of the current research areas (and, the opposite, argue that a certain set of approaches are inadequate to do so). These papers need to be supported with technical arguments and evidence, providing critical overview of past research (quick state-of-the-art review), a short technical description of the proposed approach, and convincing arguments of why such approaches are the most promising. They can conclude with a technical commentary on current research activities and challenges in the area of interest. </p>
 	<p>Perspective: A perspective position paper can provide a personal analysis of a scientific problem in the area of Dynamic Systems and Controls. Broadly, a position paper can identify key research challenges or questions for the adoption of a control system technology, offer a personal perspective of these problems, and propose solutions to those stakeholders who can play an important role in this adoption (researchers, educators, regulatory agencies, social stakeholders). </p>
-	<p>Length: Three to six pages, not including references. A paper longer than six pages requires justification.</p>
+<p>Length: Three to six pages, not including references. A paper longer than six pages requires justification.</p>
+<p><b>Read recently published Position Papers <a href="https://ieeexplore.ieee.org/document/10041993">here</a> and <a href="https://ieeexplore.ieee.org/document/10179178">here</a>.</b></p>
+
 <br>
 
  <a id="tools_papers"> <p style="font-size:24px;color:#00629B">Tools Papers</p></a>
@@ -189,23 +198,33 @@ table, th, td
  	  <p>&nbsp;&nbsp;&nbsp;&#62; Open-access software description: This is the description of newly developed software and open-access software that has been developed by the authors. A comparison with similar software should be made, and arguments for the adoption of such software should be provided. For example, this can be done by including the results of software implementations and providing data about the usage of the software. The software should be first shared with reviewers via a link to a repository provided by the authors. Then, this repository should be permanently uploaded into the free IEEE Code Ocean. </p>
 	    <p>&nbsp;&nbsp;&nbsp;&#62; Dataset description: This is the description of a data set that has been obtained and made freely available by the authors. The data will be included in the IEEE DataPort free repository. The data can be synthetic or real data. If synthetic, the paper should describe how it was created in detail, and should make the case why this data is good enough to perform a given experiment. If real, the data should be completely anonymized. The paper should describe the data format, and how it can be imported and managed. It is not necessary to include a case study showcasing a data usage, but it would add value to the paper description. The data should be first shared with reviewers via a link to a repository provided by the authors. Then, this repository should be permanently uploaded into the free IEEE Data Port.</p>
 	  <p>2.  Research case-study outcomes: This is the report on the outcomes of a research study that is performed on a benchmarking test or a sophisticated simulation (high-fidelity, with hardware in the loop.)  Though encouraged, the data of the research case study does not have to be widely shared, but the authors have to be ready to disclose any amount of information and data that can be needed for reviewing purposes. These research case studies have to be of significant nature, with the goal of bringing the application of a control methodology closer to solving real-world problems. These papers should compare the benefits of a given methodology against an accepted baseline.</p>
-	  <p>Length: Twelve pages, not including references. Longer papers will require justification in the cover message.</p>
+	  <p>Length: Fifteen pages, not including references. Longer papers will require justification in the cover message.</p>
+<p><b>Read recently published Tools Papers <a href="https://ieeexplore.ieee.org/document/9953534">here</a> and <a href="https://ieeexplore.ieee.org/document/9996578">here</a>.</b></p>
 	  <br>
 	  
 <table style="width:100%">
   <tr>
     <td>
 	 <a id="turnaround_time"><p style="font-size:22px"><b>Turnaround Time</b></p></a>  
-	 <p>The OJ-CSYS strives for a short peer-review process that begins on the date of initial manuscript submission. For accepted papers, publication on IEEE Explore is estimated at 22 weeks after initial submission.</p>
-	  <p>To ensure a quicker turnaround time, after the initial round of review, OJ-CSYS papers may only be revised one time. We do not use the (major revision) decision type. We only use R (reject), AM (accept with minor revision), and A (accept).</p>
+	 <p>The OJ-CSYS strives for a short peer-review process that begins on the date of initial manuscript submission. For accepted papers, publication on IEEE Xplore is estimated at 24 weeks after initial submission.</p>
+	 <p>To ensure a quicker turnaround time, after the initial round of review, OJ-CSYS papers may only be revised one time. We do not use the (major revision) decision type. We only use R (reject), AM (accept with minor revision), and A (accept).</p>
+	<p> Schedule:<br>
+	  <ul>
+	    <li>Notification of reviews and recommendations: 10 weeks after initial submission</li>
+<li>Final notification of regular papers: 20 weeks after initial submission</li>
+	    <li>Manuscript publication on IEEE Xplore: 24 weeks after initial submission</li>
+	    </ul>
+
 	  </p>In case authors wish to do so, they can submit a new manuscript that has received an R decision due to a major revision being necessary. In this case, the review process will be restarted, and a response to the previous reviewers will have to be uploaded with the new submission.</p>
   
-<p style="font-size:22px"><b>Coming Soon</b></p>
+<a id="coming_soon"><p style="font-size:22px"><b>Coming Soon</b></p></a>
           <p>In addition, future paper types and submission procedures will be announced soon for the following:</p>
 
-&nbsp; &#62; Outreach papers, education-in-controls case-study papers
-<br>&nbsp; &#62; R-articles
-<br>&nbsp; &#62; M-articles
+	  <ul>
+	    <li>Tools for controls education<br>
+These type of papers provide detailed information and access to online instructional materials that can help instructors rethink controls education to make technical topics more motivated, widely accessible, and engaging to high-school/undergraduate students. The tutorials can be motivated by student competitions (existing or new), covering topics at the intersection of controls with other disciplines (e.g. robotics, systems biology, etc.) to provide attractive case studies that demonstrate the power of controls-related concepts. The material can cover the contents of newly developed courses, however, they should describe how these differ from existing standard ones. Description of an innovative instructional approach, e.g., project-based learning, experiential learning, flipped classroom, virtual or classical lecture system, is welcome. Authors should provide an evaluation of the reception of the material and engagement of students, as well as identify challenges and how they were overcome.<br></li>
+	    <li>R-articles</li>
+	    </ul>
 </td>
   </tr>
 </table>
@@ -230,29 +249,35 @@ table, th, td
         <ul>
           <li><a href="authorguidelines.html">Author Guidelines</a></li>
             </ul>
+	<ul>
+	  <li><a href="ss-proposalguidelines.html">Special Section Proposal Guidelines</a>
+	    </ul>
       </nav>
 <BR>
-           <div align="right"><p style = "font-size:16px">NEWS</P></div>
+	<div align="right"><p style = "font-size:16px">IMPACT FACTOR</P></div>
+	<hr>
+	Impact Factor of 1.2<br><br>
+	<a href="https://www.scopus.com/sourceid/21101257208" target="_blank">Scopus</a> CiteScore of 2.3<br><br>
+	Indexed in the <a href="https://doaj.org/toc/2694-085X">Directory of Open Access Journals</a> (DOAJ)
+	<br><br>
+
+	<div align="right"><p style = "font-size:16px">NEWS</P></div>
 	    <hr>
-          <p>View the latest  <a href="news.html">announcements</a> and updates <br><br>
+            View the latest  <a href="news.html">announcements</a> and updates <br><br>
+	    	    <a href="newsletter.html">Sign up</a> to receive updates straight to your inbox<br><br>
+
 
 	    <div align="right"><p style = "font-size:16px">CURRENT ARTICLES</P></div>
 	    <hr>
-          <p>Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
+          Visit <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a> to download current articles<br><br>
 
  <div align="right"><p style = "font-size:16px">GET IN CONTACT</P></div>
-<HR>	    
- 	<a href="https://dashboard.mailerlite.com/forms/365405/82644009139308087/share">Sign up</a> to get the latest announcements straight to your inbox!<br><br>
-
+<HR>	    	
         Jennifer Klam<br>
         Editorial Assistant<br>
         Open Journal of Control Systems<br>
         <br>
         Email: <a href="mailto: ojcsys@gmail.com">ojcsys@gmail.com</a><br><br>
-
-	<div align="right"><p style = "font-size:16px">IMPACT FACTOR</P></div>
-	<hr>
-Impact factor to come
 
       <!-- ################################################################################################ -->
     </div>

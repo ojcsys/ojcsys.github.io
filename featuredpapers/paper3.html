@@ -105,20 +105,20 @@ p.capitalize {
     <div class="content three_quarter first"> 
       <!-- ################################################################################################ -->
       <p style = "font-size:24px;color:#0069A8">Recent Articles and Multimedia</p>
-      <p ><b> Paper Title:</b> </font>On the Equivalence of Sensory and Incremental Nonlinear Dynamic Inversion
+      <p ><b> Paper Title:</b> </font>How Much Do Your Models Disagree? Adaptive MPC Safety from Ensemble Uncertainty
 </p>
 
-<p><b>Authors:</b> Simon F. Hafner, Tomaso M. L. De Ponti, and Ewoud J. J. Smeur</p>
+<p><b>Author:</b> Ali Baheri</p>
 
 
-<p>Nonlinear Dynamic Inversion (NDI)–based control laws, such as incremental NDI and the recently introduced sensory NDI, differ primarily in the allocation of pseudo-controls and are widely applied in the aerospace control domain. This paper provides a rigorous comparison of both methods, demonstrating their equivalence for specific systems and control-allocation designs, and presents flight-test results of sensory NDI on a Variable Skew Quad Plane. </p>
+<p>When a controller relies on a learned model of its dynamics, prediction errors are small where the model is accurate and large where it is not, so a fixed safety margin is at once too cautious in some regions and too aggressive in others. This paper introduces Ensemble-Aware Model Predictive Control (EA-MPC), which converts the disagreement among an ensemble of learned models into state-dependent safety margins derived from concentration inequalities. </p>
 
-      <p>  READ MORE ABOUT THIS PAPER <a href="https://ieeexplore.ieee.org/document/11417726" target="_blank"> <b> HERE </b> </a>
+      <p>  READ MORE ABOUT THIS PAPER <a href="https://ieeexplore.ieee.org/document/11627318" target="_blank"> <b> HERE </b> </a>
       </p><br>
 
       <figure>
-  <img src="paperimage/25-0093-hafne1-3669038-large.gif" style="width:100%"><br>
-  <figcaption><i><br>Block diagram of the sensory NDI controller, where RM/EC represents the reference model and error controller, A(s) the actuator and H(z) the sensor and estimator dynamics.</i></figcaption>
+  <img src="paperimage/26-0022.jpg" style="width:100%"><br>
+  <figcaption><i><br>Closed-loop trajectories around an obstacle under EA-MPC. The dashed circles show the inflated safety radius produced by each concentration bound, which widens wherever the model ensemble disagrees.</i></figcaption>
 </figure>
 
       <!-- ################################################################################################ -->
